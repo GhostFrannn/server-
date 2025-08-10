@@ -1,0 +1,1363 @@
+{
+  "mcwfencesbop:recipes/flowering_oak_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/fir": {
+    "criteria": {
+      "has_acacia": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/yellow_autumn_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/origin_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/maple_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/orange_autumn_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/hellbark_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/magic": {
+    "criteria": {
+      "has_acacia": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/jacaranda_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "giacomos_fishing_net:recipes/misc/unlock_fishmeal_from_cooked_salmon": {
+    "criteria": {
+      "has_recipes": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/umbran_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "giacomos_fishing_net:recipes/misc/unlock_fishmeal_from_cooked_cod": {
+    "criteria": {
+      "has_recipes": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/rainbow_birch_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/hellbark": {
+    "criteria": {
+      "has_acacia": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/dead_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/snowblossom_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/umbran": {
+    "criteria": {
+      "has_acacia": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/willow_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/willow": {
+    "criteria": {
+      "has_acacia": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/palm_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/metal": {
+    "criteria": {
+      "has_deepslate": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "giacomos_fishing_net:recipes/misc/unlock_fishmeal_from_tropical_fish": {
+    "criteria": {
+      "has_recipes": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/magic_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/mahogany": {
+    "criteria": {
+      "has_acacia": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/palm": {
+    "criteria": {
+      "has_acacia": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/redwood_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/jacaranda": {
+    "criteria": {
+      "has_acacia": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "giacomos_fishing_net:recipes/misc/unlock_fishmeal_from_pufferfish": {
+    "criteria": {
+      "has_recipes": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/dead": {
+    "criteria": {
+      "has_acacia": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/mahogany_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/essence": {
+    "criteria": {
+      "requirement_1": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/redwood": {
+    "criteria": {
+      "has_acacia": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/fir_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-09 16:56:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-08-09 16:56:46 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-08-09 16:56:46 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-08-09 16:56:46 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-08-09 16:56:46 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-08-09 16:56:46 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/root": {
+    "criteria": {
+      "auto": "2025-08-09 16:56:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2025-08-09 20:58:08 +0000",
+      "minecraft:cherry_grove": "2025-08-09 21:30:52 +0000",
+      "minecraft:sunflower_plains": "2025-08-09 21:10:33 +0000",
+      "minecraft:birch_forest": "2025-08-09 20:13:25 +0000",
+      "minecraft:windswept_hills": "2025-08-09 20:16:55 +0000",
+      "minecraft:beach": "2025-08-09 18:00:36 +0000",
+      "minecraft:dark_forest": "2025-08-09 20:51:54 +0000",
+      "minecraft:mangrove_swamp": "2025-08-09 21:39:58 +0000",
+      "minecraft:sparse_jungle": "2025-08-09 20:38:45 +0000",
+      "minecraft:river": "2025-08-09 17:29:16 +0000",
+      "minecraft:forest": "2025-08-09 19:42:21 +0000",
+      "minecraft:windswept_forest": "2025-08-09 20:16:52 +0000",
+      "minecraft:jungle": "2025-08-09 20:39:30 +0000",
+      "minecraft:ocean": "2025-08-10 19:26:50 +0000",
+      "minecraft:flower_forest": "2025-08-09 21:11:11 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-09 20:16:24 +0000",
+      "minecraft:savanna": "2025-08-09 16:56:47 +0000",
+      "minecraft:plains": "2025-08-09 17:14:24 +0000"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-08-09 16:58:24 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia_planks": {
+    "criteria": {
+      "has_planks": "2025-08-09 16:58:44 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_1_0": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:58:44 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_3_0": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:58:44 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_1_0": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:58:44 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_3_0": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:58:44 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_4_0": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:58:44 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_0_0": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:58:44 +0000",
+      "requirement0": "2025-08-09 16:59:34 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/misc/disk_0_0": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:58:44 +0000",
+      "requirement0": "2025-08-09 16:59:34 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_2_0": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:58:44 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_2_0": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:58:44 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_4_0": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:58:44 +0000"
+    },
+    "done": false
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-08-09 16:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-09 16:58:50 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-08-09 16:59:01 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_1_1": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:59:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-09 16:59:16 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_3_1": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:59:16 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_1_1": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:59:16 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_3_1": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:59:16 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_4_1": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:59:16 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_0_1": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:59:16 +0000",
+      "requirement0": "2025-08-09 16:59:34 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/misc/disk_0_1": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:59:16 +0000",
+      "requirement0": "2025-08-09 16:59:34 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2025-08-09 16:59:16 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_2_1": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:59:16 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_2_1": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:59:16 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_4_1": {
+    "criteria": {
+      "requirement1": "2025-08-09 16:59:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-09 16:59:27 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_0_2": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:06:57 +0000",
+      "requirement0": "2025-08-09 16:59:34 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_0_3": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:50:19 +0000",
+      "requirement0": "2025-08-09 16:59:34 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_0_4": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:03:40 +0000",
+      "requirement0": "2025-08-09 16:59:34 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/misc/disk_0_3": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:50:19 +0000",
+      "requirement0": "2025-08-09 16:59:34 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/misc/disk_0_4": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:03:40 +0000",
+      "requirement0": "2025-08-09 16:59:34 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/misc/disk_0_2": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:06:57 +0000",
+      "requirement0": "2025-08-09 16:59:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-08-09 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-09 17:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:blaze": "2025-08-09 19:16:59 +0000",
+      "minecraft:skeleton": "2025-08-09 17:01:18 +0000",
+      "minecraft:hoglin": "2025-08-09 19:08:53 +0000",
+      "minecraft:vindicator": "2025-08-09 20:08:43 +0000",
+      "minecraft:magma_cube": "2025-08-09 17:30:49 +0000",
+      "minecraft:piglin_brute": "2025-08-09 19:08:54 +0000",
+      "minecraft:spider": "2025-08-09 17:12:11 +0000",
+      "minecraft:creeper": "2025-08-09 18:42:21 +0000",
+      "minecraft:zombified_piglin": "2025-08-09 19:10:25 +0000",
+      "minecraft:wither_skeleton": "2025-08-09 20:27:06 +0000",
+      "minecraft:husk": "2025-08-09 17:08:08 +0000",
+      "minecraft:cave_spider": "2025-08-09 17:52:41 +0000",
+      "minecraft:piglin": "2025-08-09 19:09:07 +0000",
+      "minecraft:silverfish": "2025-08-09 18:01:44 +0000",
+      "minecraft:enderman": "2025-08-09 20:56:54 +0000",
+      "minecraft:vex": "2025-08-09 20:54:29 +0000",
+      "minecraft:zombie": "2025-08-09 17:34:18 +0000",
+      "quark:foxhound": "2025-08-09 19:10:18 +0000",
+      "minecraft:zombie_villager": "2025-08-09 19:40:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-08-09 17:01:18 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/blowgun": {
+    "criteria": {
+      "blowgun": "2025-08-09 17:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-08-09 20:36:15 +0000",
+      "cooked_beef": "2025-08-09 20:06:19 +0000",
+      "pumpkin_pie": "2025-08-09 19:05:47 +0000",
+      "bread": "2025-08-09 17:06:50 +0000",
+      "beetroot": "2025-08-09 17:01:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-09 17:01:54 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/diorite": {
+    "criteria": {
+      "has_planks": "2025-08-09 17:02:36 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-08-09 17:02:52 +0000",
+      "opened_chest": "2025-08-09 17:03:38 +0000"
+    },
+    "done": false
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-08-09 17:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-08-09 17:03:13 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-08-09 17:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-09 17:03:39 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_1_4": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:03:40 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_3_4": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:03:40 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_1_4": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:03:40 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_3_4": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:03:40 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_4_4": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:03:40 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_2_4": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:03:40 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_2_4": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:03:40 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_4_4": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:03:40 +0000"
+    },
+    "done": false
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-08-09 17:06:53 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_1_2": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:06:57 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_3_2": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:06:57 +0000"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/gutters": {
+    "criteria": {
+      "has_planks": "2025-08-09 17:06:57 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/misc/disk_1_2": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:06:57 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_3_2": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:06:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-09 17:06:57 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/misc/disk_4_2": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:06:57 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_2_2": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:06:57 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_2_2": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:06:57 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_4_2": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:06:57 +0000"
+    },
+    "done": false
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ingot": "2025-08-09 17:12:33 +0000"
+    },
+    "done": false
+  },
+  "1_splatus:spellbound/weapon/a": {
+    "criteria": {
+      "dagger": "2025-08-09 17:13:01 +0000",
+      "mega_hammer": "2025-08-09 17:31:03 +0000"
+    },
+    "done": false
+  },
+  "1_splatus:spellbound/weapon/dagger": {
+    "criteria": {
+      "dagger": "2025-08-09 17:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-09 17:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-08-09 17:13:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-08-09 17:27:41 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/thorn_blossom": {
+    "criteria": {
+      "blowgun": "2025-08-09 17:30:15 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-08-09 17:30:15 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-08-09 17:34:08 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-08-09 17:37:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-08-09 17:37:43 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-08-09 17:50:10 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-08-09 17:50:10 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_1_3": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:50:19 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_3_3": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:50:19 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_1_3": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:50:19 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_3_3": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:50:19 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_4_3": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:50:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-09 17:50:19 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_2_3": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:50:19 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_2_3": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:50:19 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_4_3": {
+    "criteria": {
+      "requirement1": "2025-08-09 17:50:19 +0000"
+    },
+    "done": false
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-08-09 17:50:45 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-08-09 17:51:47 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/moonlight_edge": {
+    "criteria": {
+      "blowgun": "2025-08-09 17:52:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "scrubland": "2025-08-09 17:53:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2025-08-09 20:39:57 +0000",
+      "shrubland": "2025-08-09 21:12:15 +0000",
+      "scrubland": "2025-08-09 17:53:07 +0000",
+      "bayou": "2025-08-09 21:32:14 +0000",
+      "highland": "2025-08-09 20:51:00 +0000",
+      "marsh": "2025-08-09 21:46:53 +0000",
+      "jade_cliffs": "2025-08-09 20:58:32 +0000",
+      "clover_patch": "2025-08-09 20:18:25 +0000",
+      "old_growth_woodland": "2025-08-09 21:37:35 +0000",
+      "crystalline_chasm": "2025-08-09 19:13:10 +0000",
+      "field": "2025-08-09 20:57:17 +0000",
+      "orchard": "2025-08-09 20:52:40 +0000",
+      "moor": "2025-08-09 20:50:56 +0000",
+      "mediterranean_forest": "2025-08-09 21:31:56 +0000",
+      "coniferous_forest": "2025-08-09 20:57:09 +0000",
+      "spider_nest": "2025-08-09 20:19:39 +0000",
+      "forested_field": "2025-08-09 20:58:22 +0000",
+      "redwood_forest": "2025-08-09 20:19:03 +0000",
+      "visceral_heap": "2025-08-09 19:08:21 +0000",
+      "seasonal_orchard": "2025-08-10 19:37:14 +0000",
+      "seasonal_forest": "2025-08-10 19:37:10 +0000",
+      "volcano": "2025-08-09 21:40:48 +0000",
+      "rocky_rainforest": "2025-08-10 19:20:39 +0000",
+      "volcanic_plains": "2025-08-09 21:41:17 +0000",
+      "lavender_field": "2025-08-09 21:11:57 +0000",
+      "grassland": "2025-08-09 20:51:22 +0000",
+      "prairie": "2025-08-09 21:12:10 +0000",
+      "undergrowth": "2025-08-09 19:07:20 +0000",
+      "rainforest": "2025-08-09 20:38:52 +0000",
+      "crag": "2025-08-09 20:58:24 +0000"
+    },
+    "done": false
+  },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-08-09 17:59:12 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-08-09 18:00:22 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/granite": {
+    "criteria": {
+      "has_planks": "2025-08-09 18:09:37 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2025-08-09 18:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-09 18:11:09 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-08-09 18:17:31 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/windsweeper": {
+    "criteria": {
+      "blowgun": "2025-08-09 18:25:19 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-08-09 18:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-09 18:33:28 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-08-09 18:36:52 +0000"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-08-09 18:38:25 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-08-09 18:38:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-09 18:50:45 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-08-09 18:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-09 19:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-09 19:07:19 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-08-09 19:07:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-08-09 19:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-08-09 19:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-08-09 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-09 19:08:26 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/nether_staffs": {
+    "criteria": {
+      "blowgun": "2025-08-09 19:08:26 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "banana": "2025-08-09 19:08:29 +0000",
+      "sapling": "2025-08-09 19:14:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-08-09 19:08:45 +0000",
+      "minecraft:soul_sand_valley": "2025-08-09 19:14:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-08-09 19:13:31 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/nether_fortress_core": {
+    "criteria": {
+      "blowgun": "2025-08-09 19:14:31 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2025-08-09 19:14:51 +0000"
+    },
+    "done": true
+  },
+  "silentgear:blaze_gold": {
+    "criteria": {
+      "get_item": "2025-08-09 19:14:58 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/nether_bricks": {
+    "criteria": {
+      "has_planks": "2025-08-09 19:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-08-09 19:27:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "nether_wart": "2025-08-09 19:27:36 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-08-09 19:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-08-09 19:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-08-09 19:39:29 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-08-09 19:42:23 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak_planks": {
+    "criteria": {
+      "has_planks": "2025-08-09 19:47:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-09 19:48:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-08-09 20:05:35 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2025-08-09 20:17:57 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-08-09 20:38:27 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/jungle_planks": {
+    "criteria": {
+      "has_planks": "2025-08-09 20:54:33 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce_planks": {
+    "criteria": {
+      "has_planks": "2025-08-09 20:55:05 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/golden_sea_blade": {
+    "criteria": {
+      "blowgun": "2025-08-09 20:56:01 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-08-09 20:59:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-08-09 20:59:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-08-09 21:11:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-08-09 21:12:50 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/magmus_charger": {
+    "criteria": {
+      "blowgun": "2025-08-09 21:13:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-08-09 21:14:58 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/sandstone": {
+    "criteria": {
+      "has_planks": "2025-08-09 21:16:40 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-08-09 21:28:35 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-08-09 21:32:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-09 21:34:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-09 21:34:23 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/mangrove_planks": {
+    "criteria": {
+      "has_planks": "2025-08-10 08:41:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-08-10 19:30:59 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
