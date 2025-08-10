@@ -73,6 +73,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-08-10 21:52:11 +0000",
       "opened_chest": "2025-08-10 20:45:43 +0000"
     },
     "done": false
@@ -215,6 +216,12 @@
     },
     "done": false
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-08-10 21:51:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-08-10 21:47:57 +0000"
@@ -269,9 +276,27 @@
     },
     "done": true
   },
+  "1_splatus:spellbound/unlocked/moonlight_edge": {
+    "criteria": {
+      "blowgun": "2025-08-10 21:59:17 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-08-10 21:58:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-08-10 21:52:11 +0000"
     },
     "done": true
   },
@@ -438,6 +463,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-08-10 21:55:51 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2025-08-10 20:38:44 +0000"
@@ -485,6 +516,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-08-10 21:51:57 +0000",
       "minecraft:spider": "2025-08-10 21:14:14 +0000",
       "minecraft:zombie": "2025-08-10 21:18:45 +0000"
     },
@@ -572,6 +604,7 @@
     "criteria": {
       "minecraft:sunflower_plains": "2025-08-10 21:09:57 +0000",
       "minecraft:birch_forest": "2025-08-10 21:49:12 +0000",
+      "minecraft:dark_forest": "2025-08-10 21:50:44 +0000",
       "minecraft:river": "2025-08-10 20:46:41 +0000",
       "minecraft:savanna": "2025-08-10 20:38:45 +0000",
       "minecraft:plains": "2025-08-10 20:41:34 +0000"
@@ -629,11 +662,14 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-08-10 21:13:32 +0000",
+      "honey_bottle": "2025-08-10 21:52:09 +0000",
+      "beef": "2025-08-10 21:50:39 +0000",
       "porkchop": "2025-08-10 20:43:55 +0000",
       "mutton": "2025-08-10 21:08:11 +0000",
       "bread": "2025-08-10 21:14:07 +0000",
       "cookie": "2025-08-10 21:04:06 +0000",
-      "melon_slice": "2025-08-10 20:47:09 +0000"
+      "melon_slice": "2025-08-10 20:47:09 +0000",
+      "mushroom_stew": "2025-08-10 21:57:53 +0000"
     },
     "done": false
   },
@@ -702,6 +738,12 @@
       "requirement1": "2025-08-10 21:11:43 +0000"
     },
     "done": false
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-08-10 21:57:53 +0000"
+    },
+    "done": true
   },
   "corail_dt:recipes/misc/disk_0_0": {
     "criteria": {
