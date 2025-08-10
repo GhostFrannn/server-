@@ -1228,3 +1228,35 @@ java.lang.Throwable: null
 [10Aug2025 22:15:34.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Surge Protector]
 [10Aug2025 22:17:46.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/89755, l='ServerLevel[world]', x=1121.01, y=73.00, z=-156.42] died: Vampire Baron Level 1 was slain by Frannn
 [10Aug2025 22:19:25.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 13000]
+[10Aug2025 22:21:56.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn was slain by Vampire Hunter
+[10Aug2025 22:21:56.598] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[10Aug2025 22:21:56.599] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 27 is dual wielding: false
+[10Aug2025 22:21:56.599] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[10Aug2025 22:21:56.599] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[10Aug2025 22:21:56.599] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[10Aug2025 22:25:00.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Joseluuuu013]
+[10Aug2025 22:25:23.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Bat Mode]
+[10Aug2025 22:27:03.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/94068, l='ServerLevel[world]', x=1143.05, y=64.00, z=-150.03] died: Vampire Baron Level 1 was slain by Vampire Baron Level 4
+[10Aug2025 22:28:35.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Joseluuuu013 fell from a high place, they gave up
+[10Aug2025 22:28:57.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 13000]
+[10Aug2025 22:32:56.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has completed the challenge [Regicide]
+[10Aug2025 22:32:56.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/95915, l='ServerLevel[world]', x=1057.51, y=67.00, z=-101.53] died: Vampire Baron Level 1 was slain by Diego
+[10Aug2025 22:33:19.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Sweet Dreams]
+[10Aug2025 22:33:32.219] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/81932, l='ServerLevel[world]', x=1130.28, y=209.00, z=56.40] died, message: 'Unemployed was sucked dry fighting Joseluuuu013'
+[10Aug2025 22:33:37.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Diamonds!]
+[10Aug2025 22:34:03.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/98274, l='ServerLevel[world]', x=1053.65, y=70.00, z=-28.51] died: Vampire Baron Level 3 was slain by Vampire Baron Level 5
+[10Aug2025 22:35:42.579] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/98604, l='ServerLevel[world]', x=1072.78, y=70.00, z=-52.63] died: Vampire Baron Level 2 was slain by Diego
+[10Aug2025 22:36:16.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[10Aug2025 22:36:27.172] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 5'/98507, l='ServerLevel[world]', x=1084.18, y=68.00, z=-62.94] died: Vampire Baron Level 5 was slain by Frannn
+[10Aug2025 22:36:57.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/97286, l='ServerLevel[world]', x=1121.42, y=69.00, z=-34.90] died: Vampire Baron Level 2 was slain by Frannn
+[10Aug2025 22:37:11.134] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/98852, l='ServerLevel[world]', x=1106.67, y=65.00, z=-17.34] died: Vampire Baron Level 1 was slain by Diego
+[10Aug2025 22:37:22.432] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/97802, l='ServerLevel[world]', x=1104.21, y=27.18, z=-26.30] died: Vampire Baron Level 3 was slain by Frannn
+[10Aug2025 22:39:18.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joseluuuu013 lost connection: Disconnected
+[10Aug2025 22:39:18.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 left the game
+[10Aug2025 22:40:55.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 13000]
+[10Aug2025 22:41:35.910] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/102177, l='ServerLevel[world]', x=1054.07, y=71.00, z=-87.07] died: Vampire Baron Level 1 was slain by Vampire Baron Level 1
+[10Aug2025 22:42:11.920] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/102179, l='ServerLevel[world]', x=1054.30, y=67.00, z=-104.33] died: Vampire Baron Level 1 was slain by Diego
+[10Aug2025 22:44:11.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Construction Paper]
+[10Aug2025 22:44:55.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn suffocated in a wall
+[10Aug2025 22:45:00.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[10Aug2025 22:50:05.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 13000]

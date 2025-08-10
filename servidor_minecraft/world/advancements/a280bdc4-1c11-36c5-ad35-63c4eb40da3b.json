@@ -1452,6 +1452,12 @@
     },
     "done": true
   },
+  "silentgear:big_job_tools": {
+    "criteria": {
+      "lumber_axe": "2025-08-10 22:45:57 +0000"
+    },
+    "done": false
+  },
   "vampirism:vampire/bat": {
     "criteria": {
       "action": "2025-08-10 21:21:58 +0000",

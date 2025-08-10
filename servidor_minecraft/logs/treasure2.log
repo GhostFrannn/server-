@@ -1360,3 +1360,5 @@ java.lang.NullPointerException: Cannot invoke "mod.gottsch.forge.gottschcore.wor
 2025-08-10 21:48:49,291 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:162 | AbstractTreasureChestBlock | newBlockEntity | lockStates -> [LockState [slot=LockSlot [index=0, face=NORTH, xOffset=0.5, yOffset=0.6, zOffset=0.05, rotation=0.0], lockItem=null]]
 2025-08-10 21:48:49,291 [Server thread] INFO treasure2 | AbstractTreasureChestBlock.java:163 | AbstractTreasureChestBlock | newBlockEntity | tileEntity -> mod.gottsch.forge.treasure2.core.block.entity.MoldyCrateChestBlockEntity@33ed5c71 @ BlockPos{x=1668, y=87, z=175}
 2025-08-10 21:48:49,316 [Server thread] INFO treasure2 | PitChestFeatureGenerator.java:130 | CHEATER! COMMON chest at coords: 1668 94 175
+2025-08-10 22:21:48,463 [Server thread] INFO treasure2 | WitherChestTopBlock.java:76 | wither chest TOP activated
+2025-08-10 22:40:32,983 [Server thread] INFO treasure2 | WitherChestTopBlock.java:76 | wither chest TOP activated

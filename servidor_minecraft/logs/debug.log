@@ -22277,3 +22277,93 @@ java.lang.Throwable: null
 [10Aug2025 22:19:42.261] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Joseluuuu013 has new faction level vampirism:vampire 4
 [10Aug2025 22:19:58.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Aug2025 22:19:58.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 22:21:56.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn was slain by Vampire Hunter
+[10Aug2025 22:21:56.598] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[10Aug2025 22:21:56.599] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 27 is dual wielding: false
+[10Aug2025 22:21:56.599] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[10Aug2025 22:21:56.599] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[10Aug2025 22:21:56.599] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[10Aug2025 22:21:57.630] [IO-Worker-160/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-165
+[10Aug2025 22:21:57.750] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Frannn has new faction level vampirism:vampire 6
+[10Aug2025 22:22:03.426] [Worker-Main-4/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 4.439s
+[10Aug2025 22:22:03.526] [IO-Worker-163/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-166
+[10Aug2025 22:22:03.526] [IO-Worker-164/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-167
+[10Aug2025 22:24:49.492] [IO-Worker-164/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-168
+[10Aug2025 22:24:58.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 22:24:58.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 22:25:00.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Joseluuuu013]
+[10Aug2025 22:25:00.849] [IO-Worker-166/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-169
+[10Aug2025 22:25:00.849] [IO-Worker-162/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-170
+[10Aug2025 22:25:12.608] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Starting ritual for ServerPlayer['Frannn'/239, l='ServerLevel[world]', x=1023.73, y=62.00, z=-105.02]
+[10Aug2025 22:25:12.651] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Ritual started
+[10Aug2025 22:25:23.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Bat Mode]
+[10Aug2025 22:25:32.604] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Frannn has new faction level vampirism:vampire 7
+[10Aug2025 22:26:32.104] [IO-Worker-166/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-171
+[10Aug2025 22:27:03.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/94068, l='ServerLevel[world]', x=1143.05, y=64.00, z=-150.03] died: Vampire Baron Level 1 was slain by Vampire Baron Level 4
+[10Aug2025 22:27:15.683] [IO-Worker-171/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-172
+[10Aug2025 22:28:35.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Joseluuuu013 fell from a high place, they gave up
+[10Aug2025 22:28:40.242] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Joseluuuu013 has new faction level vampirism:vampire 4
+[10Aug2025 22:28:41.325] [IO-Worker-170/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-173
+[10Aug2025 22:28:57.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 13000]
+[10Aug2025 22:28:57.787] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-175
+[10Aug2025 22:28:57.787] [IO-Worker-173/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-174
+[10Aug2025 22:29:58.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 22:29:58.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 22:31:36.977] [IO-Worker-166/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-176
+[10Aug2025 22:32:46.280] [Worker-Main-3/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 4.3s
+[10Aug2025 22:32:56.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has completed the challenge [Regicide]
+[10Aug2025 22:32:56.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/95915, l='ServerLevel[world]', x=1057.51, y=67.00, z=-101.53] died: Vampire Baron Level 1 was slain by Diego
+[10Aug2025 22:33:19.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Sweet Dreams]
+[10Aug2025 22:33:32.219] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/81932, l='ServerLevel[world]', x=1130.28, y=209.00, z=56.40] died, message: 'Unemployed was sucked dry fighting Joseluuuu013'
+[10Aug2025 22:33:37.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Diamonds!]
+[10Aug2025 22:34:01.861] [IO-Worker-166/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-177
+[10Aug2025 22:34:03.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/98274, l='ServerLevel[world]', x=1053.65, y=70.00, z=-28.51] died: Vampire Baron Level 3 was slain by Vampire Baron Level 5
+[10Aug2025 22:34:58.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 22:34:58.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 22:35:37.591] [IO-Worker-177/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-178
+[10Aug2025 22:35:42.579] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/98604, l='ServerLevel[world]', x=1072.78, y=70.00, z=-52.63] died: Vampire Baron Level 2 was slain by Diego
+[10Aug2025 22:36:16.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[10Aug2025 22:36:27.172] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 5'/98507, l='ServerLevel[world]', x=1084.18, y=68.00, z=-62.94] died: Vampire Baron Level 5 was slain by Frannn
+[10Aug2025 22:36:57.769] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/97286, l='ServerLevel[world]', x=1121.42, y=69.00, z=-34.90] died: Vampire Baron Level 2 was slain by Frannn
+[10Aug2025 22:37:11.134] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/98852, l='ServerLevel[world]', x=1106.67, y=65.00, z=-17.34] died: Vampire Baron Level 1 was slain by Diego
+[10Aug2025 22:37:22.432] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/97802, l='ServerLevel[world]', x=1104.21, y=27.18, z=-26.30] died: Vampire Baron Level 3 was slain by Frannn
+[10Aug2025 22:38:45.665] [IO-Worker-177/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-179
+[10Aug2025 22:38:45.666] [IO-Worker-178/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-180
+[10Aug2025 22:39:18.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joseluuuu013 lost connection: Disconnected
+[10Aug2025 22:39:18.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 left the game
+[10Aug2025 22:39:58.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 22:39:58.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 22:40:52.034] [IO-Worker-178/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-181
+[10Aug2025 22:40:55.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 13000]
+[10Aug2025 22:41:35.910] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/102177, l='ServerLevel[world]', x=1054.07, y=71.00, z=-87.07] died: Vampire Baron Level 1 was slain by Vampire Baron Level 1
+[10Aug2025 22:42:11.920] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/102179, l='ServerLevel[world]', x=1054.30, y=67.00, z=-104.33] died: Vampire Baron Level 1 was slain by Diego
+[10Aug2025 22:42:59.270] [IO-Worker-180/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-182
+[10Aug2025 22:43:59.183] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_3
+[10Aug2025 22:43:59.183] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_2
+[10Aug2025 22:43:59.183] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_0
+[10Aug2025 22:43:59.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_1
+[10Aug2025 22:43:59.186] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_0
+[10Aug2025 22:43:59.187] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_iron_golem_normal_0
+[10Aug2025 22:43:59.189] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_2
+[10Aug2025 22:43:59.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_villager_normal_0
+[10Aug2025 22:43:59.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_3
+[10Aug2025 22:43:59.192] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_tent_1
+[10Aug2025 22:44:11.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Construction Paper]
+[10Aug2025 22:44:16.847] [IO-Worker-179/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-183
+[10Aug2025 22:44:55.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn suffocated in a wall
+[10Aug2025 22:44:57.231] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Frannn has new faction level vampirism:vampire 7
+[10Aug2025 22:44:58.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 22:44:58.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 22:45:00.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[10Aug2025 22:45:02.291] [Worker-Main-5/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 4.309s
+[10Aug2025 22:45:45.463] [Server thread/DEBUG] [Silent Gear/]: Diego chopped down a tree with 13 blocks using Iron Saw. Max recursion depth: 13
+[10Aug2025 22:46:06.534] [Server thread/DEBUG] [Silent Gear/]: Frannn chopped down a tree with 11 blocks using Iron Saw. Max recursion depth: 10
+[10Aug2025 22:46:12.225] [Server thread/DEBUG] [Silent Gear/]: Diego chopped down a tree with 11 blocks using Iron Saw. Max recursion depth: 11
+[10Aug2025 22:46:38.568] [IO-Worker-180/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-184
+[10Aug2025 22:49:31.610] [IO-Worker-180/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-185
+[10Aug2025 22:49:31.610] [IO-Worker-184/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-186
+[10Aug2025 22:49:58.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 22:49:58.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 22:50:05.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 13000]
+[10Aug2025 22:50:16.977] [IO-Worker-180/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-187
+[10Aug2025 22:50:41.704] [IO-Worker-186/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-188

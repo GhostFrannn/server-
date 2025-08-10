@@ -222,6 +222,12 @@
     },
     "done": false
   },
+  "corail_dt:recipes/corail_dt/disk_1_3": {
+    "criteria": {
+      "requirement1": "2025-08-10 22:33:37 +0000"
+    },
+    "done": false
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-08-10 21:51:41 +0000"
@@ -324,6 +330,18 @@
     },
     "done": false
   },
+  "corail_dt:recipes/corail_dt/disk_3_3": {
+    "criteria": {
+      "requirement1": "2025-08-10 22:33:37 +0000"
+    },
+    "done": false
+  },
+  "1_splatus:spellbound/weapon/blowgun": {
+    "criteria": {
+      "blowgun": "2025-08-10 22:34:21 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2025-08-10 20:38:44 +0000"
@@ -351,6 +369,12 @@
   "corail_dt:recipes/misc/disk_1_2": {
     "criteria": {
       "requirement1": "2025-08-10 21:11:43 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_1_3": {
+    "criteria": {
+      "requirement1": "2025-08-10 22:33:37 +0000"
     },
     "done": false
   },
@@ -433,6 +457,12 @@
     },
     "done": false
   },
+  "corail_dt:recipes/misc/disk_3_3": {
+    "criteria": {
+      "requirement1": "2025-08-10 22:33:37 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-10 21:11:43 +0000"
@@ -504,9 +534,16 @@
       "clover_patch": "2025-08-10 21:21:14 +0000",
       "orchard": "2025-08-10 21:20:06 +0000",
       "lavender_forest": "2025-08-10 21:20:02 +0000",
+      "redwood_forest": "2025-08-10 22:38:17 +0000",
       "lavender_field": "2025-08-10 21:11:46 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-10 22:33:19 +0000"
+    },
+    "done": true
   },
   "corail_dt:tutorial/root": {
     "criteria": {
@@ -647,6 +684,12 @@
     },
     "done": false
   },
+  "corail_dt:recipes/misc/disk_4_3": {
+    "criteria": {
+      "requirement1": "2025-08-10 22:33:37 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/misc/disk_4_1": {
     "criteria": {
       "requirement1": "2025-08-10 21:47:57 +0000"
@@ -705,9 +748,10 @@
   },
   "vampirism:vampire/bat": {
     "criteria": {
+      "action": "2025-08-10 22:25:23 +0000",
       "main": "2025-08-10 21:21:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
@@ -745,6 +789,18 @@
     },
     "done": false
   },
+  "corail_dt:recipes/corail_dt/disk_0_3": {
+    "criteria": {
+      "requirement1": "2025-08-10 22:33:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-10 22:33:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-08-10 21:57:53 +0000"
@@ -754,6 +810,12 @@
   "corail_dt:recipes/misc/disk_0_0": {
     "criteria": {
       "requirement1": "2025-08-10 20:41:53 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_0_3": {
+    "criteria": {
+      "requirement1": "2025-08-10 22:33:37 +0000"
     },
     "done": false
   },
@@ -811,6 +873,12 @@
     },
     "done": true
   },
+  "corail_dt:recipes/corail_dt/disk_2_3": {
+    "criteria": {
+      "requirement1": "2025-08-10 22:33:37 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/corail_dt/disk_2_2": {
     "criteria": {
       "requirement1": "2025-08-10 21:11:43 +0000"
@@ -853,11 +921,24 @@
     },
     "done": false
   },
+  "corail_dt:recipes/misc/disk_2_3": {
+    "criteria": {
+      "requirement1": "2025-08-10 22:33:37 +0000"
+    },
+    "done": false
+  },
   "mcwfencesbop:recipes/redwood": {
     "criteria": {
       "has_acacia": "2025-08-10 20:38:44 +0000"
     },
     "done": true
+  },
+  "1_splatus:spellbound/weapon/a": {
+    "criteria": {
+      "blowgun": "2025-08-10 22:34:21 +0000",
+      "mega_hammer": "2025-08-10 22:31:53 +0000"
+    },
+    "done": false
   },
   "corail_dt:recipes/corail_dt/disk_4_1": {
     "criteria": {
@@ -868,6 +949,12 @@
   "corail_dt:recipes/corail_dt/disk_4_0": {
     "criteria": {
       "requirement1": "2025-08-10 20:41:53 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_4_3": {
+    "criteria": {
+      "requirement1": "2025-08-10 22:33:37 +0000"
     },
     "done": false
   },
