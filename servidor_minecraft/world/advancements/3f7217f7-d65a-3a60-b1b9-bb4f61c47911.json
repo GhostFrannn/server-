@@ -41,11 +41,23 @@
     },
     "done": true
   },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "main": "2025-08-10 21:21:17 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-08-10 20:48:52 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2025-08-10 21:21:17 +0000"
+    },
+    "done": false
   },
   "mcwroofs:recipes/acacia_planks": {
     "criteria": {
@@ -82,6 +94,18 @@
       "has_deepslate": "2025-08-10 20:38:44 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/freeze_kill": {
+    "criteria": {
+      "main": "2025-08-10 21:21:17 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2025-08-10 21:21:17 +0000"
+    },
+    "done": false
   },
   "minecraft:story/iron_tools": {
     "criteria": {
@@ -185,11 +209,23 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-08-10 21:18:32 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/crimson": {
     "criteria": {
       "has_crimson": "2025-08-10 20:38:44 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2025-08-10 21:21:17 +0000"
+    },
+    "done": false
   },
   "mcwfences:recipes/prismarine": {
     "criteria": {
@@ -269,9 +305,21 @@
     },
     "done": false
   },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "main": "2025-08-10 21:21:17 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "lavender_field": "2025-08-10 21:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-10 21:18:09 +0000"
     },
     "done": true
   },
@@ -299,6 +347,12 @@
     },
     "done": false
   },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-08-10 21:21:17 +0000"
+    },
+    "done": true
+  },
   "corail_dt:recipes/misc/disk_3_2": {
     "criteria": {
       "requirement1": "2025-08-10 21:11:43 +0000"
@@ -310,6 +364,12 @@
       "iron": "2025-08-10 21:11:43 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "main": "2025-08-10 21:21:17 +0000"
+    },
+    "done": false
   },
   "mcwfencesbop:recipes/hellbark": {
     "criteria": {
@@ -361,6 +421,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "clover_patch": "2025-08-10 21:21:14 +0000",
+      "orchard": "2025-08-10 21:20:06 +0000",
+      "lavender_forest": "2025-08-10 21:20:02 +0000",
       "lavender_field": "2025-08-10 21:11:46 +0000"
     },
     "done": false
@@ -379,7 +442,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-08-10 21:14:14 +0000"
+      "minecraft:spider": "2025-08-10 21:14:14 +0000",
+      "minecraft:zombie": "2025-08-10 21:18:45 +0000"
     },
     "done": false
   },
@@ -470,6 +534,12 @@
     },
     "done": false
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-10 21:18:22 +0000"
+    },
+    "done": true
+  },
   "mcwfencesbop:recipes/magic_hedge": {
     "criteria": {
       "has_birch": "2025-08-10 20:38:44 +0000"
@@ -481,6 +551,12 @@
       "has_acacia": "2025-08-10 20:38:44 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "main": "2025-08-10 21:21:17 +0000"
+    },
+    "done": false
   },
   "corail_dt:recipes/misc/disk_4_0": {
     "criteria": {
@@ -534,6 +610,12 @@
       "has_acacia": "2025-08-10 20:38:44 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "main": "2025-08-10 21:21:17 +0000"
+    },
+    "done": false
   },
   "minecraft:husbandry/root": {
     "criteria": {

@@ -21494,3 +21494,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Aug2025 21:18:22.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Who You Gonna Call?]
 [10Aug2025 21:18:26.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/59180, l='ServerLevel[world]', x=1022.34, y=66.00, z=-180.80] died: Vampire Baron Level 1 was slain by Vampire Baron Level 3
 [10Aug2025 21:18:32.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Disme A Dozen]
+[10Aug2025 21:19:26.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 21:19:26.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 21:20:38.922] [IO-Worker-111/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[10Aug2025 21:21:17.069] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Joseluuuu013 has new faction level vampirism:vampire 1
+[10Aug2025 21:21:24.008] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Frannn has new faction level vampirism:vampire 4
+[10Aug2025 21:21:24.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Surge Protector]
+[10Aug2025 21:21:24.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Surge Protector]
+[10Aug2025 21:21:33.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Joseluuuu013 to Frannn]
+[10Aug2025 21:21:58.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Bat Mode]
+[10Aug2025 21:22:03.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Frannn was slain by Diego, they gave up
+[10Aug2025 21:22:05.183] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Frannn has new faction level vampirism:vampire 4
+[10Aug2025 21:22:07.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[10Aug2025 21:23:20.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has completed the challenge [Centennial]
+[10Aug2025 21:24:26.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 21:24:26.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 21:25:16.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[10Aug2025 21:25:16.509] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[10Aug2025 21:25:23.115] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[10Aug2025 21:26:46.277] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[10Aug2025 21:28:05.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego lost connection: Disconnected
+[10Aug2025 21:28:05.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego left the game
+[10Aug2025 21:28:56.624] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117

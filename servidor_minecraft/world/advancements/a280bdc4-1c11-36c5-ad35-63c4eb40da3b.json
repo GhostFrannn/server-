@@ -1368,6 +1368,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-08-10 21:21:24 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/freeze_kill": {
     "criteria": {
       "main": "2025-08-10 20:31:04 +0000"
@@ -1430,6 +1436,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-08-10 21:23:20 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/resurrect": {
     "criteria": {
       "resurrected": "2025-08-10 20:49:15 +0000",
@@ -1439,9 +1451,10 @@
   },
   "vampirism:vampire/bat": {
     "criteria": {
+      "action": "2025-08-10 21:21:58 +0000",
       "main": "2025-08-10 20:31:04 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:main/regicide": {
     "criteria": {

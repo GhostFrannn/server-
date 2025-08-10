@@ -1196,6 +1196,12 @@
     },
     "done": false
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-08-10 21:21:24 +0000"
+    },
+    "done": true
+  },
   "1_splatus:spellbound/unlocked/magmus_charger": {
     "criteria": {
       "blowgun": "2025-08-10 19:54:53 +0000"

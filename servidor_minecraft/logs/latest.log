@@ -997,3 +997,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Aug2025 21:18:22.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Who You Gonna Call?]
 [10Aug2025 21:18:26.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/59180, l='ServerLevel[world]', x=1022.34, y=66.00, z=-180.80] died: Vampire Baron Level 1 was slain by Vampire Baron Level 3
 [10Aug2025 21:18:32.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Disme A Dozen]
+[10Aug2025 21:21:24.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Surge Protector]
+[10Aug2025 21:21:24.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Surge Protector]
+[10Aug2025 21:21:33.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Joseluuuu013 to Frannn]
+[10Aug2025 21:21:58.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Bat Mode]
+[10Aug2025 21:22:03.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Frannn was slain by Diego, they gave up
+[10Aug2025 21:22:07.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[10Aug2025 21:23:20.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has completed the challenge [Centennial]
+[10Aug2025 21:25:16.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[10Aug2025 21:28:05.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego lost connection: Disconnected
+[10Aug2025 21:28:05.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego left the game
