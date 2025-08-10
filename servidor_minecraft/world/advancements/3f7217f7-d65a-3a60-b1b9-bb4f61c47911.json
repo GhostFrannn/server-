@@ -1,0 +1,547 @@
+{
+  "mcwfencesbop:recipes/flowering_oak_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-08-10 20:45:08 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-08-10 20:45:43 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-08-10 20:48:52 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia_planks": {
+    "criteria": {
+      "has_planks": "2025-08-10 20:41:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-08-10 20:45:43 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/fir": {
+    "criteria": {
+      "has_acacia": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-10 20:53:49 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/yellow_autumn_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/origin_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/maple_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-08-10 20:44:16 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/orange_autumn_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/hellbark_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/magic": {
+    "criteria": {
+      "has_acacia": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/jacaranda_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "giacomos_fishing_net:recipes/misc/unlock_fishmeal_from_cooked_salmon": {
+    "criteria": {
+      "has_recipes": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_1_0": {
+    "criteria": {
+      "requirement1": "2025-08-10 20:41:53 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/umbran_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "giacomos_fishing_net:recipes/misc/unlock_fishmeal_from_cooked_cod": {
+    "criteria": {
+      "has_recipes": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_3_0": {
+    "criteria": {
+      "requirement1": "2025-08-10 20:41:53 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-08-10 20:52:34 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/misc/disk_1_0": {
+    "criteria": {
+      "requirement1": "2025-08-10 20:41:53 +0000"
+    },
+    "done": false
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/rainbow_birch_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/misc/disk_3_0": {
+    "criteria": {
+      "requirement1": "2025-08-10 20:41:53 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/hellbark": {
+    "criteria": {
+      "has_acacia": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/dead_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/snowblossom_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/umbran": {
+    "criteria": {
+      "has_acacia": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2025-08-10 20:46:53 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/willow_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/root": {
+    "criteria": {
+      "auto": "2025-08-10 20:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-08-10 20:43:10 +0000"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/willow": {
+    "criteria": {
+      "has_acacia": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/palm_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/metal": {
+    "criteria": {
+      "has_deepslate": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-08-10 20:42:00 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "giacomos_fishing_net:recipes/misc/unlock_fishmeal_from_tropical_fish": {
+    "criteria": {
+      "has_recipes": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-08-10 20:46:41 +0000",
+      "minecraft:savanna": "2025-08-10 20:38:45 +0000",
+      "minecraft:plains": "2025-08-10 20:41:34 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/magic_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/mahogany": {
+    "criteria": {
+      "has_acacia": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/misc/disk_4_0": {
+    "criteria": {
+      "requirement1": "2025-08-10 20:41:53 +0000"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "porkchop": "2025-08-10 20:43:55 +0000",
+      "cookie": "2025-08-10 21:04:06 +0000",
+      "melon_slice": "2025-08-10 20:47:09 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/palm": {
+    "criteria": {
+      "has_acacia": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/redwood_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-08-10 20:40:11 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/jacaranda": {
+    "criteria": {
+      "has_acacia": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-10 20:43:55 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "giacomos_fishing_net:recipes/misc/unlock_fishmeal_from_pufferfish": {
+    "criteria": {
+      "has_recipes": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_0_0": {
+    "criteria": {
+      "requirement1": "2025-08-10 20:41:53 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_0_0": {
+    "criteria": {
+      "requirement1": "2025-08-10 20:41:53 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/dead": {
+    "criteria": {
+      "has_acacia": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfencesbop:recipes/mahogany_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/essence": {
+    "criteria": {
+      "requirement_1": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_2_0": {
+    "criteria": {
+      "requirement1": "2025-08-10 20:41:53 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-10 20:42:00 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak_planks": {
+    "criteria": {
+      "has_planks": "2025-08-10 20:45:22 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/misc/disk_2_0": {
+    "criteria": {
+      "requirement1": "2025-08-10 20:41:53 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/redwood": {
+    "criteria": {
+      "has_acacia": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_4_0": {
+    "criteria": {
+      "requirement1": "2025-08-10 20:41:53 +0000"
+    },
+    "done": false
+  },
+  "mcwfencesbop:recipes/fir_hedge": {
+    "criteria": {
+      "has_birch": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

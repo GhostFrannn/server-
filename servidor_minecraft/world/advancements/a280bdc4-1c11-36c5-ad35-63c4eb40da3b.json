@@ -1077,6 +1077,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-08-10 20:43:08 +0000"
+    },
+    "done": false
+  },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2025-08-09 18:38:25 +0000"
@@ -1373,6 +1379,12 @@
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-08-10 21:01:36 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/kill_mother": {
     "criteria": {
       "main": "2025-08-10 20:31:04 +0000"
@@ -1394,9 +1406,10 @@
   },
   "vampirism:vampire/extra_storage": {
     "criteria": {
+      "blood_container": "2025-08-10 20:45:18 +0000",
       "main": "2025-08-10 20:31:04 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:end/elytra": {
     "criteria": {
@@ -1418,15 +1431,22 @@
   },
   "vampirism:vampire/resurrect": {
     "criteria": {
+      "resurrected": "2025-08-10 20:49:15 +0000",
       "main": "2025-08-10 20:31:04 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/bat": {
     "criteria": {
       "main": "2025-08-10 20:31:04 +0000"
     },
     "done": false
+  },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2025-08-10 20:58:31 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

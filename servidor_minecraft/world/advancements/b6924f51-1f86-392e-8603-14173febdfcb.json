@@ -1184,6 +1184,12 @@
     },
     "done": false
   },
+  "iceandfire:iceandfire/pixie_wand": {
+    "criteria": {
+      "bestiary": "2025-08-10 20:43:06 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/yuck": {
     "criteria": {
       "main": "2025-08-10 20:27:10 +0000"
@@ -1207,6 +1213,12 @@
       "main": "2025-08-10 20:27:10 +0000"
     },
     "done": false
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-08-10 20:49:44 +0000"
+    },
+    "done": true
   },
   "mcwroofs:recipes/oak": {
     "criteria": {
