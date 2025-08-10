@@ -1180,6 +1180,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-08-10 19:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-08-10 19:52:51 +0000"
+    },
+    "done": true
+  },
   "vampirism:main/vampire_forest": {
     "criteria": {
       "main": "2025-08-10 19:37:18 +0000"

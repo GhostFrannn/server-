@@ -907,3 +907,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Aug2025 19:37:55.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Mine? Mine? Mine?]
 [10Aug2025 19:38:09.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Removed effect Sanguinare Vampiris from Diego]
 [10Aug2025 19:38:33.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Diego to Frannn]
+[10Aug2025 19:45:11.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Chompy]
+[10Aug2025 19:45:29.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18642ms or 372 ticks behind
+[10Aug2025 19:46:40.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[10Aug2025 19:49:53.561] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/158, l='ServerLevel[world]', x=174.28, y=71.56, z=96.70] died, message: 'Armorer was slain by Zombie using [Dagger]'
+[10Aug2025 19:50:24.838] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[10Aug2025 19:51:31.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[10Aug2025 19:51:51.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 1000]
+[10Aug2025 19:52:51.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has reached the goal [Sky's the Limit]
+[10Aug2025 19:53:00.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has reached the goal [Sky's the Limit]
+[10Aug2025 19:55:18.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Diego to Frannn]
