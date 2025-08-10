@@ -1217,6 +1217,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-08-10 22:17:21 +0000",
       "nether_wart": "2025-08-10 20:02:25 +0000"
     },
     "done": false
@@ -1290,9 +1291,10 @@
   },
   "vampirism:vampire/bat": {
     "criteria": {
+      "action": "2025-08-10 22:15:14 +0000",
       "main": "2025-08-10 20:27:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwroofs:recipes/concrete": {
     "criteria": {

@@ -1222,3 +1222,9 @@ java.lang.Throwable: null
 [10Aug2025 22:03:51.386] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
 [10Aug2025 22:07:29.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Joseluuuu013 to Frannn]
 [10Aug2025 22:09:11.768] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 4'/87889, l='ServerLevel[world]', x=1093.80, y=35.00, z=-29.85] died: Vampire Baron Level 4 was slain by Frannn
+[10Aug2025 22:11:45.500] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/81919, l='ServerLevel[world]', x=1170.47, y=63.00, z=35.50] died, message: 'Butcher hit the ground too hard'
+[10Aug2025 22:12:43.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[10Aug2025 22:15:14.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Bat Mode]
+[10Aug2025 22:15:34.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Surge Protector]
+[10Aug2025 22:17:46.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/89755, l='ServerLevel[world]', x=1121.01, y=73.00, z=-156.42] died: Vampire Baron Level 1 was slain by Frannn
+[10Aug2025 22:19:25.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 13000]

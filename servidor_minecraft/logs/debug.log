@@ -22257,3 +22257,23 @@ java.lang.Throwable: null
 [10Aug2025 22:09:38.065] [IO-Worker-154/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-157
 [10Aug2025 22:09:58.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Aug2025 22:09:58.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 22:11:45.500] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/81919, l='ServerLevel[world]', x=1170.47, y=63.00, z=35.50] died, message: 'Butcher hit the ground too hard'
+[10Aug2025 22:12:43.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[10Aug2025 22:12:43.314] [IO-Worker-154/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-158
+[10Aug2025 22:14:00.699] [IO-Worker-158/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-159
+[10Aug2025 22:14:58.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 22:14:58.961] [IO-Worker-159/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-160
+[10Aug2025 22:14:58.962] [IO-Worker-159/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-161
+[10Aug2025 22:14:58.963] [IO-Worker-159/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-162
+[10Aug2025 22:14:59.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 22:15:14.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Bat Mode]
+[10Aug2025 22:15:34.253] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Joseluuuu013 has new faction level vampirism:vampire 2
+[10Aug2025 22:15:34.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Surge Protector]
+[10Aug2025 22:17:05.703] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Joseluuuu013 has new faction level vampirism:vampire 3
+[10Aug2025 22:17:46.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/89755, l='ServerLevel[world]', x=1121.01, y=73.00, z=-156.42] died: Vampire Baron Level 1 was slain by Frannn
+[10Aug2025 22:19:19.276] [IO-Worker-160/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-163
+[10Aug2025 22:19:19.938] [IO-Worker-160/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-164
+[10Aug2025 22:19:25.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 13000]
+[10Aug2025 22:19:42.261] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Joseluuuu013 has new faction level vampirism:vampire 4
+[10Aug2025 22:19:58.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 22:19:58.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
