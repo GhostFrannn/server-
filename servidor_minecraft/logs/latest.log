@@ -1007,3 +1007,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Aug2025 21:25:16.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
 [10Aug2025 21:28:05.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego lost connection: Disconnected
 [10Aug2025 21:28:05.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego left the game
+[10Aug2025 21:35:15.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Joseluuuu013 to Frannn]
+[10Aug2025 21:38:17.708] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/67569, l='ServerLevel[world]', x=207.40, y=96.83, z=-819.85] died, message: 'Angry Villager was shot by Vampire Hunter'
+[10Aug2025 21:39:42.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Bloody Stream]
