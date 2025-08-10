@@ -1260,3 +1260,8 @@ java.lang.Throwable: null
 [10Aug2025 22:44:55.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn suffocated in a wall
 [10Aug2025 22:45:00.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
 [10Aug2025 22:50:05.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 13000]
+[10Aug2025 22:53:15.881] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/102828, l='ServerLevel[world]', x=1025.30, y=70.00, z=-96.79] died: Vampire Baron Level 3 was slain by Diego
+[10Aug2025 22:56:42.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/107577, l='ServerLevel[world]', x=1029.85, y=72.00, z=-17.94] died: Vampire Baron Level 1 was slain by Vampire Baron Level 1
+[10Aug2025 22:56:42.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Ka-chink! 1]
+[10Aug2025 22:58:21.300] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/107807, l='ServerLevel[world]', x=934.51, y=71.00, z=-147.53] died: Vampire Baron Level 3 was slain by Vampire Baron Level 5
+[10Aug2025 23:00:58.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [That Strong Enough For You?]

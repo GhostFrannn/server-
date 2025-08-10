@@ -1439,6 +1439,12 @@
     },
     "done": true
   },
+  "silentgear:kachink1": {
+    "criteria": {
+      "kachink": "2025-08-10 22:56:42 +0000"
+    },
+    "done": true
+  },
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-08-10 21:23:20 +0000"
@@ -1454,6 +1460,7 @@
   },
   "silentgear:big_job_tools": {
     "criteria": {
+      "hammer": "2025-08-10 22:55:34 +0000",
       "lumber_axe": "2025-08-10 22:45:57 +0000"
     },
     "done": false

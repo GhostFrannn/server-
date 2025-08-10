@@ -22367,3 +22367,30 @@ java.lang.Throwable: null
 [10Aug2025 22:50:05.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 13000]
 [10Aug2025 22:50:16.977] [IO-Worker-180/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-187
 [10Aug2025 22:50:41.704] [IO-Worker-186/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-188
+[10Aug2025 22:52:25.990] [IO-Worker-186/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-189
+[10Aug2025 22:52:25.990] [IO-Worker-187/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-190
+[10Aug2025 22:53:15.881] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/102828, l='ServerLevel[world]', x=1025.30, y=70.00, z=-96.79] died: Vampire Baron Level 3 was slain by Diego
+[10Aug2025 22:53:34.588] [IO-Worker-187/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-191
+[10Aug2025 22:54:58.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 22:54:58.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 22:55:00.582] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Starting ritual for ServerPlayer['Frannn'/239, l='ServerLevel[world]', x=1023.52, y=62.00, z=-104.82]
+[10Aug2025 22:55:00.600] [Server thread/DEBUG] [de.teamlapen.vampirism.blockentity.AltarInfusionBlockEntity/]: Ritual started
+[10Aug2025 22:55:20.560] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Frannn has new faction level vampirism:vampire 8
+[10Aug2025 22:56:42.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/107577, l='ServerLevel[world]', x=1029.85, y=72.00, z=-17.94] died: Vampire Baron Level 1 was slain by Vampire Baron Level 1
+[10Aug2025 22:56:42.700] [Server thread/DEBUG] [Silent Gear/]: Recalculating for Frannn's Iron Prospector Hammer
+[10Aug2025 22:56:42.702] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.5 -> 1.5 (+0.0) - mods: [150%]
+[10Aug2025 22:56:42.703] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.6 -> -2.6 (+0.0) - mods: [0, -2.6]
+[10Aug2025 22:56:42.703] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[10Aug2025 22:56:42.703] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 10.499999 -> 10.499999 (+0.0) - mods: [14, -25%]
+[10Aug2025 22:56:42.703] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 4.4999995 -> 4.4999995 (+0.0) - mods: [6, -25%]
+[10Aug2025 22:56:42.703] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.6999999 -> 0.6999999 (+0.0) - mods: [0.7]
+[10Aug2025 22:56:42.703] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 187.49998 -> 187.49998 (+0.0) - mods: [250, -25%]
+[10Aug2025 22:56:42.703] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 4.0 -> 4.0 (+0.0) - mods: [2, +2]
+[10Aug2025 22:56:42.704] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[10Aug2025 22:56:42.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Ka-chink! 1]
+[10Aug2025 22:58:21.300] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/107807, l='ServerLevel[world]', x=934.51, y=71.00, z=-147.53] died: Vampire Baron Level 3 was slain by Vampire Baron Level 5
+[10Aug2025 22:59:58.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2025 22:59:58.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2025 22:59:59.136] [IO-Worker-185/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-192
+[10Aug2025 23:00:35.856] [IO-Worker-192/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-193
+[10Aug2025 23:00:58.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [That Strong Enough For You?]

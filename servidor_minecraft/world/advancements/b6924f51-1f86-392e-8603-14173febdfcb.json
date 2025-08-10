@@ -1346,6 +1346,7 @@
   },
   "silentgear:big_job_tools": {
     "criteria": {
+      "hammer": "2025-08-10 22:54:30 +0000",
       "lumber_axe": "2025-08-10 22:45:37 +0000"
     },
     "done": false
