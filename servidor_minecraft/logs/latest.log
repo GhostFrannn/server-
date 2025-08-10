@@ -985,3 +985,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Aug2025 21:03:28.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Joseluuuu013]
 [10Aug2025 21:06:26.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 1000]
 [10Aug2025 21:06:35.165] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/40546, l='ServerLevel[world]', x=1171.20, y=63.00, z=35.50] died, message: 'Weaponsmith hit the ground too hard'
+[10Aug2025 21:11:01.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Vampire Diaries]
+[10Aug2025 21:11:10.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Amateur Archaeologist]
+[10Aug2025 21:11:17.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Joseluuuu013]
+[10Aug2025 21:11:43.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Acquire Hardware]
+[10Aug2025 21:12:19.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 13000]
+[10Aug2025 21:13:06.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Yuck!]
+[10Aug2025 21:14:14.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Monster Hunter]
+[10Aug2025 21:15:02.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Diego to Frannn]
+[10Aug2025 21:18:09.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Ice Bucket Challenge]
+[10Aug2025 21:18:22.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Who You Gonna Call?]
+[10Aug2025 21:18:26.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/59180, l='ServerLevel[world]', x=1022.34, y=66.00, z=-180.80] died: Vampire Baron Level 1 was slain by Vampire Baron Level 3
+[10Aug2025 21:18:32.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Disme A Dozen]

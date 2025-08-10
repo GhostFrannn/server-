@@ -1363,9 +1363,10 @@
   },
   "vampirism:vampire/yuck": {
     "criteria": {
-      "main": "2025-08-10 20:31:04 +0000"
+      "main": "2025-08-10 20:31:04 +0000",
+      "flower": "2025-08-10 21:13:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/freeze_kill": {
     "criteria": {

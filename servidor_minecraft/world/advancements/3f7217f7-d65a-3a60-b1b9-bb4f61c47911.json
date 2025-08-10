@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/grass": {
+    "criteria": {
+      "has_planks": "2025-08-10 21:10:09 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/stone": {
     "criteria": {
       "has_stone": "2025-08-10 20:38:44 +0000"
@@ -65,6 +71,12 @@
     },
     "done": true
   },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2025-08-10 21:11:01 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/deepslate": {
     "criteria": {
       "has_deepslate": "2025-08-10 20:38:44 +0000"
@@ -104,6 +116,12 @@
   "mcwfences:recipes/dark_oak": {
     "criteria": {
       "has_dark_oak": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/windsweeper": {
+    "criteria": {
+      "blowgun": "2025-08-10 21:09:02 +0000"
     },
     "done": true
   },
@@ -155,6 +173,12 @@
     },
     "done": false
   },
+  "corail_dt:recipes/corail_dt/disk_1_2": {
+    "criteria": {
+      "requirement1": "2025-08-10 21:11:43 +0000"
+    },
+    "done": false
+  },
   "mcwfencesbop:recipes/umbran_hedge": {
     "criteria": {
       "has_birch": "2025-08-10 20:38:44 +0000"
@@ -203,9 +227,21 @@
     },
     "done": false
   },
+  "corail_dt:recipes/corail_dt/disk_3_2": {
+    "criteria": {
+      "requirement1": "2025-08-10 21:11:43 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2025-08-10 20:38:44 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutters": {
+    "criteria": {
+      "has_planks": "2025-08-10 21:11:43 +0000"
     },
     "done": true
   },
@@ -221,11 +257,23 @@
     },
     "done": true
   },
+  "corail_dt:recipes/misc/disk_1_2": {
+    "criteria": {
+      "requirement1": "2025-08-10 21:11:43 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/misc/disk_1_0": {
     "criteria": {
       "requirement1": "2025-08-10 20:41:53 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "lavender_field": "2025-08-10 21:11:46 +0000"
+    },
+    "done": true
   },
   "ironfurnaces:coal": {
     "criteria": {
@@ -250,6 +298,18 @@
       "requirement1": "2025-08-10 20:41:53 +0000"
     },
     "done": false
+  },
+  "corail_dt:recipes/misc/disk_3_2": {
+    "criteria": {
+      "requirement1": "2025-08-10 21:11:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-10 21:11:43 +0000"
+    },
+    "done": true
   },
   "mcwfencesbop:recipes/hellbark": {
     "criteria": {
@@ -299,6 +359,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "lavender_field": "2025-08-10 21:11:46 +0000"
+    },
+    "done": false
+  },
   "corail_dt:tutorial/root": {
     "criteria": {
       "auto": "2025-08-10 20:38:45 +0000"
@@ -310,6 +376,12 @@
       "killed_something": "2025-08-10 20:43:10 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-08-10 21:14:14 +0000"
+    },
+    "done": false
   },
   "mekanism:root": {
     "criteria": {
@@ -353,9 +425,21 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-08-10 21:11:10 +0000"
+    },
+    "done": true
+  },
   "silentgear:root": {
     "criteria": {
       "get_item": "2025-08-10 20:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-08-10 21:14:14 +0000"
     },
     "done": true
   },
@@ -379,6 +463,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-08-10 21:09:57 +0000",
       "minecraft:river": "2025-08-10 20:46:41 +0000",
       "minecraft:savanna": "2025-08-10 20:38:45 +0000",
       "minecraft:plains": "2025-08-10 20:41:34 +0000"
@@ -403,6 +488,12 @@
     },
     "done": false
   },
+  "corail_dt:recipes/misc/disk_4_2": {
+    "criteria": {
+      "requirement1": "2025-08-10 21:11:43 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/hedge": {
     "criteria": {
       "has_birch": "2025-08-10 20:38:44 +0000"
@@ -411,7 +502,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-08-10 21:13:32 +0000",
       "porkchop": "2025-08-10 20:43:55 +0000",
+      "mutton": "2025-08-10 21:08:11 +0000",
+      "bread": "2025-08-10 21:14:07 +0000",
       "cookie": "2025-08-10 21:04:06 +0000",
       "melon_slice": "2025-08-10 20:47:09 +0000"
     },
@@ -465,9 +559,21 @@
     },
     "done": false
   },
+  "corail_dt:recipes/corail_dt/disk_0_2": {
+    "criteria": {
+      "requirement1": "2025-08-10 21:11:43 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/misc/disk_0_0": {
     "criteria": {
       "requirement1": "2025-08-10 20:41:53 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_0_2": {
+    "criteria": {
+      "requirement1": "2025-08-10 21:11:43 +0000"
     },
     "done": false
   },
@@ -501,6 +607,12 @@
     },
     "done": true
   },
+  "corail_dt:recipes/corail_dt/disk_2_2": {
+    "criteria": {
+      "requirement1": "2025-08-10 21:11:43 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/birch": {
     "criteria": {
       "has_birch": "2025-08-10 20:38:44 +0000"
@@ -519,6 +631,12 @@
     },
     "done": true
   },
+  "corail_dt:recipes/misc/disk_2_2": {
+    "criteria": {
+      "requirement1": "2025-08-10 21:11:43 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/misc/disk_2_0": {
     "criteria": {
       "requirement1": "2025-08-10 20:41:53 +0000"
@@ -536,6 +654,24 @@
       "requirement1": "2025-08-10 20:41:53 +0000"
     },
     "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_4_2": {
+    "criteria": {
+      "requirement1": "2025-08-10 21:11:43 +0000"
+    },
+    "done": false
+  },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "flax_seeds": "2025-08-10 21:06:54 +0000"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-08-10 21:08:04 +0000"
+    },
+    "done": true
   },
   "mcwfencesbop:recipes/fir_hedge": {
     "criteria": {
