@@ -1010,3 +1010,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Aug2025 21:35:15.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Joseluuuu013 to Frannn]
 [10Aug2025 21:38:17.708] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/67569, l='ServerLevel[world]', x=207.40, y=96.83, z=-819.85] died, message: 'Angry Villager was shot by Vampire Hunter'
 [10Aug2025 21:39:42.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Bloody Stream]
+[10Aug2025 21:42:33.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Spectator Mode]
+[10Aug2025 21:42:39.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[10Aug2025 21:42:53.402] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego[/127.98.74.15:47121] logged in with entity id 70590 at (1044.939612162319, 62.0, -103.86202076478872)
+[10Aug2025 21:42:53.417] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Diego
+[10Aug2025 21:42:53.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego joined the game
+[10Aug2025 21:42:53.435] [Server thread/INFO] [Jade/]: Syncing config to Diego (b6924f51-1f86-392e-8603-14173febdfcb)
+[10Aug2025 21:47:57.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joseluuuu013 has made the advancement [Stone Age]
+[10Aug2025 21:48:22.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 13000]
+[10Aug2025 21:49:11.718] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager AggressiveVillagerEntity['Angry Villager'/70543, l='ServerLevel[world]', x=242.80, y=112.00, z=-800.04] died, message: 'Angry Villager was slain by Frannn'
+[10Aug2025 21:49:23.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn suffocated in a wall
+[10Aug2025 21:49:31.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Spectator Mode]
+[10Aug2025 21:49:36.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
+[10Aug2025 21:49:43.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]

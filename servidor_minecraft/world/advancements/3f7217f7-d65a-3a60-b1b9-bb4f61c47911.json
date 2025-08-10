@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "vampirism:hunter/betrayal": {
+    "criteria": {
+      "kill": "2025-08-10 21:44:34 +0000"
+    },
+    "done": false
+  },
   "mcwfencesbop:recipes/yellow_autumn_hedge": {
     "criteria": {
       "has_birch": "2025-08-10 20:38:44 +0000"
@@ -197,11 +203,23 @@
     },
     "done": false
   },
+  "corail_dt:recipes/corail_dt/disk_1_1": {
+    "criteria": {
+      "requirement1": "2025-08-10 21:47:57 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/corail_dt/disk_1_2": {
     "criteria": {
       "requirement1": "2025-08-10 21:11:43 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-10 21:47:57 +0000"
+    },
+    "done": true
   },
   "mcwfencesbop:recipes/umbran_hedge": {
     "criteria": {
@@ -269,6 +287,12 @@
     },
     "done": false
   },
+  "corail_dt:recipes/corail_dt/disk_3_1": {
+    "criteria": {
+      "requirement1": "2025-08-10 21:47:57 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2025-08-10 20:38:44 +0000"
@@ -305,11 +329,24 @@
     },
     "done": false
   },
-  "vampirism:vampire/first_blood": {
+  "corail_dt:recipes/misc/disk_1_1": {
     "criteria": {
-      "main": "2025-08-10 21:21:17 +0000"
+      "requirement1": "2025-08-10 21:47:57 +0000"
     },
     "done": false
+  },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "main": "2025-08-10 21:21:17 +0000",
+      "flower": "2025-08-10 21:39:42 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/blowgun": {
+    "criteria": {
+      "blowgun": "2025-08-10 21:43:08 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
@@ -344,6 +381,12 @@
   "corail_dt:recipes/misc/disk_3_0": {
     "criteria": {
       "requirement1": "2025-08-10 20:41:53 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_3_1": {
+    "criteria": {
+      "requirement1": "2025-08-10 21:47:57 +0000"
     },
     "done": false
   },
@@ -528,6 +571,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-08-10 21:09:57 +0000",
+      "minecraft:birch_forest": "2025-08-10 21:49:12 +0000",
       "minecraft:river": "2025-08-10 20:46:41 +0000",
       "minecraft:savanna": "2025-08-10 20:38:45 +0000",
       "minecraft:plains": "2025-08-10 20:41:34 +0000"
@@ -561,6 +605,12 @@
   "corail_dt:recipes/misc/disk_4_0": {
     "criteria": {
       "requirement1": "2025-08-10 20:41:53 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_4_1": {
+    "criteria": {
+      "requirement1": "2025-08-10 21:47:57 +0000"
     },
     "done": false
   },
@@ -641,6 +691,12 @@
     },
     "done": false
   },
+  "corail_dt:recipes/corail_dt/disk_0_1": {
+    "criteria": {
+      "requirement1": "2025-08-10 21:47:57 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/corail_dt/disk_0_2": {
     "criteria": {
       "requirement1": "2025-08-10 21:11:43 +0000"
@@ -653,11 +709,23 @@
     },
     "done": false
   },
+  "corail_dt:recipes/misc/disk_0_1": {
+    "criteria": {
+      "requirement1": "2025-08-10 21:47:57 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/misc/disk_0_2": {
     "criteria": {
       "requirement1": "2025-08-10 21:11:43 +0000"
     },
     "done": false
+  },
+  "mcwroofs:recipes/cobblestone": {
+    "criteria": {
+      "has_planks": "2025-08-10 21:47:57 +0000"
+    },
+    "done": true
   },
   "mcwfencesbop:recipes/dead": {
     "criteria": {
@@ -676,6 +744,12 @@
       "requirement_1": "2025-08-10 20:38:44 +0000"
     },
     "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_2_1": {
+    "criteria": {
+      "requirement1": "2025-08-10 21:47:57 +0000"
+    },
+    "done": false
   },
   "corail_dt:recipes/corail_dt/disk_2_0": {
     "criteria": {
@@ -713,6 +787,12 @@
     },
     "done": true
   },
+  "corail_dt:recipes/misc/disk_2_1": {
+    "criteria": {
+      "requirement1": "2025-08-10 21:47:57 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/misc/disk_2_2": {
     "criteria": {
       "requirement1": "2025-08-10 21:11:43 +0000"
@@ -730,6 +810,12 @@
       "has_acacia": "2025-08-10 20:38:44 +0000"
     },
     "done": true
+  },
+  "corail_dt:recipes/corail_dt/disk_4_1": {
+    "criteria": {
+      "requirement1": "2025-08-10 21:47:57 +0000"
+    },
+    "done": false
   },
   "corail_dt:recipes/corail_dt/disk_4_0": {
     "criteria": {
