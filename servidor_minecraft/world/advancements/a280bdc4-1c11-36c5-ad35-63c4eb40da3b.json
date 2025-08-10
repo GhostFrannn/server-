@@ -1427,6 +1427,12 @@
     },
     "done": true
   },
+  "silentgear:swords": {
+    "criteria": {
+      "katana": "2025-08-10 23:09:03 +0000"
+    },
+    "done": false
+  },
   "mekanism:materials": {
     "criteria": {
       "material": "2025-08-10 20:31:37 +0000"
