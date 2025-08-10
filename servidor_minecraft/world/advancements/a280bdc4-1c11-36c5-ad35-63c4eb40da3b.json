@@ -384,13 +384,16 @@
       "minecraft:sunflower_plains": "2025-08-09 21:10:33 +0000",
       "minecraft:birch_forest": "2025-08-09 20:13:25 +0000",
       "minecraft:windswept_hills": "2025-08-09 20:16:55 +0000",
+      "minecraft:bamboo_jungle": "2025-08-10 23:37:31 +0000",
       "minecraft:beach": "2025-08-09 18:00:36 +0000",
       "minecraft:dark_forest": "2025-08-09 20:51:54 +0000",
       "minecraft:mangrove_swamp": "2025-08-09 21:39:58 +0000",
       "minecraft:sparse_jungle": "2025-08-09 20:38:45 +0000",
       "minecraft:river": "2025-08-09 17:29:16 +0000",
       "minecraft:dripstone_caves": "2025-08-10 20:08:04 +0000",
+      "minecraft:swamp": "2025-08-10 23:38:22 +0000",
       "minecraft:forest": "2025-08-09 19:42:21 +0000",
+      "minecraft:lush_caves": "2025-08-10 23:39:00 +0000",
       "minecraft:windswept_forest": "2025-08-09 20:16:52 +0000",
       "minecraft:jungle": "2025-08-09 20:39:30 +0000",
       "minecraft:ocean": "2025-08-10 19:26:50 +0000",
@@ -996,6 +999,7 @@
       "rocky_shrubland": "2025-08-10 21:36:05 +0000",
       "scrubland": "2025-08-09 17:53:07 +0000",
       "bayou": "2025-08-09 21:32:14 +0000",
+      "erupting_inferno": "2025-08-10 23:24:39 +0000",
       "highland": "2025-08-09 20:51:00 +0000",
       "marsh": "2025-08-09 21:46:53 +0000",
       "jade_cliffs": "2025-08-09 20:58:32 +0000",
@@ -1166,8 +1170,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-08-10 23:14:47 +0000",
       "minecraft:nether_wastes": "2025-08-09 19:08:45 +0000",
-      "minecraft:soul_sand_valley": "2025-08-09 19:14:55 +0000"
+      "minecraft:soul_sand_valley": "2025-08-09 19:14:55 +0000",
+      "minecraft:basalt_deltas": "2025-08-10 23:24:33 +0000"
     },
     "done": false
   },
@@ -1357,10 +1363,22 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2025-08-10 23:10:36 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/blood_cult": {
     "criteria": {
       "main": "2025-08-10 20:31:04 +0000",
       "flower": "2025-08-10 21:51:36 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-08-10 23:27:18 +0000"
     },
     "done": true
   },
@@ -1374,6 +1392,12 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-08-10 21:21:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-08-10 23:16:03 +0000"
     },
     "done": true
   },
@@ -1414,6 +1438,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-08-10 23:30:44 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/extra_storage": {
     "criteria": {
       "blood_container": "2025-08-10 20:45:18 +0000",
@@ -1424,6 +1454,12 @@
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2025-08-10 19:53:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-08-10 23:30:54 +0000"
     },
     "done": true
   },
@@ -1475,6 +1511,12 @@
     "criteria": {
       "action": "2025-08-10 21:21:58 +0000",
       "main": "2025-08-10 20:31:04 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak_planks": {
+    "criteria": {
+      "has_planks": "2025-08-10 23:12:06 +0000"
     },
     "done": true
   },
