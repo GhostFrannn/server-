@@ -926,3 +926,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Aug2025 20:09:02.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Diego to Frannn]
 [10Aug2025 20:14:29.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
 [10Aug2025 20:15:19.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[10Aug2025 20:19:12.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[10Aug2025 20:25:04.205] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7dd21772[id=<null>,name=Joseluuuu013,properties={},legacy=false] (/127.120.184.226:55381) lost connection: Disconnected
+[10Aug2025 20:26:09.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[10Aug2025 20:27:20.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[10Aug2025 20:29:33.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Bloody Stream]
+[10Aug2025 20:31:00.055] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22ad50e7[id=<null>,name=Joseluuuu013,properties={},legacy=false] (/127.120.184.226:57289) lost connection: Disconnected
+[10Aug2025 20:33:44.662] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66929c1[id=<null>,name=Joseluuuu013,properties={},legacy=false] (/127.120.184.226:51847) lost connection: Disconnected
+[10Aug2025 20:33:56.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Bloody Stream]
+[10Aug2025 20:35:14.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
