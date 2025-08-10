@@ -379,8 +379,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-08-10 20:05:33 +0000",
       "minecraft:beach": "2025-08-09 18:01:05 +0000",
       "minecraft:river": "2025-08-09 17:19:01 +0000",
+      "minecraft:dripstone_caves": "2025-08-10 20:07:15 +0000",
       "minecraft:forest": "2025-08-09 18:23:41 +0000",
       "minecraft:jungle": "2025-08-10 19:19:37 +0000",
       "minecraft:savanna": "2025-08-09 16:57:50 +0000",
@@ -584,6 +586,7 @@
       "minecraft:skeleton": "2025-08-09 17:01:15 +0000",
       "minecraft:hoglin": "2025-08-09 19:10:21 +0000",
       "minecraft:magma_cube": "2025-08-09 17:31:04 +0000",
+      "minecraft:spider": "2025-08-10 20:03:18 +0000",
       "minecraft:creeper": "2025-08-09 18:01:00 +0000",
       "quark:forgotten": "2025-08-09 17:50:44 +0000",
       "minecraft:zombified_piglin": "2025-08-09 19:08:37 +0000",
@@ -620,6 +623,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "pumpkin_pie": "2025-08-10 20:14:07 +0000",
       "mutton": "2025-08-09 17:15:46 +0000",
       "bread": "2025-08-09 17:03:22 +0000",
       "golden_apple": "2025-08-09 17:52:27 +0000",
@@ -1180,6 +1184,18 @@
     },
     "done": true
   },
+  "1_splatus:spellbound/unlocked/magmus_charger": {
+    "criteria": {
+      "blowgun": "2025-08-10 19:54:53 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-08-10 20:08:08 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-08-10 19:45:11 +0000"
@@ -1201,6 +1217,24 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-08-10 19:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-08-10 20:02:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "nether_wart": "2025-08-10 20:02:25 +0000"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-08-10 20:04:34 +0000"
     },
     "done": true
   },

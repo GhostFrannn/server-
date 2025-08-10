@@ -917,3 +917,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Aug2025 19:52:51.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has reached the goal [Sky's the Limit]
 [10Aug2025 19:53:00.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has reached the goal [Sky's the Limit]
 [10Aug2025 19:55:18.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Diego to Frannn]
+[10Aug2025 19:59:35.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Diego to Frannn]
+[10Aug2025 20:02:25.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [A Seedy Place]
+[10Aug2025 20:03:21.850] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/157, l='ServerLevel[world]', x=134.69, y=78.00, z=92.36] died, message: 'Armorer was slain by Zombie'
+[10Aug2025 20:03:46.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 1000]
+[10Aug2025 20:08:07.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn hit the ground too hard
+[10Aug2025 20:08:31.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Diego> hazme tp
+[10Aug2025 20:09:02.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Diego to Frannn]
+[10Aug2025 20:14:29.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[10Aug2025 20:15:19.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
