@@ -4313,3 +4313,18 @@ java.lang.Throwable: null
 [11Aug2025 13:31:42.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=109, z=7}
 [11Aug2025 13:31:58.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Diego to Frannn]
 [11Aug2025 13:32:59.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Nacho]
+[11Aug2025 13:35:12.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Removed effect Nausea from Nacho]
+[11Aug2025 13:35:23.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deecee_96 has made the advancement [Take Aim]
+[11Aug2025 13:35:40.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frannn lost connection: Disconnected
+[11Aug2025 13:35:40.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn left the game
+[11Aug2025 13:37:14.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deecee_96 has made the advancement [Monster Hunter]
+[11Aug2025 13:39:33.205] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frannn[/127.120.184.226:39243] logged in with entity id 30297 at (877.3328833235483, 92.21722287561629, -102.86266750400398)
+[11Aug2025 13:39:33.226] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Frannn
+[11Aug2025 13:39:33.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn joined the game
+[11Aug2025 13:39:33.268] [Server thread/INFO] [Jade/]: Syncing config to Frannn (a280bdc4-1c11-36c5-ad35-63c4eb40da3b)
+[11Aug2025 13:39:59.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/29089, l='ServerLevel[world]', x=1054.37, y=67.00, z=-112.90] died: Vampire Baron Level 1 was slain by Diego
+[11Aug2025 13:40:36.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deecee_96 was shot by Skeleton
+[11Aug2025 13:40:48.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported deecee_96 to Frannn]
+[11Aug2025 13:40:48.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deecee_96 has made the advancement [Blood Feeders' Home]
+[11Aug2025 13:41:42.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deecee_96 has made the advancement [Cover Me with Diamonds]
+[11Aug2025 13:42:50.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deecee_96 has made the advancement [Suit Up]
