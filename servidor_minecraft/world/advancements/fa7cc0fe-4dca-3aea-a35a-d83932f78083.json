@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/birch_planks": {
+    "criteria": {
+      "has_planks": "2025-08-11 13:48:11 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/grass": {
     "criteria": {
       "has_planks": "2025-08-11 13:34:09 +0000"
@@ -44,6 +50,12 @@
   "mcwfences:recipes/end": {
     "criteria": {
       "has_end_brick": "2025-08-11 13:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-08-11 13:42:50 +0000"
     },
     "done": true
   },
@@ -74,6 +86,18 @@
   "mcwfences:recipes/deepslate": {
     "criteria": {
       "has_deepslate": "2025-08-11 13:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-11 13:49:55 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-08-11 13:47:41 +0000"
     },
     "done": true
   },
@@ -110,6 +134,12 @@
   "mcwfences:recipes/dark_oak": {
     "criteria": {
       "has_dark_oak": "2025-08-11 13:19:22 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-08-11 13:50:56 +0000"
     },
     "done": true
   },
@@ -158,6 +188,12 @@
   "corail_dt:recipes/corail_dt/disk_1_1": {
     "criteria": {
       "requirement1": "2025-08-11 13:24:52 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_1_2": {
+    "criteria": {
+      "requirement1": "2025-08-11 13:45:25 +0000"
     },
     "done": false
   },
@@ -221,6 +257,12 @@
     },
     "done": false
   },
+  "corail_dt:recipes/corail_dt/disk_3_2": {
+    "criteria": {
+      "requirement1": "2025-08-11 13:45:25 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/corail_dt/disk_3_1": {
     "criteria": {
       "requirement1": "2025-08-11 13:24:52 +0000"
@@ -233,9 +275,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-08-11 13:50:56 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2025-08-11 13:19:22 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutters": {
+    "criteria": {
+      "has_planks": "2025-08-11 13:45:25 +0000"
     },
     "done": true
   },
@@ -257,6 +311,12 @@
     },
     "done": true
   },
+  "corail_dt:recipes/misc/disk_1_2": {
+    "criteria": {
+      "requirement1": "2025-08-11 13:45:25 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/misc/disk_1_0": {
     "criteria": {
       "requirement1": "2025-08-11 13:23:30 +0000"
@@ -272,6 +332,12 @@
   "quark:crawl_in_hollow_log": {
     "criteria": {
       "crawl_in_hollow_log": "2025-08-11 13:28:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "redwood_forest": "2025-08-11 13:45:49 +0000"
     },
     "done": true
   },
@@ -310,6 +376,18 @@
       "requirement1": "2025-08-11 13:24:52 +0000"
     },
     "done": false
+  },
+  "corail_dt:recipes/misc/disk_3_2": {
+    "criteria": {
+      "requirement1": "2025-08-11 13:45:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-11 13:45:25 +0000"
+    },
+    "done": true
   },
   "mcwfencesbop:recipes/hellbark": {
     "criteria": {
@@ -364,6 +442,13 @@
       "has_birch": "2025-08-11 13:19:22 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "clover_patch": "2025-08-11 13:45:50 +0000",
+      "redwood_forest": "2025-08-11 13:45:49 +0000"
+    },
+    "done": false
   },
   "corail_dt:tutorial/root": {
     "criteria": {
@@ -464,9 +549,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-08-11 13:29:19 +0000",
+      "minecraft:windswept_hills": "2025-08-11 13:49:38 +0000",
       "minecraft:beach": "2025-08-11 13:26:42 +0000",
       "minecraft:river": "2025-08-11 13:22:18 +0000",
       "minecraft:forest": "2025-08-11 13:27:01 +0000",
+      "minecraft:windswept_forest": "2025-08-11 13:49:34 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-11 13:47:30 +0000",
       "minecraft:savanna": "2025-08-11 13:19:23 +0000",
       "minecraft:plains": "2025-08-11 13:26:38 +0000"
     },
@@ -499,6 +587,12 @@
   "corail_dt:recipes/misc/disk_4_1": {
     "criteria": {
       "requirement1": "2025-08-11 13:24:52 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_4_2": {
+    "criteria": {
+      "requirement1": "2025-08-11 13:45:25 +0000"
     },
     "done": false
   },
@@ -568,6 +662,12 @@
     },
     "done": false
   },
+  "corail_dt:recipes/corail_dt/disk_0_2": {
+    "criteria": {
+      "requirement1": "2025-08-11 13:45:25 +0000"
+    },
+    "done": false
+  },
   "corail_dt:recipes/misc/disk_0_0": {
     "criteria": {
       "requirement1": "2025-08-11 13:23:30 +0000"
@@ -577,6 +677,12 @@
   "corail_dt:recipes/misc/disk_0_1": {
     "criteria": {
       "requirement1": "2025-08-11 13:24:52 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_0_2": {
+    "criteria": {
+      "requirement1": "2025-08-11 13:45:25 +0000"
     },
     "done": false
   },
@@ -622,6 +728,12 @@
     },
     "done": true
   },
+  "corail_dt:recipes/corail_dt/disk_2_2": {
+    "criteria": {
+      "requirement1": "2025-08-11 13:45:25 +0000"
+    },
+    "done": false
+  },
   "mcwfences:recipes/birch": {
     "criteria": {
       "has_birch": "2025-08-11 13:19:22 +0000"
@@ -637,6 +749,12 @@
   "corail_dt:recipes/misc/disk_2_1": {
     "criteria": {
       "requirement1": "2025-08-11 13:24:52 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/misc/disk_2_2": {
+    "criteria": {
+      "requirement1": "2025-08-11 13:45:25 +0000"
     },
     "done": false
   },
@@ -661,6 +779,12 @@
   "corail_dt:recipes/corail_dt/disk_4_0": {
     "criteria": {
       "requirement1": "2025-08-11 13:23:30 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:recipes/corail_dt/disk_4_2": {
+    "criteria": {
+      "requirement1": "2025-08-11 13:45:25 +0000"
     },
     "done": false
   },

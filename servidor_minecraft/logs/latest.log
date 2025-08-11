@@ -4328,3 +4328,38 @@ java.lang.Throwable: null
 [11Aug2025 13:40:48.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deecee_96 has made the advancement [Blood Feeders' Home]
 [11Aug2025 13:41:42.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deecee_96 has made the advancement [Cover Me with Diamonds]
 [11Aug2025 13:42:50.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deecee_96 has made the advancement [Suit Up]
+[11Aug2025 13:43:56.874] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/30550, l='ServerLevel[world]', x=1061.39, y=66.00, z=-103.50] died: Vampire Baron Level 3 was slain by Diego
+[11Aug2025 13:45:25.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deecee_96 has made the advancement [Acquire Hardware]
+[11Aug2025 13:46:36.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[11Aug2025 13:46:46.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
+[11Aug2025 13:46:54.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[11Aug2025 13:46:57.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[11Aug2025 13:47:11.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
+[11Aug2025 13:47:29.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2645ms or 52 ticks behind
+[11Aug2025 13:47:46.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2688ms or 53 ticks behind
+[11Aug2025 13:48:04.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[11Aug2025 13:48:27.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[11Aug2025 13:48:53.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[11Aug2025 13:48:55.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
+[11Aug2025 13:49:02.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[11Aug2025 13:49:10.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2253ms or 45 ticks behind
+[11Aug2025 13:49:15.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
+[11Aug2025 13:49:28.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2697ms or 53 ticks behind
+[11Aug2025 13:49:46.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2947ms or 58 ticks behind
+[11Aug2025 13:49:55.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deecee_96 has made the advancement [Isn't It Iron Pick]
+[11Aug2025 13:50:04.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3538ms or 70 ticks behind
+[11Aug2025 13:50:07.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[11Aug2025 13:50:23.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4120ms or 82 ticks behind
+[11Aug2025 13:50:42.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3277ms or 65 ticks behind
+[11Aug2025 13:51:00.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3105ms or 62 ticks behind
+[11Aug2025 13:51:18.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3322ms or 66 ticks behind
+[11Aug2025 13:51:36.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3089ms or 61 ticks behind
+[11Aug2025 13:51:54.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2998ms or 59 ticks behind
+[11Aug2025 13:52:12.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3223ms or 64 ticks behind
+[11Aug2025 13:52:30.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
+[11Aug2025 13:52:49.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3999ms or 79 ticks behind
+[11Aug2025 13:52:52.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
+[11Aug2025 13:53:07.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3295ms or 65 ticks behind
+[11Aug2025 13:53:26.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3262ms or 65 ticks behind
+[11Aug2025 13:53:35.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[11Aug2025 13:53:44.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3351ms or 67 ticks behind
