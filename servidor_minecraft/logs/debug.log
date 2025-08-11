@@ -18928,3 +18928,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Aug2025 23:32:31.199] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.47 and blood value 3 for entity alexsmobs:skunk
 [11Aug2025 23:32:31.200] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.47 and blood value 3 for entity alexsmobs:skunk
 [11Aug2025 23:32:31.200] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.47 and blood value 3 for entity alexsmobs:skunk
+[11Aug2025 23:33:53.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2025 23:33:53.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2025 23:34:49.043] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.04 and blood value 0 for entity alexsmobs:fly
+[11Aug2025 23:34:51.995] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[11Aug2025 23:34:57.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1038, y=69, z=-92} BlockPos{x=1037, y=69, z=-92}
+[11Aug2025 23:34:57.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1038, y=69, z=-92} BlockPos{x=1037, y=69, z=-92}
+[11Aug2025 23:34:57.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1038, y=69, z=-92} BlockPos{x=1037, y=69, z=-92}
+[11Aug2025 23:34:57.762] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1038, y=69, z=-92} BlockPos{x=1037, y=69, z=-92}
+[11Aug2025 23:38:15.593] [IO-Worker-36/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[11Aug2025 23:38:53.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2025 23:38:53.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2025 23:38:53.658] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[11Aug2025 23:40:02.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 1000]
+[11Aug2025 23:41:20.724] [IO-Worker-29/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
