@@ -840,7 +840,8 @@
   "1_splatus:spellbound/weapon/a": {
     "criteria": {
       "dagger": "2025-08-09 17:13:01 +0000",
-      "mega_hammer": "2025-08-09 17:31:03 +0000"
+      "mega_hammer": "2025-08-09 17:31:03 +0000",
+      "bone_wand": "2025-08-11 18:45:31 +0000"
     },
     "done": false
   },

@@ -18933,3 +18933,55 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Aug2025 18:28:51.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Aug2025 18:28:51.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Aug2025 18:32:24.925] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[11Aug2025 18:33:51.644] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[11Aug2025 18:33:51.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2025 18:33:51.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2025 18:34:56.947] [IO-Worker-19/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[11Aug2025 18:34:56.992] [IO-Worker-19/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[11Aug2025 18:35:32.247] [IO-Worker-19/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[11Aug2025 18:35:32.574] [Server thread/DEBUG] [mixin/]: Mixing cached_hashcode.BlockStatePairKeyMixin from canary.mixins.json into net.minecraft.world.level.block.Block$BlockStatePairKey
+[11Aug2025 18:35:44.357] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[11Aug2025 18:35:44.359] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[11Aug2025 18:35:47.029] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/182, l='ServerLevel[world]', x=1039.30, y=67.30, z=-127.30] died: Vampire Baron Level 3 was slain by Vampire Baron Level 2
+[11Aug2025 18:35:57.195] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.47 and blood value 3 for entity alexsmobs:skunk
+[11Aug2025 18:36:00.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[11Aug2025 18:36:00.555] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_top_3
+[11Aug2025 18:36:00.558] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_roots_0
+[11Aug2025 18:36:00.558] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_2
+[11Aug2025 18:36:00.559] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_1
+[11Aug2025 18:36:00.702] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.47 and blood value 3 for entity alexsmobs:skunk
+[11Aug2025 18:36:00.702] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.47 and blood value 3 for entity alexsmobs:skunk
+[11Aug2025 18:36:05.900] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.47 and blood value 15 for entity alexsmobs:crocodile
+[11Aug2025 18:36:26.741] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[11Aug2025 18:36:26.741] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[11Aug2025 18:36:26.741] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[11Aug2025 18:37:30.615] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[11Aug2025 18:37:30.888] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.04 and blood value 0 for entity alexsmobs:fly
+[11Aug2025 18:38:51.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2025 18:38:51.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2025 18:40:49.598] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-31
+[11Aug2025 18:40:49.765] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-32
+[11Aug2025 18:43:07.133] [IO-Worker-31/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-33
+[11Aug2025 18:43:07.133] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-34
+[11Aug2025 18:43:07.133] [IO-Worker-23/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-35
+[11Aug2025 18:43:51.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2025 18:43:51.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2025 18:44:37.310] [IO-Worker-35/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[11Aug2025 18:45:55.807] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[11Aug2025 18:45:55.986] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[11Aug2025 18:45:56.049] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[11Aug2025 18:45:56.055] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[11Aug2025 18:45:56.056] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[11Aug2025 18:45:56.256] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.26 and blood value 0 for entity alexsmobs:banana_slug
+[11Aug2025 18:45:56.929] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[11Aug2025 18:45:58.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[11Aug2025 18:45:58.151] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[11Aug2025 18:45:58.170] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_5
+[11Aug2025 18:48:51.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2025 18:48:51.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Aug2025 18:48:52.996] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.29 and blood value 0 for entity alexsmobs:potoo
+[11Aug2025 18:50:26.846] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[11Aug2025 18:52:52.085] [Worker-Main-11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-11 shutdown
+[11Aug2025 18:53:51.646] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[11Aug2025 18:53:51.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Aug2025 18:53:51.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

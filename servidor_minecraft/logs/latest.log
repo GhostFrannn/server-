@@ -878,3 +878,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Aug2025 18:27:52.890] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/517, l='ServerLevel[world]', x=1055.34, y=70.00, z=-25.55] died: Vampire Baron Level 3 was slain by Vampire Baron Level 3
 [11Aug2025 18:28:33.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Applied enchantment Unbreaking III to Frannn's item]
 [11Aug2025 18:28:36.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Applied enchantment Efficiency V to Frannn's item]
+[11Aug2025 18:35:47.029] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/182, l='ServerLevel[world]', x=1039.30, y=67.30, z=-127.30] died: Vampire Baron Level 3 was slain by Vampire Baron Level 2
