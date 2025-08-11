@@ -875,3 +875,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Aug2025 23:15:12.347] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Frannn
 [11Aug2025 23:15:12.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn joined the game
 [11Aug2025 23:15:12.506] [Server thread/INFO] [Jade/]: Syncing config to Frannn (a280bdc4-1c11-36c5-ad35-63c4eb40da3b)
+[11Aug2025 23:24:18.838] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/1686, l='ServerLevel[world]', x=1092.70, y=67.42, z=-89.25] died: Vampire Baron Level 2 was slain by Vampire
+[11Aug2025 23:27:07.313] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/2041, l='ServerLevel[world]', x=1067.70, y=70.00, z=-139.30] died: Vampire Baron Level 2 was slain by Frannn
+[11Aug2025 23:27:17.461] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/2040, l='ServerLevel[world]', x=1081.86, y=65.00, z=-143.82] died: Vampire Baron Level 3 was slain by Frannn
+[11Aug2025 23:27:42.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1078, y=61, z=-169} BlockPos{x=1081, y=63, z=-169}
+[11Aug2025 23:27:55.507] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1075, y=62, z=-168} BlockPos{x=1074, y=60, z=-167}
+[11Aug2025 23:28:02.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1082, y=61, z=-168} BlockPos{x=1081, y=61, z=-169}
+[11Aug2025 23:28:55.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Spectator Mode]
+[11Aug2025 23:28:59.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
