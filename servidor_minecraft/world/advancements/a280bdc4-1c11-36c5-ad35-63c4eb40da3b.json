@@ -1544,15 +1544,45 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-11 13:05:12 +0000"
+    },
+    "done": true
+  },
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-08-11 12:50:22 +0000"
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-08-11 12:52:52 +0000"
+    },
+    "done": true
+  },
   "aethergearexpansion:recipe/misc/aetherite_upgrade_smithing_template2": {
     "criteria": {
       "has_the_recipe": "2025-08-11 12:21:54 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-08-11 12:56:19 +0000"
+    },
+    "done": false
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-08-11 12:58:13 +0000"
+    },
+    "done": true
+  },
+  "silentgear:kachink2": {
+    "criteria": {
+      "kachink": "2025-08-11 13:00:21 +0000"
     },
     "done": true
   },

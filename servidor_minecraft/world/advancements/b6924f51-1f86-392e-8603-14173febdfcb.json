@@ -379,6 +379,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-08-11 13:01:54 +0000",
       "minecraft:birch_forest": "2025-08-10 20:05:33 +0000",
       "minecraft:beach": "2025-08-09 18:01:05 +0000",
       "minecraft:river": "2025-08-09 17:19:01 +0000",
@@ -597,6 +598,7 @@
       "minecraft:cave_spider": "2025-08-09 17:47:13 +0000",
       "minecraft:piglin": "2025-08-09 19:11:29 +0000",
       "minecraft:silverfish": "2025-08-09 18:01:34 +0000",
+      "minecraft:enderman": "2025-08-11 13:01:15 +0000",
       "minecraft:vex": "2025-08-09 18:35:51 +0000",
       "minecraft:zombie": "2025-08-09 17:12:55 +0000",
       "minecraft:zombie_villager": "2025-08-09 18:01:00 +0000"
@@ -1408,9 +1410,39 @@
     },
     "done": true
   },
+  "silentgear:standard_tools": {
+    "criteria": {
+      "pickaxe": "2025-08-11 13:11:13 +0000"
+    },
+    "done": false
+  },
+  "silentgear:repair_kit": {
+    "criteria": {
+      "sturdy_repair_kit": "2025-08-11 13:09:47 +0000"
+    },
+    "done": true
+  },
   "aethergearexpansion:recipe/misc/aetherite_upgrade_smithing_template2": {
     "criteria": {
       "has_the_recipe": "2025-08-11 12:36:31 +0000"
+    },
+    "done": true
+  },
+  "silentgear:kachink1": {
+    "criteria": {
+      "kachink": "2025-08-11 13:02:20 +0000"
+    },
+    "done": true
+  },
+  "silentgear:kachink2": {
+    "criteria": {
+      "kachink": "2025-08-11 13:02:15 +0000"
+    },
+    "done": true
+  },
+  "silentgear:repair_from_broken": {
+    "criteria": {
+      "repair": "2025-08-11 13:10:28 +0000"
     },
     "done": true
   },
