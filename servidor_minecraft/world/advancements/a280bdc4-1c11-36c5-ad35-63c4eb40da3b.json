@@ -1532,21 +1532,21 @@
     },
     "done": true
   },
-  "tconstruct:tools/materials_and_you": {
-    "criteria": {
-      "crafted_book": "2025-08-11 12:21:55 +0000"
-    },
-    "done": true
-  },
   "tconstruct:internal/starting_book": {
     "criteria": {
       "tick": "2025-08-11 12:21:54 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_troll": {
+  "aethergearexpansion:recipe/misc/aetherite_upgrade_smithing_template2": {
     "criteria": {
-      "killed_fire_dragon": "2025-08-11 13:05:12 +0000"
+      "has_the_recipe": "2025-08-11 12:21:54 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2025-08-11 12:21:55 +0000"
     },
     "done": true
   },
@@ -1559,12 +1559,6 @@
   "create:andesite_casing": {
     "criteria": {
       "0": "2025-08-11 12:52:52 +0000"
-    },
-    "done": true
-  },
-  "aethergearexpansion:recipe/misc/aetherite_upgrade_smithing_template2": {
-    "criteria": {
-      "has_the_recipe": "2025-08-11 12:21:54 +0000"
     },
     "done": true
   },
@@ -1583,6 +1577,12 @@
   "silentgear:kachink2": {
     "criteria": {
       "kachink": "2025-08-11 13:00:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-11 13:05:12 +0000"
     },
     "done": true
   },
