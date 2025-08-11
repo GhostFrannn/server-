@@ -4151,3 +4151,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Aug2025 12:36:31.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego joined the game
 [11Aug2025 12:36:31.306] [Server thread/INFO] [Jade/]: Syncing config to Diego (b6924f51-1f86-392e-8603-14173febdfcb)
 [11Aug2025 12:39:22.189] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 5'/1516, l='ServerLevel[world]', x=1065.32, y=68.00, z=-97.76] died: Vampire Baron Level 5 was slain by Frannn
+[11Aug2025 12:42:13.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Blood Cult]
+[11Aug2025 12:47:12.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[11Aug2025 12:49:21.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]

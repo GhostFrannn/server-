@@ -1544,6 +1544,12 @@
     },
     "done": true
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-08-11 12:50:22 +0000"
+    },
+    "done": true
+  },
   "aethergearexpansion:recipe/misc/aetherite_upgrade_smithing_template2": {
     "criteria": {
       "has_the_recipe": "2025-08-11 12:21:54 +0000"
