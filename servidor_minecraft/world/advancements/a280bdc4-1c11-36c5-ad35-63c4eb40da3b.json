@@ -131,12 +131,6 @@
     },
     "done": true
   },
-  "create:root": {
-    "criteria": {
-      "0": "2025-08-09 16:56:45 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2025-08-09 16:56:45 +0000"
@@ -693,7 +687,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-08-09 17:02:52 +0000",
-      "opened_chest": "2025-08-09 17:03:38 +0000"
+      "opened_chest": "2025-08-09 17:03:38 +0000",
+      "opened_cart": "2025-08-11 14:30:25 +0000"
     },
     "done": false
   },
@@ -837,9 +832,10 @@
   },
   "silentgear:crimson_iron": {
     "criteria": {
+      "get_ore": "2025-08-11 14:54:47 +0000",
       "get_ingot": "2025-08-09 17:12:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "1_splatus:spellbound/weapon/a": {
     "criteria": {
@@ -1008,6 +1004,7 @@
       "crystalline_chasm": "2025-08-09 19:13:10 +0000",
       "field": "2025-08-09 20:57:17 +0000",
       "orchard": "2025-08-09 20:52:40 +0000",
+      "lavender_forest": "2025-08-11 14:39:59 +0000",
       "moor": "2025-08-09 20:50:56 +0000",
       "mediterranean_forest": "2025-08-09 21:31:56 +0000",
       "coniferous_forest": "2025-08-09 20:57:09 +0000",
@@ -1056,12 +1053,6 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-08-09 18:11:09 +0000"
-    },
-    "done": true
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-08-09 18:17:31 +0000"
     },
     "done": true
   },
@@ -1550,30 +1541,6 @@
     },
     "done": true
   },
-  "create:andesite_alloy": {
-    "criteria": {
-      "0": "2025-08-11 12:50:22 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2025-08-11 12:52:52 +0000"
-    },
-    "done": true
-  },
-  "create:wrench_goggles": {
-    "criteria": {
-      "0": "2025-08-11 12:56:19 +0000"
-    },
-    "done": false
-  },
-  "create:mechanical_press": {
-    "criteria": {
-      "0": "2025-08-11 12:58:13 +0000"
-    },
-    "done": true
-  },
   "silentgear:kachink2": {
     "criteria": {
       "kachink": "2025-08-11 13:00:21 +0000"
@@ -1586,57 +1553,33 @@
     },
     "done": true
   },
-  "create:water_wheel": {
-    "criteria": {
-      "0": "2025-08-11 13:52:42 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "soul_campfire": "2025-08-11 13:55:33 +0000"
     },
     "done": true
   },
-  "create:funnel": {
+  "lootr:1cart": {
     "criteria": {
-      "0": "2025-08-11 14:00:15 +0000"
+      "opened_cart": "2025-08-11 14:30:25 +0000"
     },
     "done": true
   },
-  "create:chute": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "0": "2025-08-11 14:01:51 +0000"
+      "enchanted_item": "2025-08-11 14:59:34 +0000"
     },
     "done": true
   },
-  "create:shifting_gears": {
+  "evilcraft:power_crafting": {
     "criteria": {
-      "0": "2025-08-11 14:06:12 +0000"
+      "criteria_0": "2025-08-11 15:14:32 +0000"
     },
     "done": true
   },
-  "create:mechanical_pump_0": {
+  "evilcraft:second_age": {
     "criteria": {
-      "0": "2025-08-11 14:06:20 +0000"
-    },
-    "done": true
-  },
-  "create:encased_fan": {
-    "criteria": {
-      "0": "2025-08-11 14:06:20 +0000"
-    },
-    "done": true
-  },
-  "create:fan_processing": {
-    "criteria": {
-      "0": "2025-08-11 14:06:27 +0000"
-    },
-    "done": true
-  },
-  "create:super_glue": {
-    "criteria": {
-      "0": "2025-08-11 14:08:10 +0000"
+      "criteria_0": "2025-08-11 15:18:26 +0000"
     },
     "done": true
   },

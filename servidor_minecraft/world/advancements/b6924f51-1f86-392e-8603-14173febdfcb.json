@@ -143,12 +143,6 @@
     },
     "done": true
   },
-  "create:root": {
-    "criteria": {
-      "0": "2025-08-09 16:57:49 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2025-08-09 16:57:49 +0000"
@@ -381,10 +375,12 @@
     "criteria": {
       "minecraft:sunflower_plains": "2025-08-11 13:01:54 +0000",
       "minecraft:birch_forest": "2025-08-10 20:05:33 +0000",
+      "minecraft:windswept_hills": "2025-08-11 15:06:08 +0000",
       "minecraft:beach": "2025-08-09 18:01:05 +0000",
       "minecraft:river": "2025-08-09 17:19:01 +0000",
       "minecraft:dripstone_caves": "2025-08-10 20:07:15 +0000",
       "minecraft:forest": "2025-08-09 18:23:41 +0000",
+      "minecraft:windswept_forest": "2025-08-11 15:06:58 +0000",
       "minecraft:jungle": "2025-08-10 19:19:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-10 21:51:44 +0000",
       "minecraft:savanna": "2025-08-09 16:57:50 +0000",
@@ -591,6 +587,7 @@
       "minecraft:spider": "2025-08-10 20:03:18 +0000",
       "minecraft:creeper": "2025-08-09 18:01:00 +0000",
       "quark:forgotten": "2025-08-09 17:50:44 +0000",
+      "minecraft:phantom": "2025-08-11 15:05:07 +0000",
       "minecraft:zombified_piglin": "2025-08-09 19:08:37 +0000",
       "minecraft:witch": "2025-08-09 17:52:47 +0000",
       "minecraft:wither_skeleton": "2025-08-09 18:26:06 +0000",
@@ -614,7 +611,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-08-09 17:02:49 +0000",
-      "opened_chest": "2025-08-09 17:07:00 +0000"
+      "opened_chest": "2025-08-09 17:07:00 +0000",
+      "opened_cart": "2025-08-11 14:29:10 +0000"
     },
     "done": false
   },
@@ -963,11 +961,13 @@
       "rocky_shrubland": "2025-08-10 19:34:19 +0000",
       "scrubland": "2025-08-09 17:53:33 +0000",
       "bayou": "2025-08-09 18:24:22 +0000",
+      "erupting_inferno": "2025-08-11 14:57:27 +0000",
       "highland": "2025-08-09 18:29:52 +0000",
       "marsh": "2025-08-09 18:28:24 +0000",
       "clover_patch": "2025-08-09 18:29:23 +0000",
       "old_growth_woodland": "2025-08-09 18:25:01 +0000",
       "crystalline_chasm": "2025-08-09 19:13:13 +0000",
+      "withered_abyss": "2025-08-11 15:00:59 +0000",
       "orchard": "2025-08-09 18:28:10 +0000",
       "field": "2025-08-11 14:13:31 +0000",
       "lavender_forest": "2025-08-10 19:32:23 +0000",
@@ -1119,6 +1119,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-08-11 15:00:15 +0000",
       "minecraft:nether_wastes": "2025-08-09 19:10:11 +0000",
       "minecraft:soul_sand_valley": "2025-08-09 19:15:27 +0000"
     },
@@ -1412,33 +1413,9 @@
     },
     "done": true
   },
-  "silentgear:standard_tools": {
-    "criteria": {
-      "pickaxe": "2025-08-11 13:11:13 +0000"
-    },
-    "done": false
-  },
-  "tconstruct:world/slime_collector": {
-    "criteria": {
-      "magma_cream": "2025-08-11 14:04:43 +0000"
-    },
-    "done": false
-  },
-  "silentgear:repair_kit": {
-    "criteria": {
-      "sturdy_repair_kit": "2025-08-11 13:09:47 +0000"
-    },
-    "done": true
-  },
   "aethergearexpansion:recipe/misc/aetherite_upgrade_smithing_template2": {
     "criteria": {
       "has_the_recipe": "2025-08-11 12:36:31 +0000"
-    },
-    "done": true
-  },
-  "silentgear:kachink1": {
-    "criteria": {
-      "kachink": "2025-08-11 13:02:20 +0000"
     },
     "done": true
   },
@@ -1448,9 +1425,46 @@
     },
     "done": true
   },
+  "silentgear:kachink1": {
+    "criteria": {
+      "kachink": "2025-08-11 13:02:20 +0000"
+    },
+    "done": true
+  },
+  "silentgear:repair_kit": {
+    "criteria": {
+      "sturdy_repair_kit": "2025-08-11 13:09:47 +0000"
+    },
+    "done": true
+  },
   "silentgear:repair_from_broken": {
     "criteria": {
       "repair": "2025-08-11 13:10:28 +0000"
+    },
+    "done": true
+  },
+  "silentgear:standard_tools": {
+    "criteria": {
+      "pickaxe": "2025-08-11 13:11:13 +0000",
+      "shovel": "2025-08-11 15:29:54 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "magma_cream": "2025-08-11 14:04:43 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-11 14:40:00 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-08-11 14:29:10 +0000"
     },
     "done": true
   },
