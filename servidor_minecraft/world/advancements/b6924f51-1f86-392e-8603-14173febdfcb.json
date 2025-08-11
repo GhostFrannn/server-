@@ -969,8 +969,10 @@
       "old_growth_woodland": "2025-08-09 18:25:01 +0000",
       "crystalline_chasm": "2025-08-09 19:13:13 +0000",
       "orchard": "2025-08-09 18:28:10 +0000",
+      "field": "2025-08-11 14:13:31 +0000",
       "lavender_forest": "2025-08-10 19:32:23 +0000",
       "mediterranean_forest": "2025-08-10 19:29:45 +0000",
+      "coniferous_forest": "2025-08-11 14:13:12 +0000",
       "spider_nest": "2025-08-09 18:50:45 +0000",
       "redwood_forest": "2025-08-09 18:29:09 +0000",
       "visceral_heap": "2025-08-09 19:08:23 +0000",
@@ -1413,6 +1415,12 @@
   "silentgear:standard_tools": {
     "criteria": {
       "pickaxe": "2025-08-11 13:11:13 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "magma_cream": "2025-08-11 14:04:43 +0000"
     },
     "done": false
   },
