@@ -4143,3 +4143,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Aug2025 12:21:54.704] [Server thread/INFO] [Jade/]: Syncing config to Frannn (a280bdc4-1c11-36c5-ad35-63c4eb40da3b)
 [11Aug2025 12:22:33.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
 [11Aug2025 12:24:06.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[11Aug2025 12:34:32.924] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61463af[id=<null>,name=Diego,properties={},legacy=false] (/127.98.74.15:55855) lost connection: Disconnected
+[11Aug2025 12:34:46.959] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/2195, l='ServerLevel[world]', x=1039.11, y=66.00, z=-192.26] died: Vampire Baron Level 1 was slain by Vampire Baron Level 3
+[11Aug2025 12:35:11.863] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@70244ecd[id=<null>,name=Diego,properties={},legacy=false] (/127.98.74.15:41611) lost connection: Disconnected
+[11Aug2025 12:36:31.158] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego[/127.98.74.15:35545] logged in with entity id 2656 at (1047.762499988079, 62.0, -103.79456002715384)
+[11Aug2025 12:36:31.205] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Diego
+[11Aug2025 12:36:31.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego joined the game
+[11Aug2025 12:36:31.306] [Server thread/INFO] [Jade/]: Syncing config to Diego (b6924f51-1f86-392e-8603-14173febdfcb)
+[11Aug2025 12:39:22.189] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 5'/1516, l='ServerLevel[world]', x=1065.32, y=68.00, z=-97.76] died: Vampire Baron Level 5 was slain by Frannn
