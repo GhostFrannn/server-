@@ -19410,3 +19410,65 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Aug2025 19:21:33.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Aug2025 19:21:33.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Aug2025 19:24:01.374] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[12Aug2025 19:25:46.379] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[12Aug2025 19:25:46.380] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[12Aug2025 19:25:46.381] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[12Aug2025 19:26:33.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 19:26:33.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Aug2025 19:28:44.626] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[12Aug2025 19:28:44.630] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[12Aug2025 19:30:52.382] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[12Aug2025 19:31:14.646] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[12Aug2025 19:31:33.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 19:31:33.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Aug2025 19:33:46.044] [Server thread/DEBUG] [Silent Gear/]: Diego chopped down a tree with 12 blocks using Iron Saw. Max recursion depth: 12
+[12Aug2025 19:33:49.593] [Server thread/DEBUG] [Silent Gear/]: Diego chopped down a tree with 13 blocks using Iron Saw. Max recursion depth: 13
+[12Aug2025 19:33:53.141] [Server thread/DEBUG] [Silent Gear/]: Diego chopped down a tree with 14 blocks using Iron Saw. Max recursion depth: 14
+[12Aug2025 19:33:57.489] [Server thread/DEBUG] [Silent Gear/]: Recalculating for Diego's Iron Saw
+[12Aug2025 19:33:57.491] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 4.0 -> 4.0 (+0.0) - mods: [2, +2]
+[12Aug2025 19:33:57.491] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[12Aug2025 19:33:57.491] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[12Aug2025 19:33:57.491] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 500.0 -> 500.0 (+0.0) - mods: [250, +100%]
+[12Aug2025 19:33:57.491] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.7 -> 0.7 (+0.0) - mods: [0.7]
+[12Aug2025 19:33:57.491] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.5 -> 1.5 (+0.0) - mods: [150%]
+[12Aug2025 19:33:57.491] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 7.0000005 -> 7.0000005 (+0.0) - mods: [14, -50%]
+[12Aug2025 19:33:57.491] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.5 -> -2.5 (+0.0) - mods: [-0.1, -2.4]
+[12Aug2025 19:33:57.491] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 1.5 -> 1.5 (+0.0) - mods: [6, -75%]
+[12Aug2025 19:33:57.496] [Server thread/DEBUG] [Silent Gear/]: Diego chopped down a tree with 15 blocks using Iron Saw. Max recursion depth: 15
+[12Aug2025 19:34:02.868] [Server thread/DEBUG] [Silent Gear/]: Diego chopped down a tree with 14 blocks using Iron Saw. Max recursion depth: 14
+[12Aug2025 19:34:13.139] [IO-Worker-26/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[12Aug2025 19:34:13.139] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[12Aug2025 19:34:31.038] [Server thread/DEBUG] [Silent Gear/]: Recalculating for Diego's Iron Shovel
+[12Aug2025 19:34:31.040] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.5 -> 3.5 (+0.0) - mods: [2, +1.5]
+[12Aug2025 19:34:31.040] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[12Aug2025 19:34:31.040] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[12Aug2025 19:34:31.040] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 250.0 -> 250.0 (+0.0) - mods: [250]
+[12Aug2025 19:34:31.040] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.7 -> 0.7 (+0.0) - mods: [0.7]
+[12Aug2025 19:34:31.040] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 2.0 -> 2.0 (+0.0) - mods: [200%]
+[12Aug2025 19:34:31.041] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 14.0 -> 14.0 (+0.0) - mods: [14]
+[12Aug2025 19:34:31.041] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -3.0 -> -3.0 (+0.0) - mods: [0, -3]
+[12Aug2025 19:34:31.041] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.0 -> 6.0 (+0.0) - mods: [6]
+[12Aug2025 19:35:02.839] [Server thread/DEBUG] [Silent Gear/]: Recalculating for Diego's Iron Shovel
+[12Aug2025 19:35:02.841] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.5 -> 3.5 (+0.0) - mods: [2, +1.5]
+[12Aug2025 19:35:02.841] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[12Aug2025 19:35:02.841] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[12Aug2025 19:35:02.841] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 250.0 -> 250.0 (+0.0) - mods: [250]
+[12Aug2025 19:35:02.841] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.7 -> 0.7 (+0.0) - mods: [0.7]
+[12Aug2025 19:35:02.841] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 2.0 -> 2.0 (+0.0) - mods: [200%]
+[12Aug2025 19:35:02.841] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 14.0 -> 14.0 (+0.0) - mods: [14]
+[12Aug2025 19:35:02.841] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -3.0 -> -3.0 (+0.0) - mods: [0, -3]
+[12Aug2025 19:35:02.842] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.0 -> 6.0 (+0.0) - mods: [6]
+[12Aug2025 19:35:20.791] [Server thread/DEBUG] [Silent Gear/]: Recalculating for Diego's Iron Shovel
+[12Aug2025 19:35:20.792] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.5 -> 3.5 (+0.0) - mods: [2, +1.5]
+[12Aug2025 19:35:20.793] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[12Aug2025 19:35:20.793] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[12Aug2025 19:35:20.793] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 250.0 -> 250.0 (+0.0) - mods: [250]
+[12Aug2025 19:35:20.793] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.7 -> 0.7 (+0.0) - mods: [0.7]
+[12Aug2025 19:35:20.793] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 2.0 -> 2.0 (+0.0) - mods: [200%]
+[12Aug2025 19:35:20.793] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 14.0 -> 14.0 (+0.0) - mods: [14]
+[12Aug2025 19:35:20.793] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -3.0 -> -3.0 (+0.0) - mods: [0, -3]
+[12Aug2025 19:35:20.793] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.0 -> 6.0 (+0.0) - mods: [6]
+[12Aug2025 19:35:31.682] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-30
+[12Aug2025 19:35:32.846] [Server thread/DEBUG] [Silent Gear/]: Diego chopped down a tree with 13 blocks using Iron Saw. Max recursion depth: 13
+[12Aug2025 19:35:34.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1083, y=64, z=-161} BlockPos{x=1084, y=63, z=-161}
+[12Aug2025 19:35:50.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1076, y=62, z=-189} BlockPos{x=1077, y=60, z=-190}
