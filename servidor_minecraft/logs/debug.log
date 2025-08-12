@@ -20259,3 +20259,470 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Aug2025 20:16:44.527] [Server thread/DEBUG] [corail_dt/]: Process has been reset
 [12Aug2025 20:16:44.527] [Server thread/DEBUG] [corail_dt/]: Stale process has been reset
 [12Aug2025 20:16:44.569] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=7340042, rs=0, cd=48
+[12Aug2025 20:16:47.419] [Server thread/DEBUG] [corail_dt/]: Analysed item 56 polished_blackstone_bricks tag null
+[12Aug2025 20:16:47.419] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:47.419] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=5242890, rs=268435459, cd=48
+[12Aug2025 20:16:47.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[12Aug2025 20:16:48.019] [Server thread/DEBUG] [corail_dt/]: Analysed item 56 polished_blackstone_bricks tag null
+[12Aug2025 20:16:48.019] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:48.020] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:16:48.020] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:16:48.070] [Server thread/DEBUG] [corail_dt/]: Analysed item 52 polished_blackstone_bricks tag null
+[12Aug2025 20:16:48.071] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:48.071] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=5242894, rs=268435459, cd=48
+[12Aug2025 20:16:48.676] [Server thread/DEBUG] [corail_dt/]: Analysed item 52 polished_blackstone_bricks tag null
+[12Aug2025 20:16:48.676] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:48.676] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:16:48.676] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:16:48.727] [Server thread/DEBUG] [corail_dt/]: Analysed item 48 polished_blackstone_bricks tag null
+[12Aug2025 20:16:48.727] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:48.727] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=4194318, rs=268435459, cd=48
+[12Aug2025 20:16:49.339] [Server thread/DEBUG] [corail_dt/]: Analysed item 48 polished_blackstone_bricks tag null
+[12Aug2025 20:16:49.339] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:49.340] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:16:49.340] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:16:49.375] [Server thread/DEBUG] [corail_dt/]: Analysed item 44 polished_blackstone_bricks tag null
+[12Aug2025 20:16:49.376] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:49.376] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=4194318, rs=268435459, cd=48
+[12Aug2025 20:16:49.968] [Server thread/DEBUG] [corail_dt/]: Analysed item 44 polished_blackstone_bricks tag null
+[12Aug2025 20:16:49.968] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:49.969] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:16:49.969] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:16:50.021] [Server thread/DEBUG] [corail_dt/]: Analysed item 40 polished_blackstone_bricks tag null
+[12Aug2025 20:16:50.021] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:50.021] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=3145742, rs=268435459, cd=48
+[12Aug2025 20:16:50.625] [Server thread/DEBUG] [corail_dt/]: Analysed item 40 polished_blackstone_bricks tag null
+[12Aug2025 20:16:50.625] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:50.625] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:16:50.625] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:16:50.669] [Server thread/DEBUG] [corail_dt/]: Analysed item 36 polished_blackstone_bricks tag null
+[12Aug2025 20:16:50.669] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:50.669] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=2097166, rs=268435459, cd=48
+[12Aug2025 20:16:51.270] [Server thread/DEBUG] [corail_dt/]: Analysed item 36 polished_blackstone_bricks tag null
+[12Aug2025 20:16:51.270] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:51.270] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:16:51.270] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:16:51.328] [Server thread/DEBUG] [corail_dt/]: Analysed item 32 polished_blackstone_bricks tag null
+[12Aug2025 20:16:51.328] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:51.328] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=2097166, rs=268435459, cd=48
+[12Aug2025 20:16:51.927] [Server thread/DEBUG] [corail_dt/]: Analysed item 32 polished_blackstone_bricks tag null
+[12Aug2025 20:16:51.927] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:51.927] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:16:51.927] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:16:51.972] [Server thread/DEBUG] [corail_dt/]: Analysed item 28 polished_blackstone_bricks tag null
+[12Aug2025 20:16:51.972] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:51.972] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=1048590, rs=268435459, cd=48
+[12Aug2025 20:16:52.569] [Server thread/DEBUG] [corail_dt/]: Analysed item 28 polished_blackstone_bricks tag null
+[12Aug2025 20:16:52.569] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:52.569] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:16:52.569] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:16:52.620] [Server thread/DEBUG] [corail_dt/]: Analysed item 24 polished_blackstone_bricks tag null
+[12Aug2025 20:16:52.620] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:52.620] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=1048590, rs=268435459, cd=48
+[12Aug2025 20:16:53.219] [Server thread/DEBUG] [corail_dt/]: Analysed item 24 polished_blackstone_bricks tag null
+[12Aug2025 20:16:53.219] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:53.219] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:16:53.219] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:16:53.268] [Server thread/DEBUG] [corail_dt/]: Analysed item 20 polished_blackstone_bricks tag null
+[12Aug2025 20:16:53.268] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:53.268] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=14, rs=268435459, cd=48
+[12Aug2025 20:16:53.868] [Server thread/DEBUG] [corail_dt/]: Analysed item 20 polished_blackstone_bricks tag null
+[12Aug2025 20:16:53.868] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:53.868] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:16:53.868] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:16:53.926] [Server thread/DEBUG] [corail_dt/]: Analysed item 16 polished_blackstone_bricks tag null
+[12Aug2025 20:16:53.926] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:53.926] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=14, rs=268435459, cd=48
+[12Aug2025 20:16:54.527] [Server thread/DEBUG] [corail_dt/]: Analysed item 16 polished_blackstone_bricks tag null
+[12Aug2025 20:16:54.527] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:54.527] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:16:54.527] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:16:54.568] [Server thread/DEBUG] [corail_dt/]: Analysed item 12 polished_blackstone_bricks tag null
+[12Aug2025 20:16:54.568] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:54.568] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=65011726, rs=268435459, cd=48
+[12Aug2025 20:16:55.167] [Server thread/DEBUG] [corail_dt/]: Analysed item 12 polished_blackstone_bricks tag null
+[12Aug2025 20:16:55.167] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:55.167] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:16:55.167] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:16:55.221] [Server thread/DEBUG] [corail_dt/]: Analysed item 8 polished_blackstone_bricks tag null
+[12Aug2025 20:16:55.221] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:55.221] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=65011726, rs=268435459, cd=48
+[12Aug2025 20:16:55.818] [Server thread/DEBUG] [corail_dt/]: Analysed item 8 polished_blackstone_bricks tag null
+[12Aug2025 20:16:55.818] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:55.818] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:16:55.818] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:16:55.868] [Server thread/DEBUG] [corail_dt/]: Analysed item 4 polished_blackstone_bricks tag null
+[12Aug2025 20:16:55.869] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:55.869] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=63963150, rs=268435459, cd=48
+[12Aug2025 20:16:56.468] [Server thread/DEBUG] [corail_dt/]: Analysed item 4 polished_blackstone_bricks tag null
+[12Aug2025 20:16:56.468] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone_bricks {i:"minecraft:polished_blackstone_bricks:4",o:["minecraft:polished_blackstone:4"]}
+[12Aug2025 20:16:56.469] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:16:56.469] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:16:56.527] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=63963150, rs=0, cd=48
+[12Aug2025 20:16:57.820] [Server thread/DEBUG] [corail_dt/]: Analysed item 56 polished_blackstone tag null
+[12Aug2025 20:16:57.820] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:16:57.820] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=62914570, rs=268435459, cd=48
+[12Aug2025 20:16:58.619] [Server thread/DEBUG] [corail_dt/]: Analysed item 56 polished_blackstone tag null
+[12Aug2025 20:16:58.619] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:16:58.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Mean Time Between Failures]
+[12Aug2025 20:16:58.620] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:16:58.620] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:16:58.675] [Server thread/DEBUG] [corail_dt/]: Analysed item 52 polished_blackstone tag null
+[12Aug2025 20:16:58.675] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:16:58.675] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=61865998, rs=268435459, cd=48
+[12Aug2025 20:16:59.470] [Server thread/DEBUG] [corail_dt/]: Analysed item 52 polished_blackstone tag null
+[12Aug2025 20:16:59.471] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:16:59.471] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:16:59.471] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:16:59.526] [Server thread/DEBUG] [corail_dt/]: Analysed item 48 polished_blackstone tag null
+[12Aug2025 20:16:59.526] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:16:59.526] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=61865998, rs=268435459, cd=48
+[12Aug2025 20:17:00.332] [Server thread/DEBUG] [corail_dt/]: Analysed item 48 polished_blackstone tag null
+[12Aug2025 20:17:00.332] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:00.332] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:17:00.332] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:17:00.369] [Server thread/DEBUG] [corail_dt/]: Analysed item 44 polished_blackstone tag null
+[12Aug2025 20:17:00.369] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:00.369] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=60817422, rs=268435459, cd=48
+[12Aug2025 20:17:01.175] [Server thread/DEBUG] [corail_dt/]: Analysed item 44 polished_blackstone tag null
+[12Aug2025 20:17:01.175] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:01.175] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:17:01.175] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:17:01.222] [Server thread/DEBUG] [corail_dt/]: Analysed item 40 polished_blackstone tag null
+[12Aug2025 20:17:01.222] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:01.222] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=59768846, rs=268435459, cd=48
+[12Aug2025 20:17:02.021] [Server thread/DEBUG] [corail_dt/]: Analysed item 40 polished_blackstone tag null
+[12Aug2025 20:17:02.022] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:02.022] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:17:02.022] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:17:02.069] [Server thread/DEBUG] [corail_dt/]: Analysed item 36 polished_blackstone tag null
+[12Aug2025 20:17:02.069] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:02.069] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=59768846, rs=268435459, cd=48
+[12Aug2025 20:17:02.868] [Server thread/DEBUG] [corail_dt/]: Analysed item 36 polished_blackstone tag null
+[12Aug2025 20:17:02.869] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:02.869] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:17:02.869] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:17:02.929] [Server thread/DEBUG] [corail_dt/]: Analysed item 32 polished_blackstone tag null
+[12Aug2025 20:17:02.929] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:02.929] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=58720270, rs=268435459, cd=48
+[12Aug2025 20:17:03.740] [Server thread/DEBUG] [corail_dt/]: Analysed item 32 polished_blackstone tag null
+[12Aug2025 20:17:03.741] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:03.741] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:17:03.741] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:17:03.774] [Server thread/DEBUG] [corail_dt/]: Analysed item 28 polished_blackstone tag null
+[12Aug2025 20:17:03.774] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:03.774] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=57671694, rs=268435459, cd=48
+[12Aug2025 20:17:04.568] [Server thread/DEBUG] [corail_dt/]: Analysed item 28 polished_blackstone tag null
+[12Aug2025 20:17:04.569] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:04.569] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:17:04.569] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:17:04.621] [Server thread/DEBUG] [corail_dt/]: Analysed item 24 polished_blackstone tag null
+[12Aug2025 20:17:04.621] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:04.621] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=57671694, rs=268435459, cd=48
+[12Aug2025 20:17:05.424] [Server thread/DEBUG] [corail_dt/]: Analysed item 24 polished_blackstone tag null
+[12Aug2025 20:17:05.424] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:05.424] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:17:05.424] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:17:05.479] [Server thread/DEBUG] [corail_dt/]: Analysed item 20 polished_blackstone tag null
+[12Aug2025 20:17:05.479] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:05.479] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=56623118, rs=268435459, cd=48
+[12Aug2025 20:17:06.268] [Server thread/DEBUG] [corail_dt/]: Analysed item 20 polished_blackstone tag null
+[12Aug2025 20:17:06.268] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:06.268] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:17:06.268] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:17:06.327] [Server thread/DEBUG] [corail_dt/]: Analysed item 16 polished_blackstone tag null
+[12Aug2025 20:17:06.328] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:06.328] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=55574542, rs=268435459, cd=48
+[12Aug2025 20:17:07.127] [Server thread/DEBUG] [corail_dt/]: Analysed item 16 polished_blackstone tag null
+[12Aug2025 20:17:07.127] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:07.127] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:17:07.127] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:17:07.173] [Server thread/DEBUG] [corail_dt/]: Analysed item 12 polished_blackstone tag null
+[12Aug2025 20:17:07.173] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:07.173] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=54525966, rs=268435459, cd=48
+[12Aug2025 20:17:07.970] [Server thread/DEBUG] [corail_dt/]: Analysed item 12 polished_blackstone tag null
+[12Aug2025 20:17:07.971] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:07.971] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:17:07.971] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:17:08.019] [Server thread/DEBUG] [corail_dt/]: Analysed item 8 polished_blackstone tag null
+[12Aug2025 20:17:08.019] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:08.019] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=54525966, rs=268435459, cd=48
+[12Aug2025 20:17:08.819] [Server thread/DEBUG] [corail_dt/]: Analysed item 8 polished_blackstone tag null
+[12Aug2025 20:17:08.820] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:08.820] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:17:08.820] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:17:08.869] [Server thread/DEBUG] [corail_dt/]: Analysed item 4 polished_blackstone tag null
+[12Aug2025 20:17:08.870] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:08.870] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=53477390, rs=268435459, cd=48
+[12Aug2025 20:17:09.669] [Server thread/DEBUG] [corail_dt/]: Analysed item 4 polished_blackstone tag null
+[12Aug2025 20:17:09.669] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:polished_blackstone {i:"minecraft:polished_blackstone:4",o:["minecraft:blackstone:4"]}
+[12Aug2025 20:17:09.669] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:17:09.669] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:17:09.728] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=52428814, rs=0, cd=48
+[12Aug2025 20:17:13.395] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:17:13.396] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:17:13.397] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:17:13.399] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:17:13.399] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:17:13.400] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:17:13.400] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {}
+[12Aug2025 20:17:13.400] [Server thread/DEBUG] [corail_dt/]: Collecting done in 5ms
+[12Aug2025 20:17:13.400] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:17:13.423] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=0, rs=0, cd=24
+[12Aug2025 20:17:14.135] [Server thread/DEBUG] [corail_dt/]: Instance 2a075f9f disarmed by 266
+[12Aug2025 20:17:14.220] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=24
+[12Aug2025 20:17:17.182] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:17:30.590] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:17:30.591] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:17:30.592] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:17:30.595] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:17:30.595] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:17:30.595] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:17:30.596] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {}
+[12Aug2025 20:17:30.596] [Server thread/DEBUG] [corail_dt/]: Collecting done in 5ms
+[12Aug2025 20:17:30.596] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:17:30.621] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=24
+[12Aug2025 20:17:31.470] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond tag null
+[12Aug2025 20:17:31.470] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=24
+[12Aug2025 20:17:32.128] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=24
+[12Aug2025 20:17:32.671] [Server thread/DEBUG] [corail_dt/]: Analysed item 15 cobblestone tag null
+[12Aug2025 20:17:32.671] [Server thread/DEBUG] [corail_dt/]:     recipe iceandfire:furnace/frozen_cobblestone {i:"minecraft:cobblestone:1",o:["iceandfire:frozen_cobblestone:1"]}
+[12Aug2025 20:17:32.671] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=10, xp=0, ra=true, rb=true, ru=false, ss=8, rs=67108883, cd=24
+[12Aug2025 20:17:34.768] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=24
+[12Aug2025 20:17:35.020] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 cobblestone tag null
+[12Aug2025 20:17:35.020] [Server thread/DEBUG] [corail_dt/]:     recipe iceandfire:furnace/frozen_cobblestone {i:"minecraft:cobblestone:1",o:["iceandfire:frozen_cobblestone:1"]}
+[12Aug2025 20:17:35.021] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=10, xp=0, ra=true, rb=true, ru=false, ss=8, rs=67108883, cd=24
+[12Aug2025 20:17:41.327] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=24
+[12Aug2025 20:17:41.968] [Server thread/DEBUG] [corail_dt/]: Analysed item 37 dark_oak_planks tag null
+[12Aug2025 20:17:41.968] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:dark_oak_planks {i:"minecraft:dark_oak_planks:4",o:["minecraft:dark_oak_log:1"]}
+[12Aug2025 20:17:41.968] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=4, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=8, rs=268435459, cd=24
+[12Aug2025 20:17:42.820] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=12, rs=0, cd=24
+[12Aug2025 20:17:57.128] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:18:02.695] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:18:02.696] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:02.697] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:02.699] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:02.700] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:02.700] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:02.701] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {}
+[12Aug2025 20:18:02.701] [Server thread/DEBUG] [corail_dt/]: Collecting done in 5ms
+[12Aug2025 20:18:02.701] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:18:02.731] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=24
+[12Aug2025 20:18:21.775] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:18:21.942] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:18:21.943] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:21.943] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:21.946] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:21.946] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:21.947] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:21.947] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {}
+[12Aug2025 20:18:21.947] [Server thread/DEBUG] [corail_dt/]: Collecting done in 5ms
+[12Aug2025 20:18:21.947] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:18:21.971] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=24
+[12Aug2025 20:18:23.419] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_shovel tag {Damage:876,Enchantments:[{id:"minecraft:efficiency",lvl:4s},{id:"minecraft:silk_touch",lvl:1s}]}
+[12Aug2025 20:18:23.419] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_shovel {i:"minecraft:diamond_shovel:1",o:["minecraft:diamond:1","minecraft:stick:2"]}
+[12Aug2025 20:18:23.422] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=9900, ra=true, rb=true, ru=false, ss=8, rs=67108899, cd=8
+[12Aug2025 20:18:24.819] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=12, rs=0, cd=24
+[12Aug2025 20:18:25.534] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:18:36.692] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:18:36.693] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:36.693] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:36.696] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:36.696] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:36.697] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:36.697] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {}
+[12Aug2025 20:18:36.697] [Server thread/DEBUG] [corail_dt/]: Collecting done in 5ms
+[12Aug2025 20:18:36.697] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:18:36.727] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=24
+[12Aug2025 20:18:37.270] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_sword tag {Damage:46,Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:5s}]}
+[12Aug2025 20:18:37.270] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_sword {i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]}
+[12Aug2025 20:18:37.271] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=4700, ra=true, rb=true, ru=false, ss=8, rs=67108899, cd=8
+[12Aug2025 20:18:38.686] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:diamond_sword":""}
+[12Aug2025 20:18:38.728] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_sword tag {Damage:46,Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:5s}]}
+[12Aug2025 20:18:38.728] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=12, rs=11, cd=8
+[12Aug2025 20:18:39.572] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]}}
+[12Aug2025 20:18:39.621] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_sword tag {Damage:46,Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:5s}]}
+[12Aug2025 20:18:39.621] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_sword {i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]}
+[12Aug2025 20:18:39.621] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=4700, ra=true, rb=true, ru=false, ss=8, rs=67108899, cd=8
+[12Aug2025 20:18:39.834] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:diamond_sword":""}
+[12Aug2025 20:18:39.871] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_sword tag {Damage:46,Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:5s}]}
+[12Aug2025 20:18:39.871] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=12, rs=11, cd=8
+[12Aug2025 20:18:40.221] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]}}
+[12Aug2025 20:18:40.275] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_sword tag {Damage:46,Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:5s}]}
+[12Aug2025 20:18:40.275] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_sword {i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]}
+[12Aug2025 20:18:40.275] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=4700, ra=true, rb=true, ru=false, ss=8, rs=67108899, cd=8
+[12Aug2025 20:18:40.685] [Server thread/DEBUG] [corail_dt/]: Intention - start manually
+[12Aug2025 20:18:46.928] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_sword tag {Damage:46,Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:5s}]}
+[12Aug2025 20:18:46.928] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_sword {i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]}
+[12Aug2025 20:18:46.928] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - FAILURE
+[12Aug2025 20:18:46.929] [Server thread/DEBUG] [corail_dt/]: Stale process detected
+[12Aug2025 20:18:48.571] [Server thread/DEBUG] [corail_dt/]: Stale process resolution time gone
+[12Aug2025 20:18:48.571] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:18:48.571] [Server thread/DEBUG] [corail_dt/]: Stale process has been reset
+[12Aug2025 20:18:48.621] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_sword tag {Damage:46,Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:5s}]}
+[12Aug2025 20:18:48.621] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_sword {i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]}
+[12Aug2025 20:18:48.621] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=4700, ra=true, rb=true, ru=false, ss=58720268, rs=67108899, cd=16
+[12Aug2025 20:18:50.129] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:18:55.945] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:18:55.946] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:55.947] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:55.950] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:55.950] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:55.950] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:18:55.951] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]}}
+[12Aug2025 20:18:55.951] [Server thread/DEBUG] [corail_dt/]: Collecting done in 6ms
+[12Aug2025 20:18:55.952] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:18:55.975] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_sword tag {Damage:46,Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:5s}]}
+[12Aug2025 20:18:55.975] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_sword {i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]}
+[12Aug2025 20:18:55.976] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=4700, ra=true, rb=true, ru=false, ss=52428812, rs=67108899, cd=16
+[12Aug2025 20:18:56.971] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:diamond_sword":""}
+[12Aug2025 20:18:57.022] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_sword tag {Damage:46,Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:5s}]}
+[12Aug2025 20:18:57.022] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=52428812, rs=11, cd=16
+[12Aug2025 20:18:57.634] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]}}
+[12Aug2025 20:18:57.671] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_sword tag {Damage:46,Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:5s}]}
+[12Aug2025 20:18:57.671] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_sword {i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]}
+[12Aug2025 20:18:57.671] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=4700, ra=true, rb=true, ru=false, ss=51380232, rs=67108899, cd=16
+[12Aug2025 20:18:58.271] [Server thread/DEBUG] [corail_dt/]: Intention - start manually
+[12Aug2025 20:19:04.529] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_sword tag {Damage:46,Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:5s}]}
+[12Aug2025 20:19:04.529] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_sword {i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]}
+[12Aug2025 20:19:04.529] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - FAILURE
+[12Aug2025 20:19:04.529] [Server thread/DEBUG] [corail_dt/]: Stale process detected
+[12Aug2025 20:19:06.131] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=44056333, rs=0, cd=48
+[12Aug2025 20:19:06.132] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:19:06.132] [Server thread/DEBUG] [corail_dt/]: Stale process has been reset
+[12Aug2025 20:19:06.822] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:19:07.846] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[12Aug2025 20:19:07.847] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[12Aug2025 20:19:18.197] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:19:18.198] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:19:18.199] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:19:18.201] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:19:18.201] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:19:18.202] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:19:18.202] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]}}
+[12Aug2025 20:19:18.202] [Server thread/DEBUG] [corail_dt/]: Collecting done in 5ms
+[12Aug2025 20:19:18.203] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:19:18.227] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=34603016, rs=0, cd=48
+[12Aug2025 20:19:18.821] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 stone_sword tag {Damage:0}
+[12Aug2025 20:19:18.821] [Server thread/DEBUG] [corail_dt/]:     recipe quark:tweaks/crafting/utility/tools/stone_sword {i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}
+[12Aug2025 20:19:18.821] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=33554440, rs=67108867, cd=48
+[12Aug2025 20:19:24.094] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:19:31.146] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:19:31.148] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:19:31.148] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:19:31.151] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:19:31.151] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:19:31.152] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:19:31.152] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]}}
+[12Aug2025 20:19:31.152] [Server thread/DEBUG] [corail_dt/]: Collecting done in 5ms
+[12Aug2025 20:19:31.152] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:19:31.174] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 stone_sword tag {Damage:0}
+[12Aug2025 20:19:31.174] [Server thread/DEBUG] [corail_dt/]:     recipe quark:tweaks/crafting/utility/tools/stone_sword {i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}
+[12Aug2025 20:19:31.175] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=24117260, rs=67108867, cd=48
+[12Aug2025 20:19:31.728] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=23068684, rs=0, cd=48
+[12Aug2025 20:19:32.171] [Server thread/DEBUG] [corail_dt/]: Analysed item 7 stone tag null
+[12Aug2025 20:19:32.171] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:stone {i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]}
+[12Aug2025 20:19:32.172] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=10, xp=0, ra=true, rb=true, ru=false, ss=23068680, rs=67108883, cd=48
+[12Aug2025 20:19:33.270] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["iceandfire:frozen_stone:1"]}}
+[12Aug2025 20:19:33.329] [Server thread/DEBUG] [corail_dt/]: Analysed item 7 stone tag null
+[12Aug2025 20:19:33.329] [Server thread/DEBUG] [corail_dt/]:     recipe iceandfire:furnace/frozen_stone {i:"minecraft:stone:1",o:["iceandfire:frozen_stone:1"]}
+[12Aug2025 20:19:33.329] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=10, xp=0, ra=true, rb=true, ru=false, ss=22020104, rs=67108883, cd=48
+[12Aug2025 20:19:33.736] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":""}
+[12Aug2025 20:19:33.777] [Server thread/DEBUG] [corail_dt/]: Analysed item 7 stone tag null
+[12Aug2025 20:19:33.777] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=22020104, rs=11, cd=48
+[12Aug2025 20:19:34.077] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]}}
+[12Aug2025 20:19:34.129] [Server thread/DEBUG] [corail_dt/]: Analysed item 7 stone tag null
+[12Aug2025 20:19:34.129] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:stone {i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]}
+[12Aug2025 20:19:34.129] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=10, xp=0, ra=true, rb=true, ru=false, ss=20971528, rs=67108883, cd=48
+[12Aug2025 20:19:34.970] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=20971528, rs=0, cd=48
+[12Aug2025 20:19:35.622] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 stone_sword tag {Damage:0}
+[12Aug2025 20:19:35.622] [Server thread/DEBUG] [corail_dt/]:     recipe quark:tweaks/crafting/utility/tools/stone_sword {i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}
+[12Aug2025 20:19:35.622] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=19922952, rs=67108867, cd=48
+[12Aug2025 20:19:36.271] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":""}
+[12Aug2025 20:19:36.330] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 stone_sword tag {Damage:0}
+[12Aug2025 20:19:36.330] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=19922956, rs=11, cd=48
+[12Aug2025 20:19:36.595] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:19:36.622] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 stone_sword tag {Damage:0}
+[12Aug2025 20:19:36.622] [Server thread/DEBUG] [corail_dt/]:     recipe quark:tweaks/crafting/utility/tools/stone_sword {i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}
+[12Aug2025 20:19:36.622] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=18874376, rs=67108867, cd=48
+[12Aug2025 20:19:36.822] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":""}
+[12Aug2025 20:19:36.870] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 stone_sword tag {Damage:0}
+[12Aug2025 20:19:36.870] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=18874380, rs=11, cd=48
+[12Aug2025 20:19:37.438] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:19:37.472] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 stone_sword tag {Damage:0}
+[12Aug2025 20:19:37.472] [Server thread/DEBUG] [corail_dt/]:     recipe quark:tweaks/crafting/utility/tools/stone_sword {i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}
+[12Aug2025 20:19:37.472] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=18874376, rs=67108867, cd=48
+[12Aug2025 20:19:39.273] [Server thread/DEBUG] [corail_dt/]: Intention - start manually
+[12Aug2025 20:19:39.929] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 stone_sword tag {Damage:0}
+[12Aug2025 20:19:39.929] [Server thread/DEBUG] [corail_dt/]:     recipe quark:tweaks/crafting/utility/tools/stone_sword {i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}
+[12Aug2025 20:19:39.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [First Steps]
+[12Aug2025 20:19:39.930] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:19:39.930] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:19:39.970] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=16777228, rs=0, cd=48
+[12Aug2025 20:19:42.730] [Server thread/DEBUG] [corail_dt/]: Analysed item 2 andesite tag null
+[12Aug2025 20:19:42.730] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:andesite {i:"minecraft:andesite:2",o:["minecraft:diorite:1","minecraft:cobblestone:1"]}
+[12Aug2025 20:19:42.730] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=2, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=14680072, rs=134217731, cd=48
+[12Aug2025 20:19:43.622] [Server thread/DEBUG] [corail_dt/]: Received action BOOK
+[12Aug2025 20:19:43.622] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:19:44.696] [Server thread/DEBUG] [corail_dt/]: Received action TEXT
+[12Aug2025 20:19:45.244] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:19:45.245] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:19:45.245] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:19:45.248] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:19:45.248] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:19:45.248] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:19:45.249] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:19:45.249] [Server thread/DEBUG] [corail_dt/]: Collecting done in 5ms
+[12Aug2025 20:19:45.249] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:19:45.270] [Server thread/DEBUG] [corail_dt/]: Analysed item 2 andesite tag null
+[12Aug2025 20:19:45.270] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:andesite {i:"minecraft:andesite:2",o:["minecraft:diorite:1","minecraft:cobblestone:1"]}
+[12Aug2025 20:19:45.270] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=2, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=12582924, rs=134217731, cd=48
+[12Aug2025 20:19:45.748] [Server thread/DEBUG] [corail_dt/]: Intention - start manually
+[12Aug2025 20:19:46.370] [Server thread/DEBUG] [corail_dt/]: Analysed item 2 andesite tag null
+[12Aug2025 20:19:46.370] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:andesite {i:"minecraft:andesite:2",o:["minecraft:diorite:1","minecraft:cobblestone:1"]}
+[12Aug2025 20:19:46.370] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:19:46.370] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:19:46.420] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=11534348, rs=0, cd=48
+[12Aug2025 20:19:48.369] [Server thread/DEBUG] [corail_dt/]: Analysed item 14 cobblestone tag null
+[12Aug2025 20:19:48.369] [Server thread/DEBUG] [corail_dt/]:     recipe iceandfire:furnace/frozen_cobblestone {i:"minecraft:cobblestone:1",o:["iceandfire:frozen_cobblestone:1"]}
+[12Aug2025 20:19:48.369] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=10, xp=0, ra=true, rb=true, ru=false, ss=9437192, rs=67108883, cd=48
+[12Aug2025 20:19:48.970] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:19:49.021] [Server thread/DEBUG] [corail_dt/]: Analysed item 14 cobblestone tag null
+[12Aug2025 20:19:49.021] [Server thread/DEBUG] [corail_dt/]:     recipe silentgear:cobblestone_from_pebbles {i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]}
+[12Aug2025 20:19:49.021] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=9437192, rs=67108867, cd=48
+[12Aug2025 20:19:49.272] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:19:49.330] [Server thread/DEBUG] [corail_dt/]: Analysed item 14 cobblestone tag null
+[12Aug2025 20:19:49.330] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=8388620, rs=11, cd=48
+[12Aug2025 20:19:50.175] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["iceandfire:frozen_cobblestone:1"]},"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:19:50.225] [Server thread/DEBUG] [corail_dt/]: Analysed item 14 cobblestone tag null
+[12Aug2025 20:19:50.226] [Server thread/DEBUG] [corail_dt/]:     recipe iceandfire:furnace/frozen_cobblestone {i:"minecraft:cobblestone:1",o:["iceandfire:frozen_cobblestone:1"]}
+[12Aug2025 20:19:50.226] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=10, xp=0, ra=true, rb=true, ru=false, ss=8388616, rs=67108883, cd=48
+[12Aug2025 20:19:50.436] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:19:50.472] [Server thread/DEBUG] [corail_dt/]: Analysed item 14 cobblestone tag null
+[12Aug2025 20:19:50.472] [Server thread/DEBUG] [corail_dt/]:     recipe silentgear:cobblestone_from_pebbles {i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]}
+[12Aug2025 20:19:50.472] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=8388616, rs=67108867, cd=48
+[12Aug2025 20:21:33.121] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[12Aug2025 20:21:33.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 20:21:33.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Aug2025 20:22:50.425] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[12Aug2025 20:24:31.023] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[12Aug2025 20:24:45.827] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:26:22.875] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[12Aug2025 20:26:33.118] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[12Aug2025 20:26:33.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 20:26:33.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Aug2025 20:26:56.348] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:26:56.350] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:26:56.350] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:26:56.353] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:26:56.353] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:26:56.354] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:26:56.354] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:26:56.354] [Server thread/DEBUG] [corail_dt/]: Collecting done in 5ms
+[12Aug2025 20:26:56.354] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:26:56.378] [Server thread/DEBUG] [corail_dt/]: Analysed item 14 cobblestone tag null
+[12Aug2025 20:26:56.378] [Server thread/DEBUG] [corail_dt/]:     recipe silentgear:cobblestone_from_pebbles {i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]}
+[12Aug2025 20:26:56.378] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=12, rs=67108867, cd=24
+[12Aug2025 20:26:57.220] [Server thread/DEBUG] [corail_dt/]: Analysed item 14 cobblestone tag null
+[12Aug2025 20:26:57.220] [Server thread/DEBUG] [corail_dt/]:     recipe silentgear:cobblestone_from_pebbles {i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]}
+[12Aug2025 20:26:57.220] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=12, rs=67108867, cd=24

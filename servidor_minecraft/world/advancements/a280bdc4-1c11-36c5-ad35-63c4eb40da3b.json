@@ -1586,6 +1586,12 @@
     },
     "done": true
   },
+  "corail_dt:tutorial/dt_1": {
+    "criteria": {
+      "coded_trigger": "2025-08-12 20:19:39 +0000"
+    },
+    "done": true
+  },
   "tconstruct:world/slime_collector": {
     "criteria": {
       "magma_cream": "2025-08-12 19:42:07 +0000"
@@ -1597,6 +1603,12 @@
       "requirement": "2025-08-12 20:14:23 +0000"
     },
     "done": true
+  },
+  "corail_dt:tutorial/build_complete": {
+    "criteria": {
+      "requirement2": "2025-08-12 20:16:40 +0000"
+    },
+    "done": false
   },
   "corail_dt:tutorial/build_dt": {
     "criteria": {
@@ -1613,6 +1625,12 @@
   "mcwroofs:recipes/bricks": {
     "criteria": {
       "has_planks": "2025-08-12 19:58:55 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/build_disk": {
+    "criteria": {
+      "requirement": "2025-08-12 20:16:39 +0000"
     },
     "done": true
   },
