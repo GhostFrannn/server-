@@ -20726,3 +20726,336 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Aug2025 20:26:57.220] [Server thread/DEBUG] [corail_dt/]: Analysed item 14 cobblestone tag null
 [12Aug2025 20:26:57.220] [Server thread/DEBUG] [corail_dt/]:     recipe silentgear:cobblestone_from_pebbles {i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]}
 [12Aug2025 20:26:57.220] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=12, rs=67108867, cd=24
+[12Aug2025 20:26:58.769] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=12, rs=0, cd=24
+[12Aug2025 20:26:59.070] [Server thread/DEBUG] [corail_dt/]: Analysed item 6 cobblestone_slab tag null
+[12Aug2025 20:26:59.071] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:cobblestone_slab {i:"minecraft:cobblestone_slab:6",o:["minecraft:cobblestone:3"]}
+[12Aug2025 20:26:59.071] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=6, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=8, rs=402653187, cd=24
+[12Aug2025 20:27:00.298] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:27:00.339] [Server thread/DEBUG] [corail_dt/]: Analysed item 6 cobblestone_slab tag null
+[12Aug2025 20:27:00.339] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=12, rs=11, cd=24
+[12Aug2025 20:27:00.694] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":{i:"minecraft:cobblestone_slab:6",o:["minecraft:cobblestone:3"]},"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:27:00.728] [Server thread/DEBUG] [corail_dt/]: Analysed item 6 cobblestone_slab tag null
+[12Aug2025 20:27:00.728] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:cobblestone_slab {i:"minecraft:cobblestone_slab:6",o:["minecraft:cobblestone:3"]}
+[12Aug2025 20:27:00.728] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=6, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=8, rs=402653187, cd=24
+[12Aug2025 20:27:01.573] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:27:01.629] [Server thread/DEBUG] [corail_dt/]: Analysed item 6 cobblestone_slab tag null
+[12Aug2025 20:27:01.629] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=12, rs=11, cd=24
+[12Aug2025 20:27:03.021] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":{i:"minecraft:cobblestone_slab:6",o:["minecraft:cobblestone:3"]},"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:27:03.070] [Server thread/DEBUG] [corail_dt/]: Analysed item 6 cobblestone_slab tag null
+[12Aug2025 20:27:03.070] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:cobblestone_slab {i:"minecraft:cobblestone_slab:6",o:["minecraft:cobblestone:3"]}
+[12Aug2025 20:27:03.070] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=6, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=8, rs=402653187, cd=24
+[12Aug2025 20:27:04.769] [Server thread/DEBUG] [corail_dt/]: Intention - start manually
+[12Aug2025 20:27:05.619] [Server thread/DEBUG] [corail_dt/]: Analysed item 6 cobblestone_slab tag null
+[12Aug2025 20:27:05.619] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:cobblestone_slab {i:"minecraft:cobblestone_slab:6",o:["minecraft:cobblestone:3"]}
+[12Aug2025 20:27:05.620] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:27:05.620] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:27:05.677] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=65011724, rs=0, cd=48
+[12Aug2025 20:27:06.535] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:27:21.395] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:27:21.396] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:27:21.397] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:27:21.400] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:27:21.400] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:27:21.400] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:27:21.401] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":{i:"minecraft:cobblestone_slab:6",o:["minecraft:cobblestone:3"]},"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:27:21.401] [Server thread/DEBUG] [corail_dt/]: Collecting done in 5ms
+[12Aug2025 20:27:21.401] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:27:21.432] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=51380232, rs=0, cd=48
+[12Aug2025 20:27:22.020] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=51380232, rs=0, cd=3
+[12Aug2025 20:27:22.620] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=50331656, rs=0, cd=12
+[12Aug2025 20:27:25.935] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:27:28.499] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:27:28.501] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:27:28.501] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:27:28.504] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:27:28.504] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:27:28.504] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:27:28.505] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":{i:"minecraft:cobblestone_slab:6",o:["minecraft:cobblestone:3"]},"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:27:28.505] [Server thread/DEBUG] [corail_dt/]: Collecting done in 5ms
+[12Aug2025 20:27:28.505] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:27:28.534] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=46137352, rs=0, cd=12
+[12Aug2025 20:27:29.129] [Server thread/DEBUG] [corail_dt/]: Analysed item 6 cobblestone_slab tag null
+[12Aug2025 20:27:29.129] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:cobblestone_slab {i:"minecraft:cobblestone_slab:6",o:["minecraft:cobblestone:3"]}
+[12Aug2025 20:27:29.129] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=6, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=45088776, rs=402653187, cd=12
+[12Aug2025 20:27:29.843] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:27:29.870] [Server thread/DEBUG] [corail_dt/]: Analysed item 6 cobblestone_slab tag null
+[12Aug2025 20:27:29.870] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=45088780, rs=11, cd=12
+[12Aug2025 20:27:30.048] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":{i:"minecraft:cobblestone_slab:6",o:["minecraft:cobblestone:3"]},"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:27:30.074] [Server thread/DEBUG] [corail_dt/]: Analysed item 6 cobblestone_slab tag null
+[12Aug2025 20:27:30.074] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:cobblestone_slab {i:"minecraft:cobblestone_slab:6",o:["minecraft:cobblestone:3"]}
+[12Aug2025 20:27:30.074] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=6, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=45088776, rs=402653187, cd=12
+[12Aug2025 20:27:30.928] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:27:30.969] [Server thread/DEBUG] [corail_dt/]: Analysed item 6 cobblestone_slab tag null
+[12Aug2025 20:27:30.969] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=44040204, rs=11, cd=12
+[12Aug2025 20:27:31.420] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=44040200, rs=0, cd=12
+[12Aug2025 20:27:31.674] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=42991624, rs=0, cd=12
+[12Aug2025 20:27:31.879] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:27:32.596] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:27:32.598] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:27:32.598] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:27:32.601] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:27:32.601] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:27:32.601] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:27:32.602] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:27:32.602] [Server thread/DEBUG] [corail_dt/]: Collecting done in 5ms
+[12Aug2025 20:27:32.602] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:27:32.623] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=42991624, rs=0, cd=12
+[12Aug2025 20:27:33.329] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=41943048, rs=0, cd=3
+[12Aug2025 20:27:33.620] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:27:52.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Gave 64 [Stone dust] to 2]
+[12Aug2025 20:27:59.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [The Path to Excellence]
+[12Aug2025 20:28:01.049] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:28:01.051] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:28:01.051] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:28:01.054] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:28:01.054] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:28:01.055] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:28:01.055] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:28:01.055] [Server thread/DEBUG] [corail_dt/]: Collecting done in 5ms
+[12Aug2025 20:28:01.055] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:28:01.080] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=18874376, rs=0, cd=3
+[12Aug2025 20:28:01.874] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=18874376, rs=0, cd=48
+[12Aug2025 20:28:02.730] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:28:09.974] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:28:09.976] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:28:09.976] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:28:09.979] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:28:09.979] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:28:09.979] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:28:09.980] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:28:09.980] [Server thread/DEBUG] [corail_dt/]: Collecting done in 5ms
+[12Aug2025 20:28:09.980] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:28:10.021] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=11534344, rs=0, cd=48
+[12Aug2025 20:28:10.574] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 iron_sword tag {Damage:0}
+[12Aug2025 20:28:10.574] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:iron_sword {i:"minecraft:iron_sword:1",o:["minecraft:iron_ingot:2","minecraft:stick:1"]}
+[12Aug2025 20:28:10.574] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=11534344, rs=67108867, cd=48
+[12Aug2025 20:28:11.371] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:iron_sword":"","minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:28:11.420] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 iron_sword tag {Damage:0}
+[12Aug2025 20:28:11.420] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=10485772, rs=11, cd=48
+[12Aug2025 20:28:11.644] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:iron_sword":{i:"minecraft:iron_sword:1",o:["minecraft:iron_ingot:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:28:11.672] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 iron_sword tag {Damage:0}
+[12Aug2025 20:28:11.672] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:iron_sword {i:"minecraft:iron_sword:1",o:["minecraft:iron_ingot:2","minecraft:stick:1"]}
+[12Aug2025 20:28:11.672] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=10485768, rs=67108867, cd=48
+[12Aug2025 20:28:11.871] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:iron_sword":"","minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:28:11.928] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 iron_sword tag {Damage:0}
+[12Aug2025 20:28:11.928] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=10485772, rs=11, cd=48
+[12Aug2025 20:28:16.593] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:28:25.770] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:28:25.771] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:28:25.772] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:28:25.774] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:28:25.774] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:28:25.775] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:28:25.775] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:iron_sword":"","minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:28:25.775] [Server thread/DEBUG] [corail_dt/]: Collecting done in 5ms
+[12Aug2025 20:28:25.776] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:28:25.820] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 iron_sword tag {Damage:0}
+[12Aug2025 20:28:25.820] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=8, rs=11, cd=24
+[12Aug2025 20:28:26.474] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=24
+[12Aug2025 20:28:27.021] [Server thread/DEBUG] [corail_dt/]: Analysed item 16 iron_bars tag null
+[12Aug2025 20:28:27.021] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:iron_bars {i:"minecraft:iron_bars:16",o:["minecraft:iron_ingot:6"]}
+[12Aug2025 20:28:27.021] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=16, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=8, rs=1073741827, cd=24
+[12Aug2025 20:28:27.771] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:iron_bars":"","minecraft:iron_sword":"","minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:28:27.824] [Server thread/DEBUG] [corail_dt/]: Analysed item 16 iron_bars tag null
+[12Aug2025 20:28:27.824] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=12, rs=11, cd=24
+[12Aug2025 20:28:27.981] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:iron_bars":{i:"minecraft:iron_bars:16",o:["minecraft:iron_ingot:6"]},"minecraft:iron_sword":"","minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:28:28.021] [Server thread/DEBUG] [corail_dt/]: Analysed item 16 iron_bars tag null
+[12Aug2025 20:28:28.021] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:iron_bars {i:"minecraft:iron_bars:16",o:["minecraft:iron_ingot:6"]}
+[12Aug2025 20:28:28.021] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=16, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=8, rs=1073741827, cd=24
+[12Aug2025 20:28:29.674] [Server thread/DEBUG] [corail_dt/]: Intention - start manually
+[12Aug2025 20:28:31.770] [Server thread/DEBUG] [corail_dt/]: Analysed item 16 iron_bars tag null
+[12Aug2025 20:28:31.771] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:iron_bars {i:"minecraft:iron_bars:16",o:["minecraft:iron_ingot:6"]}
+[12Aug2025 20:28:31.771] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:28:31.771] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:28:31.821] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=63963148, rs=0, cd=48
+[12Aug2025 20:28:37.820] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:28:46.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Gave 64 [Gold dust] to 2]
+[12Aug2025 20:28:48.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Gave 64 [Diamond dust] to 2]
+[12Aug2025 20:29:37.147] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:29:37.149] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:29:37.149] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:29:37.152] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:29:37.152] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:29:37.153] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:29:37.153] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:iron_bars":{i:"minecraft:iron_bars:16",o:["minecraft:iron_ingot:6"]},"minecraft:iron_sword":"","minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:29:37.153] [Server thread/DEBUG] [corail_dt/]: Collecting done in 5ms
+[12Aug2025 20:29:37.153] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:29:37.177] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=9437192, rs=0, cd=48
+[12Aug2025 20:29:37.927] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_sword tag {Damage:46,Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:5s}]}
+[12Aug2025 20:29:37.927] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_sword {i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]}
+[12Aug2025 20:29:37.928] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=4700, ra=true, rb=true, ru=false, ss=9437192, rs=67108899, cd=16
+[12Aug2025 20:29:38.620] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":"","minecraft:iron_bars":{i:"minecraft:iron_bars:16",o:["minecraft:iron_ingot:6"]},"minecraft:iron_sword":"","minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:29:38.669] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_sword tag {Damage:46,Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:5s}]}
+[12Aug2025 20:29:38.669] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=8388620, rs=11, cd=16
+[12Aug2025 20:29:39.498] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:iron_bars":{i:"minecraft:iron_bars:16",o:["minecraft:iron_ingot:6"]},"minecraft:iron_sword":"","minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:29:39.537] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_sword tag {Damage:46,Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:5s}]}
+[12Aug2025 20:29:39.537] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_sword {i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]}
+[12Aug2025 20:29:39.537] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=4700, ra=true, rb=true, ru=false, ss=8388616, rs=67108899, cd=16
+[12Aug2025 20:29:39.671] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":"","minecraft:iron_bars":{i:"minecraft:iron_bars:16",o:["minecraft:iron_ingot:6"]},"minecraft:iron_sword":"","minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:29:39.727] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_sword tag {Damage:46,Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:5s}]}
+[12Aug2025 20:29:39.727] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=7340044, rs=11, cd=16
+[12Aug2025 20:29:40.569] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=7340040, rs=0, cd=48
+[12Aug2025 20:29:41.471] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=6291464, rs=0, cd=3
+[12Aug2025 20:29:41.621] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:29:53.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [The mark of durability]
+[12Aug2025 20:29:55.248] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:29:55.250] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:29:55.250] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:29:55.253] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:29:55.253] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:29:55.253] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:29:55.254] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":"","minecraft:iron_bars":{i:"minecraft:iron_bars:16",o:["minecraft:iron_ingot:6"]},"minecraft:iron_sword":"","minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:29:55.254] [Server thread/DEBUG] [corail_dt/]: Collecting done in 5ms
+[12Aug2025 20:29:55.254] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:29:55.277] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=3
+[12Aug2025 20:29:55.972] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=24
+[12Aug2025 20:29:56.575] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=24
+[12Aug2025 20:29:57.370] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=24
+[12Aug2025 20:29:57.727] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 disk_0_3 tag {Damage:5}
+[12Aug2025 20:29:57.727] [Server thread/DEBUG] [corail_dt/]:     recipe corail_dt:disk_0_3 {i:"corail_dt:disk_0_3:1",o:["corail_dt:dust_0:4","minecraft:diamond:1"]}
+[12Aug2025 20:29:57.727] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=8, rs=67108867, cd=24
+[12Aug2025 20:29:59.448] [Server thread/DEBUG] [corail_dt/]: Intention - start manually
+[12Aug2025 20:30:01.531] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 disk_0_3 tag {Damage:5}
+[12Aug2025 20:30:01.531] [Server thread/DEBUG] [corail_dt/]:     recipe corail_dt:disk_0_3 {i:"corail_dt:disk_0_3:1",o:["corail_dt:dust_0:4","minecraft:diamond:1"]}
+[12Aug2025 20:30:01.532] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:30:01.532] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:30:01.579] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=63963148, rs=0, cd=48
+[12Aug2025 20:30:02.131] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 disk_1_3 tag {Damage:1}
+[12Aug2025 20:30:02.131] [Server thread/DEBUG] [corail_dt/]:     recipe corail_dt:disk_1_3 {i:"corail_dt:disk_1_3:1",o:["corail_dt:dust_1:4","minecraft:diamond:1"]}
+[12Aug2025 20:30:02.131] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=62914568, rs=67108867, cd=48
+[12Aug2025 20:30:02.572] [Server thread/DEBUG] [corail_dt/]: Intention - start manually
+[12Aug2025 20:30:04.670] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 disk_1_3 tag {Damage:1}
+[12Aug2025 20:30:04.670] [Server thread/DEBUG] [corail_dt/]:     recipe corail_dt:disk_1_3 {i:"corail_dt:disk_1_3:1",o:["corail_dt:dust_1:4","minecraft:diamond:1"]}
+[12Aug2025 20:30:04.670] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:30:04.670] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:30:04.728] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=60817420, rs=0, cd=48
+[12Aug2025 20:30:07.070] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_sword tag {Damage:46,Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:5s}]}
+[12Aug2025 20:30:07.070] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=59768840, rs=11, cd=48
+[12Aug2025 20:30:07.928] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:iron_bars":{i:"minecraft:iron_bars:16",o:["minecraft:iron_ingot:6"]},"minecraft:iron_sword":"","minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:30:07.970] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_sword tag {Damage:46,Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:5s}]}
+[12Aug2025 20:30:07.970] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_sword {i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]}
+[12Aug2025 20:30:07.970] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=4700, ra=true, rb=true, ru=false, ss=58720264, rs=67108899, cd=48
+[12Aug2025 20:30:09.271] [Server thread/DEBUG] [corail_dt/]: Intention - start manually
+[12Aug2025 20:30:11.368] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_sword tag {Damage:46,Enchantments:[{id:"minecraft:bane_of_arthropods",lvl:5s}]}
+[12Aug2025 20:30:11.368] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_sword {i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]}
+[12Aug2025 20:30:11.369] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:30:11.369] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:30:11.419] [Server thread/DEBUG] [corail_dt/]: attempt to spawn xp {Charge:{Stamp:1755030611369L,Value:47.0f}}
+[12Aug2025 20:30:11.420] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=55574540, rs=0, cd=48
+[12Aug2025 20:30:11.570] [Server thread/DEBUG] [corail_dt/]: attempt to spawn xp {Charge:{Stamp:1755030611420L,Value:40.0f}}
+[12Aug2025 20:30:11.730] [Server thread/DEBUG] [corail_dt/]: attempt to spawn xp {Charge:{Stamp:1755030611570L,Value:12.0f}}
+[12Aug2025 20:30:18.771] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:30:29.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has completed the challenge [Gift Edition]
+[12Aug2025 20:30:36.950] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:30:36.951] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:30:36.952] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:30:36.956] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:30:36.956] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:30:36.957] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:30:36.958] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:iron_bars":{i:"minecraft:iron_bars:16",o:["minecraft:iron_ingot:6"]},"minecraft:iron_sword":"","minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:30:36.958] [Server thread/DEBUG] [corail_dt/]: Collecting done in 7ms
+[12Aug2025 20:30:36.958] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:30:36.983] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=34603016, rs=0, cd=48
+[12Aug2025 20:30:38.930] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=32505864, rs=0, cd=48
+[12Aug2025 20:30:39.220] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=32505864, rs=0, cd=3
+[12Aug2025 20:30:39.530] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=32505864, rs=0, cd=3
+[12Aug2025 20:30:39.670] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=32505864, rs=0, cd=48
+[12Aug2025 20:30:39.819] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=32505864, rs=0, cd=48
+[12Aug2025 20:30:40.470] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=31457288, rs=0, cd=3
+[12Aug2025 20:30:41.169] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=31457288, rs=0, cd=3
+[12Aug2025 20:30:41.270] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=31457288, rs=0, cd=48
+[12Aug2025 20:30:41.774] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=30408712, rs=0, cd=48
+[12Aug2025 20:30:42.269] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=30408712, rs=0, cd=3
+[12Aug2025 20:30:42.328] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=30408712, rs=0, cd=72
+[12Aug2025 20:30:42.568] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=30408712, rs=0, cd=72
+[12Aug2025 20:30:43.169] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=29360136, rs=0, cd=72
+[12Aug2025 20:30:43.419] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=29360136, rs=0, cd=72
+[12Aug2025 20:30:44.879] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 iron_sword tag {Damage:0}
+[12Aug2025 20:30:44.879] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=28311560, rs=11, cd=24
+[12Aug2025 20:30:45.543] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:iron_bars":{i:"minecraft:iron_bars:16",o:["minecraft:iron_ingot:6"]},"minecraft:iron_sword":{i:"minecraft:iron_sword:1",o:["minecraft:iron_ingot:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:30:45.569] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 iron_sword tag {Damage:0}
+[12Aug2025 20:30:45.569] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:iron_sword {i:"minecraft:iron_sword:1",o:["minecraft:iron_ingot:2","minecraft:stick:1"]}
+[12Aug2025 20:30:45.569] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=27262984, rs=67108867, cd=24
+[12Aug2025 20:30:56.074] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:31:02.071] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[12Aug2025 20:31:02.072] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:31:02.073] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:31:02.076] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:31:02.076] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:31:02.077] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:31:02.077] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:iron_bars":{i:"minecraft:iron_bars:16",o:["minecraft:iron_ingot:6"]},"minecraft:iron_sword":{i:"minecraft:iron_sword:1",o:["minecraft:iron_ingot:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:31:02.077] [Server thread/DEBUG] [corail_dt/]: Collecting done in 6ms
+[12Aug2025 20:31:02.078] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 engaged by 136
+[12Aug2025 20:31:02.129] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 iron_sword tag {Damage:0}
+[12Aug2025 20:31:02.129] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:iron_sword {i:"minecraft:iron_sword:1",o:["minecraft:iron_ingot:2","minecraft:stick:1"]}
+[12Aug2025 20:31:02.129] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=13631500, rs=67108867, cd=24
+[12Aug2025 20:31:02.728] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 iron_sword tag {Damage:0}
+[12Aug2025 20:31:02.728] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:iron_sword {i:"minecraft:iron_sword:1",o:["minecraft:iron_ingot:2","minecraft:stick:1"]}
+[12Aug2025 20:31:02.728] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=13631500, rs=67108867, cd=24
+[12Aug2025 20:31:04.728] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=11534348, rs=0, cd=72
+[12Aug2025 20:31:05.070] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_axe tag {Damage:4,Enchantments:[{id:"spells_and_shields:mana_blade",lvl:1s}]}
+[12Aug2025 20:31:05.070] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_axe {i:"minecraft:diamond_axe:1",o:["minecraft:diamond:3","minecraft:stick:2"]}
+[12Aug2025 20:31:05.071] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=1500, ra=true, rb=true, ru=false, ss=11534344, rs=67108899, cd=24
+[12Aug2025 20:31:12.533] [Server thread/DEBUG] [corail_dt/]: Intention - start manually
+[12Aug2025 20:31:16.729] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_axe tag {Damage:4,Enchantments:[{id:"spells_and_shields:mana_blade",lvl:1s}]}
+[12Aug2025 20:31:16.729] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_axe {i:"minecraft:diamond_axe:1",o:["minecraft:diamond:3","minecraft:stick:2"]}
+[12Aug2025 20:31:16.729] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - FAILURE
+[12Aug2025 20:31:16.729] [Server thread/DEBUG] [corail_dt/]: Stale process detected
+[12Aug2025 20:31:18.370] [Server thread/DEBUG] [corail_dt/]: Stale process resolution time gone
+[12Aug2025 20:31:18.370] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:31:18.370] [Server thread/DEBUG] [corail_dt/]: Stale process has been reset
+[12Aug2025 20:31:18.420] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_axe tag {Damage:4,Enchantments:[{id:"spells_and_shields:mana_blade",lvl:1s}]}
+[12Aug2025 20:31:18.420] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_axe {i:"minecraft:diamond_axe:1",o:["minecraft:diamond:3","minecraft:stick:2"]}
+[12Aug2025 20:31:18.420] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=1500, ra=true, rb=true, ru=false, ss=12, rs=67108899, cd=24
+[12Aug2025 20:31:19.819] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=12, rs=0, cd=36
+[12Aug2025 20:31:21.128] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=36
+[12Aug2025 20:31:21.529] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=36
+[12Aug2025 20:31:22.021] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=36
+[12Aug2025 20:31:22.470] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_axe tag {Damage:4,Enchantments:[{id:"spells_and_shields:mana_blade",lvl:1s}]}
+[12Aug2025 20:31:22.470] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_axe {i:"minecraft:diamond_axe:1",o:["minecraft:diamond:3","minecraft:stick:2"]}
+[12Aug2025 20:31:22.470] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=1500, ra=true, rb=true, ru=false, ss=8, rs=67108899, cd=24
+[12Aug2025 20:31:22.821] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_axe tag {Damage:4,Enchantments:[{id:"spells_and_shields:mana_blade",lvl:1s}]}
+[12Aug2025 20:31:22.821] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_axe {i:"minecraft:diamond_axe:1",o:["minecraft:diamond:3","minecraft:stick:2"]}
+[12Aug2025 20:31:22.821] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=1500, ra=true, rb=true, ru=false, ss=12, rs=67108899, cd=24
+[12Aug2025 20:31:23.328] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_axe tag {Damage:4,Enchantments:[{id:"spells_and_shields:mana_blade",lvl:1s}]}
+[12Aug2025 20:31:23.328] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_axe {i:"minecraft:diamond_axe:1",o:["minecraft:diamond:3","minecraft:stick:2"]}
+[12Aug2025 20:31:23.329] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=1500, ra=true, rb=true, ru=false, ss=12, rs=67108899, cd=24
+[12Aug2025 20:31:23.620] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_axe tag {Damage:4,Enchantments:[{id:"spells_and_shields:mana_blade",lvl:1s}]}
+[12Aug2025 20:31:23.620] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_axe {i:"minecraft:diamond_axe:1",o:["minecraft:diamond:3","minecraft:stick:2"]}
+[12Aug2025 20:31:23.621] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=1500, ra=true, rb=true, ru=false, ss=12, rs=67108899, cd=24
+[12Aug2025 20:31:25.647] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_axe":"","minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:iron_bars":{i:"minecraft:iron_bars:16",o:["minecraft:iron_ingot:6"]},"minecraft:iron_sword":{i:"minecraft:iron_sword:1",o:["minecraft:iron_ingot:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:31:25.670] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_axe tag {Damage:4,Enchantments:[{id:"spells_and_shields:mana_blade",lvl:1s}]}
+[12Aug2025 20:31:25.670] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=12, rs=11, cd=24
+[12Aug2025 20:31:26.175] [Server thread/DEBUG] [corail_dt/]: saveUserDefinedRecipe {"minecraft:cobblestone":{i:"minecraft:cobblestone:1",o:["silentgear:pebble:9"]},"minecraft:cobblestone_slab":"","minecraft:diamond_axe":{i:"minecraft:diamond_axe:1",o:["minecraft:diamond:3","minecraft:stick:2"]},"minecraft:diamond_sword":{i:"minecraft:diamond_sword:1",o:["minecraft:diamond:2","minecraft:stick:1"]},"minecraft:iron_bars":{i:"minecraft:iron_bars:16",o:["minecraft:iron_ingot:6"]},"minecraft:iron_sword":{i:"minecraft:iron_sword:1",o:["minecraft:iron_ingot:2","minecraft:stick:1"]},"minecraft:stone":{i:"minecraft:stone:1",o:["minecraft:cobblestone:1"]},"minecraft:stone_sword":{i:"minecraft:stone_sword:1",o:["minecraft:andesite:2","minecraft:stick:1"]}}
+[12Aug2025 20:31:26.220] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_axe tag {Damage:4,Enchantments:[{id:"spells_and_shields:mana_blade",lvl:1s}]}
+[12Aug2025 20:31:26.220] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_axe {i:"minecraft:diamond_axe:1",o:["minecraft:diamond:3","minecraft:stick:2"]}
+[12Aug2025 20:31:26.220] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=1, id=1, ib=0, iv=0, ib=0, xp=1500, ra=true, rb=true, ru=false, ss=8, rs=67108899, cd=24
+[12Aug2025 20:31:26.934] [Server thread/DEBUG] [corail_dt/]: Intention - start manually
+[12Aug2025 20:31:29.021] [Server thread/DEBUG] [corail_dt/]: Analysed item 1 diamond_axe tag {Damage:4,Enchantments:[{id:"spells_and_shields:mana_blade",lvl:1s}]}
+[12Aug2025 20:31:29.021] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:diamond_axe {i:"minecraft:diamond_axe:1",o:["minecraft:diamond:3","minecraft:stick:2"]}
+[12Aug2025 20:31:29.021] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[12Aug2025 20:31:29.021] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[12Aug2025 20:31:29.073] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=63963148, rs=0, cd=48
+[12Aug2025 20:31:29.128] [Server thread/DEBUG] [corail_dt/]: attempt to spawn xp {Charge:{Stamp:1755030689021L,Value:15.0f}}
+[12Aug2025 20:31:31.422] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 disarmed by 136
+[12Aug2025 20:31:33.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 20:31:33.128] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[12Aug2025 20:31:33.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Aug2025 20:33:15.532] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/22612, l='ServerLevel[world]', x=1056.47, y=61.57, z=-48.51] died: Vampire Baron Level 1 was slain by Vampire Baron Level 2
+[12Aug2025 20:33:16.861] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[12Aug2025 20:34:57.484] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[12Aug2025 20:35:01.934] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[12Aug2025 20:36:14.185] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Diego ...
+[12Aug2025 20:36:14.186] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:36:14.186] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:36:14.189] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:36:14.189] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:36:14.189] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 20:36:14.190] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {}
+[12Aug2025 20:36:14.190] [Server thread/DEBUG] [corail_dt/]: Collecting done in 5ms
+[12Aug2025 20:36:14.190] [Server thread/DEBUG] [corail_dt/]: Instance 2a075f9f engaged by 266
+[12Aug2025 20:36:14.219] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=24
+[12Aug2025 20:36:15.240] [Server thread/DEBUG] [corail_dt/]: Instance 2a075f9f disarmed by 266
+[12Aug2025 20:36:33.117] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[12Aug2025 20:36:33.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 20:36:33.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
