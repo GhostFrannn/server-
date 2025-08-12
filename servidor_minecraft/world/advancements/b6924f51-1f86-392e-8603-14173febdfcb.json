@@ -1456,15 +1456,15 @@
     },
     "done": false
   },
-  "iceandfire:iceandfire/kill_troll": {
-    "criteria": {
-      "killed_fire_dragon": "2025-08-11 14:40:00 +0000"
-    },
-    "done": true
-  },
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-08-11 14:29:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-11 14:40:00 +0000"
     },
     "done": true
   },
