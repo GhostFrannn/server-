@@ -1664,6 +1664,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-08-12 20:43:32 +0000"
+    },
+    "done": true
+  },
   "corail_dt:tutorial/build_dt_w": {
     "criteria": {
       "requirement": "2025-08-12 20:13:38 +0000"

@@ -21059,3 +21059,68 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Aug2025 20:36:33.117] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
 [12Aug2025 20:36:33.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Aug2025 20:36:33.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Aug2025 20:38:26.260] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[12Aug2025 20:38:26.545] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[12Aug2025 20:38:33.631] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[12Aug2025 20:38:33.631] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[12Aug2025 20:39:26.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=58, z=-82} BlockPos{x=40, y=59, z=-81}
+[12Aug2025 20:40:21.749] [Server thread/DEBUG] [Silent Gear/]: Recalculating for Diego's Iron Pickaxe
+[12Aug2025 20:40:21.751] [Server thread/DEBUG] [Silent Gear/]:  - Attack Damage: 3.0 -> 3.0 (+0.0) - mods: [2, +1]
+[12Aug2025 20:40:21.751] [Server thread/DEBUG] [Silent Gear/]:  - Magic Damage: 1.0 -> 1.0 (+0.0) - mods: [1]
+[12Aug2025 20:40:21.751] [Server thread/DEBUG] [Silent Gear/]:  - Rarity: 20.0 -> 20.0 (+0.0) - mods: [20]
+[12Aug2025 20:40:21.751] [Server thread/DEBUG] [Silent Gear/]:  - Durability: 250.0 -> 250.0 (+0.0) - mods: [250]
+[12Aug2025 20:40:21.751] [Server thread/DEBUG] [Silent Gear/]:  - Charging Value: 0.7 -> 0.7 (+0.0) - mods: [0.7]
+[12Aug2025 20:40:21.751] [Server thread/DEBUG] [Silent Gear/]:  - Repair Efficiency: 1.0 -> 1.0 (+0.0) - mods: [100%]
+[12Aug2025 20:40:21.751] [Server thread/DEBUG] [Silent Gear/]:  - Enchantment Value: 14.0 -> 14.0 (+0.0) - mods: [14]
+[12Aug2025 20:40:21.751] [Server thread/DEBUG] [Silent Gear/]:  - Attack Speed: -2.8 -> -2.8 (+0.0) - mods: [0, -2.8]
+[12Aug2025 20:40:21.751] [Server thread/DEBUG] [Silent Gear/]:  - Harvest Speed: 6.0 -> 6.0 (+0.0) - mods: [6]
+[12Aug2025 20:40:51.699] [IO-Worker-76/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[12Aug2025 20:41:17.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=37, z=-20} BlockPos{x=20, y=38, z=-20}
+[12Aug2025 20:41:17.984] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=20, y=37, z=-20} BlockPos{x=20, y=38, z=-20}
+[12Aug2025 20:41:33.132] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[12Aug2025 20:41:33.133] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[12Aug2025 20:41:33.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 20:41:33.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Aug2025 20:41:57.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=50, z=12} BlockPos{x=28, y=51, z=12}
+[12Aug2025 20:41:57.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=29, y=51, z=13} BlockPos{x=28, y=51, z=12}
+[12Aug2025 20:43:07.420] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=9, z=-9} BlockPos{x=77, y=9, z=-8}
+[12Aug2025 20:43:11.848] [IO-Worker-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[12Aug2025 20:43:32.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Hidden in the Depths]
+[12Aug2025 20:43:43.050] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[12Aug2025 20:44:56.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=73, y=7, z=46} BlockPos{x=72, y=7, z=46}
+[12Aug2025 20:44:57.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[12Aug2025 20:44:57.596] [IO-Worker-86/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[12Aug2025 20:45:19.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=9, z=62} BlockPos{x=91, y=8, z=60}
+[12Aug2025 20:45:19.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=9, z=62} BlockPos{x=91, y=8, z=60}
+[12Aug2025 20:45:19.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=9, z=63} BlockPos{x=91, y=8, z=60}
+[12Aug2025 20:45:19.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=94, y=8, z=63} BlockPos{x=91, y=8, z=60}
+[12Aug2025 20:45:19.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=94, y=8, z=63} BlockPos{x=91, y=8, z=60}
+[12Aug2025 20:45:19.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=94, y=8, z=63} BlockPos{x=91, y=8, z=60}
+[12Aug2025 20:45:19.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=94, y=8, z=64} BlockPos{x=91, y=8, z=60}
+[12Aug2025 20:45:20.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=95, y=8, z=64} BlockPos{x=91, y=8, z=60}
+[12Aug2025 20:45:25.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[12Aug2025 20:45:42.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[12Aug2025 20:45:56.158] [IO-Worker-86/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[12Aug2025 20:46:00.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=129, y=9, z=55} BlockPos{x=128, y=9, z=54}
+[12Aug2025 20:46:00.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=129, y=9, z=54} BlockPos{x=128, y=9, z=54}
+[12Aug2025 20:46:01.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3787ms or 75 ticks behind
+[12Aug2025 20:46:07.846] [Server thread/DEBUG] [corail_dt/]: Instance 18f3af36 destroyed
+[12Aug2025 20:46:07.846] [Server thread/DEBUG] [corail_dt/]: Instance 693fa1bd destroyed
+[12Aug2025 20:46:07.846] [Server thread/DEBUG] [corail_dt/]: Instance 6a291a6d destroyed
+[12Aug2025 20:46:07.846] [Server thread/DEBUG] [corail_dt/]: Instance 5cb92669 destroyed
+[12Aug2025 20:46:07.846] [Server thread/DEBUG] [corail_dt/]: Instance 2a075f9f destroyed
+[12Aug2025 20:46:07.846] [Server thread/DEBUG] [corail_dt/]: Instance 3be25bc1 destroyed
+[12Aug2025 20:46:07.848] [Server thread/DEBUG] [corail_dt/]: Instance 54800803 destroyed
+[12Aug2025 20:46:12.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=125, y=11, z=78} BlockPos{x=125, y=11, z=77}
+[12Aug2025 20:46:22.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=10, z=89} BlockPos{x=106, y=10, z=86}
+[12Aug2025 20:46:42.947] [IO-Worker-86/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[12Aug2025 20:46:42.947] [IO-Worker-88/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[12Aug2025 20:46:42.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Aug2025 20:46:42.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Aug2025 20:46:47.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=57, y=10, z=105} BlockPos{x=57, y=9, z=105}
+[12Aug2025 20:46:57.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=44, y=10, z=103} BlockPos{x=42, y=10, z=103}
+[12Aug2025 20:46:57.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=10, z=103} BlockPos{x=42, y=10, z=103}
+[12Aug2025 20:46:57.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=10, z=103} BlockPos{x=42, y=10, z=103}
+[12Aug2025 20:46:57.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=10, z=104} BlockPos{x=42, y=10, z=103}
+[12Aug2025 20:46:57.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=11, z=105} BlockPos{x=42, y=10, z=103}
+[12Aug2025 20:47:11.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
