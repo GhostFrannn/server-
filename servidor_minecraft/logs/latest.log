@@ -1169,3 +1169,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Aug2025 20:55:58.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2440ms or 48 ticks behind
 [12Aug2025 20:56:16.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
 [12Aug2025 20:56:28.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[12Aug2025 20:58:11.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12Aug2025 20:58:29.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2763ms or 55 ticks behind
+[12Aug2025 21:01:22.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [A Metallur-what?]
+[12Aug2025 21:03:26.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Your First Generator]
+[12Aug2025 21:06:08.020] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/114112, l='ServerLevel[world]', x=917.50, y=70.00, z=-116.39] died: Vampire Baron Level 1 was killed by Vampire Baron Level 5 using magic
+[12Aug2025 21:06:14.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Enchanter]
+[12Aug2025 21:13:12.746] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 21:13:12.747] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 21:13:12.749] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 21:13:12.750] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 21:13:12.750] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 21:13:40.250] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 21:13:40.251] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 21:13:40.254] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 21:13:40.254] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 21:13:40.254] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[12Aug2025 21:15:06.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]

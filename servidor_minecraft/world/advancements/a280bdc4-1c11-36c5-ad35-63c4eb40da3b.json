@@ -1658,9 +1658,21 @@
     },
     "done": false
   },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2025-08-12 21:01:22 +0000"
+    },
+    "done": true
+  },
   "corail_dt:tutorial/build_dt": {
     "criteria": {
       "requirement": "2025-08-12 20:13:29 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:heat_generator": {
+    "criteria": {
+      "heat_generator": "2025-08-12 21:03:26 +0000"
     },
     "done": true
   },
