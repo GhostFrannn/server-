@@ -1510,6 +1510,12 @@
     },
     "done": true
   },
+  "silentgear:material_grader": {
+    "criteria": {
+      "get_grader": "2025-08-12 20:50:31 +0000"
+    },
+    "done": false
+  },
   "corail_dt:tutorial/build_dt_w_c_f": {
     "criteria": {
       "requirement": "2025-08-12 20:13:44 +0000"
