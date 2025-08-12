@@ -1586,5 +1586,17 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "magma_cream": "2025-08-12 19:42:07 +0000"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/bricks": {
+    "criteria": {
+      "has_planks": "2025-08-12 19:58:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
