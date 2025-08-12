@@ -1468,5 +1468,11 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/dark_oak_planks": {
+    "criteria": {
+      "has_planks": "2025-08-12 19:31:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

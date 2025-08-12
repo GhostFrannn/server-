@@ -886,3 +886,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Aug2025 19:14:22.775] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/1757, l='ServerLevel[world]', x=951.43, y=71.00, z=-128.55] died: Vampire Baron Level 1 was slain by Vampire Baron Level 2
 [12Aug2025 19:35:34.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1083, y=64, z=-161} BlockPos{x=1084, y=63, z=-161}
 [12Aug2025 19:35:50.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1076, y=62, z=-189} BlockPos{x=1077, y=60, z=-190}
+[12Aug2025 19:38:16.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1072, y=68, z=-135} BlockPos{x=1073, y=68, z=-135}
+[12Aug2025 19:38:16.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1072, y=68, z=-135} BlockPos{x=1073, y=68, z=-135}
+[12Aug2025 19:38:16.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1072, y=68, z=-135} BlockPos{x=1073, y=68, z=-135}
+[12Aug2025 19:43:11.829] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/10977, l='ServerLevel[world]', x=1148.96, y=65.00, z=-199.12] died: Vampire Baron Level 3 was slain by Vampire Baron Level 3
+[12Aug2025 19:43:46.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[12Aug2025 19:45:18.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
