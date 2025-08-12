@@ -1592,9 +1592,33 @@
     },
     "done": false
   },
+  "corail_dt:tutorial/build_dt_w_c_f": {
+    "criteria": {
+      "requirement": "2025-08-12 20:14:23 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/build_dt": {
+    "criteria": {
+      "requirement": "2025-08-12 20:13:29 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/build_dt_w": {
+    "criteria": {
+      "requirement": "2025-08-12 20:13:38 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/bricks": {
     "criteria": {
       "has_planks": "2025-08-12 19:58:55 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/build_dt_w_c": {
+    "criteria": {
+      "requirement": "2025-08-12 20:13:55 +0000"
     },
     "done": true
   },

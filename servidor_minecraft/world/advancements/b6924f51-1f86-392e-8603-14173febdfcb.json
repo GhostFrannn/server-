@@ -1468,9 +1468,51 @@
     },
     "done": true
   },
+  "corail_dt:tutorial/dt_1": {
+    "criteria": {
+      "coded_trigger": "2025-08-12 20:15:35 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/build_dt_w_c_f": {
+    "criteria": {
+      "requirement": "2025-08-12 20:13:44 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/build_complete": {
+    "criteria": {
+      "requirement2": "2025-08-12 20:14:57 +0000"
+    },
+    "done": false
+  },
+  "corail_dt:tutorial/build_dt": {
+    "criteria": {
+      "requirement": "2025-08-12 20:08:10 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/build_dt_w": {
+    "criteria": {
+      "requirement": "2025-08-12 20:11:15 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/dark_oak_planks": {
     "criteria": {
       "has_planks": "2025-08-12 19:31:39 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/build_disk": {
+    "criteria": {
+      "requirement": "2025-08-12 20:14:57 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/build_dt_w_c": {
+    "criteria": {
+      "requirement": "2025-08-12 20:11:41 +0000"
     },
     "done": true
   },

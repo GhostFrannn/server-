@@ -1966,3 +1966,4 @@ java.lang.NullPointerException: Cannot invoke "mod.gottsch.forge.gottschcore.wor
 2025-08-12 19:06:27,599 [Server thread] INFO treasure2 | WorldEventHandler.java:64 | In world load event for dimension aether:the_aether
 2025-08-12 19:06:27,612 [Server thread] INFO treasure2 | WorldEventHandler.java:54 | In world load event
 2025-08-12 19:06:27,612 [Server thread] INFO treasure2 | WorldEventHandler.java:64 | In world load event for dimension minecraft:the_end
+2025-08-12 20:09:22,475 [Server thread] INFO treasure2 | WitherChestTopBlock.java:76 | wither chest TOP activated
