@@ -1186,3 +1186,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Aug2025 21:13:40.254] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
 [12Aug2025 21:13:40.254] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
 [12Aug2025 21:15:06.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[12Aug2025 21:26:07.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[12Aug2025 21:26:20.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego lost connection: Disconnected
+[12Aug2025 21:26:20.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego left the game
