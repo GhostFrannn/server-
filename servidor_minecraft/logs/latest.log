@@ -922,3 +922,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Aug2025 11:42:07.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Made Diego a server operator]
 [13Aug2025 11:48:57.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
 [13Aug2025 11:49:55.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/25457, l='ServerLevel[world]', x=1046.61, y=70.00, z=-94.40] died: Vampire Baron Level 1 was slain by Frannn
+[13Aug2025 11:50:48.318] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:48.319] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:48.321] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:48.321] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:48.322] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.415] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.417] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.418] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.419] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.419] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.915] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.917] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.918] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.918] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.919] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:51.364] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:51.365] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:51.366] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:51.367] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:51.368] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:53:40.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[13Aug2025 11:54:57.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[13Aug2025 11:55:02.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Made Diego no longer a server operator]
+[13Aug2025 11:55:06.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Gave 1 [Slimeball] to Frannn]
+[13Aug2025 11:56:30.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Gave 9 [Slimeball] to Frannn]

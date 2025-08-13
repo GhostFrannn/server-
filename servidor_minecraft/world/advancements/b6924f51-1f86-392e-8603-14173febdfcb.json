@@ -1482,7 +1482,8 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
-      "magma_cream": "2025-08-11 14:04:43 +0000"
+      "magma_cream": "2025-08-11 14:04:43 +0000",
+      "earth": "2025-08-13 11:55:10 +0000"
     },
     "done": false
   },

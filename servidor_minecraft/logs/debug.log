@@ -19661,3 +19661,60 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Aug2025 11:49:33.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Aug2025 11:49:33.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Aug2025 11:49:55.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/25457, l='ServerLevel[world]', x=1046.61, y=70.00, z=-94.40] died: Vampire Baron Level 1 was slain by Frannn
+[13Aug2025 11:50:08.612] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[13Aug2025 11:50:48.317] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[13Aug2025 11:50:48.318] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:48.319] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:48.321] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:48.321] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:48.322] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:48.324] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {}
+[13Aug2025 11:50:48.324] [Server thread/DEBUG] [corail_dt/]: Collecting done in 6ms
+[13Aug2025 11:50:48.324] [Server thread/DEBUG] [corail_dt/]: Instance 56afe201 engaged by 606
+[13Aug2025 11:50:48.359] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=0, rs=0, cd=3
+[13Aug2025 11:50:50.158] [Server thread/DEBUG] [corail_dt/]: Instance 56afe201 disarmed by 606
+[13Aug2025 11:50:50.415] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[13Aug2025 11:50:50.415] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.417] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.418] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.419] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.419] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.422] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {}
+[13Aug2025 11:50:50.422] [Server thread/DEBUG] [corail_dt/]: Collecting done in 6ms
+[13Aug2025 11:50:50.422] [Server thread/DEBUG] [corail_dt/]: Instance 49edc22d engaged by 606
+[13Aug2025 11:50:50.457] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=0, rs=0, cd=3
+[13Aug2025 11:50:50.757] [Server thread/DEBUG] [corail_dt/]: Instance 49edc22d disarmed by 606
+[13Aug2025 11:50:50.915] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[13Aug2025 11:50:50.915] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.917] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.918] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.918] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.919] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:50.921] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {}
+[13Aug2025 11:50:50.921] [Server thread/DEBUG] [corail_dt/]: Collecting done in 5ms
+[13Aug2025 11:50:50.921] [Server thread/DEBUG] [corail_dt/]: Instance 49edc22d engaged by 606
+[13Aug2025 11:50:50.956] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=0, rs=0, cd=3
+[13Aug2025 11:50:51.229] [Server thread/DEBUG] [corail_dt/]: Instance 49edc22d disarmed by 606
+[13Aug2025 11:50:51.364] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[13Aug2025 11:50:51.364] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:51.365] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:51.366] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:51.367] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:51.368] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:50:51.370] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {}
+[13Aug2025 11:50:51.370] [Server thread/DEBUG] [corail_dt/]: Collecting done in 6ms
+[13Aug2025 11:50:51.370] [Server thread/DEBUG] [corail_dt/]: Instance 49edc22d engaged by 606
+[13Aug2025 11:50:51.407] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=0, rs=0, cd=3
+[13Aug2025 11:50:51.631] [Server thread/DEBUG] [corail_dt/]: Instance 49edc22d disarmed by 606
+[13Aug2025 11:53:40.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[13Aug2025 11:54:28.121] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[13Aug2025 11:54:33.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 11:54:33.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 11:54:57.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[13Aug2025 11:55:02.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Made Diego no longer a server operator]
+[13Aug2025 11:55:06.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Gave 1 [Slimeball] to Frannn]
+[13Aug2025 11:56:30.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Gave 9 [Slimeball] to Frannn]
+[13Aug2025 11:57:03.125] [IO-Worker-68/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[13Aug2025 11:58:41.203] [IO-Worker-71/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[13Aug2025 11:59:33.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 11:59:33.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
