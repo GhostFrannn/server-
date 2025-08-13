@@ -19391,3 +19391,127 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Aug2025 10:54:34.222] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAI from upgradedtrims.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [13Aug2025 10:56:36.578] [IO-Worker-16/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-17
 [13Aug2025 10:57:22.732] [IO-Worker-16/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-18
+[13Aug2025 10:58:28.223] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-19
+[13Aug2025 10:59:01.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Tricking a Rock Into Thinking]
+[13Aug2025 10:59:08.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [The Perfect Foundation]
+[13Aug2025 10:59:10.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Getting More From Less]
+[13Aug2025 10:59:24.121] [IO-Worker-15/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-20
+[13Aug2025 10:59:24.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 10:59:24.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 11:00:29.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [The Alloy That Started it All]
+[13Aug2025 11:01:00.569] [IO-Worker-19/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-21
+[13Aug2025 11:04:24.116] [IO-Worker-19/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-22
+[13Aug2025 11:04:24.117] [IO-Worker-22/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-23
+[13Aug2025 11:04:24.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 11:04:24.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 11:05:19.412] [Server thread/DEBUG] [corail_dt/]: Collecting recipes for Frannn ...
+[13Aug2025 11:05:19.415] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:05:19.418] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:05:19.420] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:05:19.421] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:05:19.422] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:05:19.426] [Server thread/DEBUG] [corail_dt/]: loadUserDefinedRecipes {}
+[13Aug2025 11:05:19.426] [Server thread/DEBUG] [corail_dt/]: Collecting done in 14ms
+[13Aug2025 11:05:19.427] [Server thread/DEBUG] [corail_dt/]: Instance 5ea8fb50 engaged by 606
+[13Aug2025 11:05:19.461] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=24
+[13Aug2025 11:05:20.062] [Server thread/DEBUG] [corail_dt/]: Analysed item 64 dust_3 tag null
+[13Aug2025 11:05:20.062] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:20.062] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=9, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=8, rs=603979779, cd=24
+[13Aug2025 11:05:21.407] [Server thread/DEBUG] [corail_dt/]: Intention - start manually
+[13Aug2025 11:05:21.761] [Server thread/DEBUG] [corail_dt/]: Analysed item 64 dust_3 tag null
+[13Aug2025 11:05:21.761] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:21.762] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[13Aug2025 11:05:21.762] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[13Aug2025 11:05:21.809] [Server thread/DEBUG] [corail_dt/]: Analysed item 55 dust_3 tag null
+[13Aug2025 11:05:21.809] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:21.809] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=9, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=65011724, rs=603979779, cd=48
+[13Aug2025 11:05:22.317] [Server thread/DEBUG] [corail_dt/]: Intention - start manually
+[13Aug2025 11:05:22.660] [Server thread/DEBUG] [corail_dt/]: Analysed item 55 dust_3 tag null
+[13Aug2025 11:05:22.660] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:22.660] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[13Aug2025 11:05:22.660] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[13Aug2025 11:05:22.715] [Server thread/DEBUG] [corail_dt/]: Analysed item 46 dust_3 tag null
+[13Aug2025 11:05:22.716] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:22.716] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=9, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=65011724, rs=603979779, cd=48
+[13Aug2025 11:05:22.735] [Server thread/DEBUG] [corail_dt/]: Intention - stop
+[13Aug2025 11:05:23.170] [Server thread/DEBUG] [corail_dt/]: Intention - start manually
+[13Aug2025 11:05:23.516] [Server thread/DEBUG] [corail_dt/]: Analysed item 46 dust_3 tag null
+[13Aug2025 11:05:23.516] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:23.516] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[13Aug2025 11:05:23.516] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[13Aug2025 11:05:23.560] [Server thread/DEBUG] [corail_dt/]: Analysed item 37 dust_3 tag null
+[13Aug2025 11:05:23.560] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:23.560] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=9, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=63963148, rs=603979779, cd=48
+[13Aug2025 11:05:23.608] [Server thread/DEBUG] [corail_dt/]: Intention - turn automatic mode on
+[13Aug2025 11:05:23.958] [Server thread/DEBUG] [corail_dt/]: Analysed item 37 dust_3 tag null
+[13Aug2025 11:05:23.958] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:23.959] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[13Aug2025 11:05:23.959] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[13Aug2025 11:05:24.008] [Server thread/DEBUG] [corail_dt/]: Analysed item 28 dust_3 tag null
+[13Aug2025 11:05:24.009] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:24.009] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=9, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=62914574, rs=603979779, cd=48
+[13Aug2025 11:05:24.316] [Server thread/DEBUG] [corail_dt/]: Analysed item 28 dust_3 tag null
+[13Aug2025 11:05:24.316] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:24.316] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[13Aug2025 11:05:24.317] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[13Aug2025 11:05:24.359] [Server thread/DEBUG] [corail_dt/]: Analysed item 19 dust_3 tag null
+[13Aug2025 11:05:24.359] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:24.359] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=9, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=62914574, rs=603979779, cd=48
+[13Aug2025 11:05:24.658] [Server thread/DEBUG] [corail_dt/]: Analysed item 19 dust_3 tag null
+[13Aug2025 11:05:24.658] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:24.658] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[13Aug2025 11:05:24.658] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[13Aug2025 11:05:24.717] [Server thread/DEBUG] [corail_dt/]: Analysed item 38 dust_3 tag null
+[13Aug2025 11:05:24.717] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:24.717] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=9, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=62914574, rs=603979779, cd=48
+[13Aug2025 11:05:25.007] [Server thread/DEBUG] [corail_dt/]: Analysed item 38 dust_3 tag null
+[13Aug2025 11:05:25.007] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:25.007] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[13Aug2025 11:05:25.007] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[13Aug2025 11:05:25.060] [Server thread/DEBUG] [corail_dt/]: Analysed item 29 dust_3 tag null
+[13Aug2025 11:05:25.060] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:25.061] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=9, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=62914574, rs=603979779, cd=48
+[13Aug2025 11:05:25.359] [Server thread/DEBUG] [corail_dt/]: Analysed item 29 dust_3 tag null
+[13Aug2025 11:05:25.359] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:25.359] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[13Aug2025 11:05:25.359] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[13Aug2025 11:05:25.407] [Server thread/DEBUG] [corail_dt/]: Analysed item 20 dust_3 tag null
+[13Aug2025 11:05:25.407] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:25.407] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=9, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=61865998, rs=603979779, cd=48
+[13Aug2025 11:05:25.716] [Server thread/DEBUG] [corail_dt/]: Analysed item 20 dust_3 tag null
+[13Aug2025 11:05:25.716] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:25.717] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[13Aug2025 11:05:25.717] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[13Aug2025 11:05:25.757] [Server thread/DEBUG] [corail_dt/]: Analysed item 11 dust_3 tag null
+[13Aug2025 11:05:25.757] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:25.757] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=9, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=61865998, rs=603979779, cd=48
+[13Aug2025 11:05:26.058] [Server thread/DEBUG] [corail_dt/]: Analysed item 11 dust_3 tag null
+[13Aug2025 11:05:26.058] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:26.058] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - OK
+[13Aug2025 11:05:26.058] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[13Aug2025 11:05:26.113] [Server thread/DEBUG] [corail_dt/]: Analysed item 2 dust_3 tag null
+[13Aug2025 11:05:26.113] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:26.116] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=9, id=1, ib=0, iv=0, ib=0, xp=0, ra=true, rb=true, ru=false, ss=61865998, rs=603979779, cd=48
+[13Aug2025 11:05:26.408] [Server thread/DEBUG] [corail_dt/]: Analysed item 2 dust_3 tag null
+[13Aug2025 11:05:26.408] [Server thread/DEBUG] [corail_dt/]:     recipe minecraft:custom {i:"corail_dt:dust_3:9",o:["minecraft:diamond:1"]}
+[13Aug2025 11:05:26.409] [Server thread/DEBUG] [corail_dt/]: Attempt to process: outcome - FAILURE
+[13Aug2025 11:05:26.409] [Server thread/DEBUG] [corail_dt/]: Stale process detected
+[13Aug2025 11:05:28.058] [Server thread/DEBUG] [corail_dt/]: Stale process resolution time gone
+[13Aug2025 11:05:28.058] [Server thread/DEBUG] [corail_dt/]: Process has been reset
+[13Aug2025 11:05:28.058] [Server thread/DEBUG] [corail_dt/]: Stale process has been reset
+[13Aug2025 11:05:28.117] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=59768846, rs=0, cd=48
+[13Aug2025 11:05:31.016] [Server thread/DEBUG] [corail_dt/]: Instance 5ea8fb50 disarmed by 606
+[13Aug2025 11:05:50.659] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-24
+[13Aug2025 11:05:57.014] [IO-Worker-24/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-25
+[13Aug2025 11:05:57.236] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[13Aug2025 11:05:57.290] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[13Aug2025 11:05:57.303] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 26.14 and blood value 0 for entity alexsmobs:laviathan
+[13Aug2025 11:05:57.950] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.51 and blood value 3 for entity quark:foxhound
+[13Aug2025 11:05:59.487] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-26
+[13Aug2025 11:05:59.488] [IO-Worker-21/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-27
+[13Aug2025 11:05:59.894] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.PiglinBruteAiMixin from saturn.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinBruteAi
+[13Aug2025 11:06:28.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Infusing Efficiency]
+[13Aug2025 11:07:13.014] [IO-Worker-25/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-28
+[13Aug2025 11:07:13.580] [IO-Worker-28/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-29
+[13Aug2025 11:07:31.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Hot Stuff]
+[13Aug2025 11:07:51.403] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.HoglinAiMixin from saturn.mixins.json into net.minecraft.world.entity.monster.hoglin.HoglinAi

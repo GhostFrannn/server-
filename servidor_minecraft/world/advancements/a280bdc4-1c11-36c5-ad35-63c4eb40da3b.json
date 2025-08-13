@@ -1706,9 +1706,39 @@
     },
     "done": true
   },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2025-08-13 11:02:30 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-08-13 10:59:08 +0000"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-08-13 10:59:01 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2025-08-13 11:00:29 +0000"
+    },
+    "done": true
+  },
   "mekanism:steel_ingot": {
     "criteria": {
       "ingot_steel": "2025-08-13 10:53:41 +0000"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-08-13 10:59:10 +0000"
     },
     "done": true
   },

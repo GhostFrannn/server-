@@ -881,3 +881,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Aug2025 10:51:36.103] [Server thread/INFO] [Jade/]: Syncing config to Frannn (a280bdc4-1c11-36c5-ad35-63c4eb40da3b)
 [13Aug2025 10:53:41.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Industrial Revolution]
 [13Aug2025 10:54:00.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Industrial Revolution]
+[13Aug2025 10:59:01.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Tricking a Rock Into Thinking]
+[13Aug2025 10:59:08.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [The Perfect Foundation]
+[13Aug2025 10:59:10.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Getting More From Less]
+[13Aug2025 11:00:29.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [The Alloy That Started it All]
+[13Aug2025 11:05:19.415] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:05:19.418] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:05:19.420] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:05:19.421] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:05:19.422] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[13Aug2025 11:05:57.236] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[13Aug2025 11:06:28.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Infusing Efficiency]
+[13Aug2025 11:07:31.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Hot Stuff]
