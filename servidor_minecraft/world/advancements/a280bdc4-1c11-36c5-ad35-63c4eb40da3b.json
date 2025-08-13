@@ -1616,6 +1616,54 @@
     },
     "done": true
   },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "magma_cream": "2025-08-12 19:42:07 +0000"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/bricks": {
+    "criteria": {
+      "has_planks": "2025-08-12 19:58:55 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/build_dt": {
+    "criteria": {
+      "requirement": "2025-08-12 20:13:29 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/build_dt_w": {
+    "criteria": {
+      "requirement": "2025-08-12 20:13:38 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/build_dt_w_c": {
+    "criteria": {
+      "requirement": "2025-08-12 20:13:55 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/build_dt_w_c_f": {
+    "criteria": {
+      "requirement": "2025-08-12 20:14:23 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/build_disk": {
+    "criteria": {
+      "requirement": "2025-08-12 20:16:39 +0000"
+    },
+    "done": true
+  },
+  "corail_dt:tutorial/build_complete": {
+    "criteria": {
+      "requirement2": "2025-08-12 20:16:40 +0000"
+    },
+    "done": false
+  },
   "corail_dt:tutorial/dt_1": {
     "criteria": {
       "coded_trigger": "2025-08-12 20:19:39 +0000"
@@ -1640,33 +1688,15 @@
     },
     "done": true
   },
-  "tconstruct:world/slime_collector": {
+  "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
-      "magma_cream": "2025-08-12 19:42:07 +0000"
-    },
-    "done": false
-  },
-  "corail_dt:tutorial/build_dt_w_c_f": {
-    "criteria": {
-      "requirement": "2025-08-12 20:14:23 +0000"
+      "ancient_debris": "2025-08-12 20:43:32 +0000"
     },
     "done": true
-  },
-  "corail_dt:tutorial/build_complete": {
-    "criteria": {
-      "requirement2": "2025-08-12 20:16:40 +0000"
-    },
-    "done": false
   },
   "mekanism:metallurgic_infuser": {
     "criteria": {
       "metallurgic_infuser": "2025-08-12 21:01:22 +0000"
-    },
-    "done": true
-  },
-  "corail_dt:tutorial/build_dt": {
-    "criteria": {
-      "requirement": "2025-08-12 20:13:29 +0000"
     },
     "done": true
   },
@@ -1676,33 +1706,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_ancient_debris": {
+  "mekanism:steel_ingot": {
     "criteria": {
-      "ancient_debris": "2025-08-12 20:43:32 +0000"
-    },
-    "done": true
-  },
-  "corail_dt:tutorial/build_dt_w": {
-    "criteria": {
-      "requirement": "2025-08-12 20:13:38 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/bricks": {
-    "criteria": {
-      "has_planks": "2025-08-12 19:58:55 +0000"
-    },
-    "done": true
-  },
-  "corail_dt:tutorial/build_disk": {
-    "criteria": {
-      "requirement": "2025-08-12 20:16:39 +0000"
-    },
-    "done": true
-  },
-  "corail_dt:tutorial/build_dt_w_c": {
-    "criteria": {
-      "requirement": "2025-08-12 20:13:55 +0000"
+      "ingot_steel": "2025-08-13 10:53:41 +0000"
     },
     "done": true
   },
