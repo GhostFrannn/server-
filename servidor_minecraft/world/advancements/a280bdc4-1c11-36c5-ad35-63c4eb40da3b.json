@@ -1736,9 +1736,21 @@
     },
     "done": true
   },
+  "mekanismgenerators:solar_generator": {
+    "criteria": {
+      "solar_generator": "2025-08-13 11:10:33 +0000"
+    },
+    "done": true
+  },
   "mekanism:enricher": {
     "criteria": {
       "enrichment_chamber": "2025-08-13 10:59:10 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2025-08-13 11:06:28 +0000"
     },
     "done": true
   },

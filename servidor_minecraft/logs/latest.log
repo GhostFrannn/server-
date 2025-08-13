@@ -893,3 +893,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Aug2025 11:05:57.236] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
 [13Aug2025 11:06:28.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Infusing Efficiency]
 [13Aug2025 11:07:31.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Hot Stuff]
+[13Aug2025 11:10:44.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 1000]
+[13Aug2025 11:11:36.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[13Aug2025 11:11:47.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[13Aug2025 11:17:08.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Frannn fell from a high place, they gave up
+[13Aug2025 11:17:34.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
