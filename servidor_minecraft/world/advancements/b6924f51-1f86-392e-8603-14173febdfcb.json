@@ -1554,9 +1554,10 @@
   },
   "silentgear:material_grader": {
     "criteria": {
-      "get_grader": "2025-08-12 20:50:31 +0000"
+      "get_grader": "2025-08-12 20:50:31 +0000",
+      "get_catalyst": "2025-08-13 11:39:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enchant_item": {
     "criteria": {

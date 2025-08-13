@@ -19544,3 +19544,104 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Aug2025 11:17:16.334] [Server thread/DEBUG] [mixin/]: Mixing allocations.do_nothing.GoatAiMixin from saturn.mixins.json into net.minecraft.world.entity.animal.goat.GoatAi
 [13Aug2025 11:17:16.835] [Worker-Main-5/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 5.288s
 [13Aug2025 11:17:34.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[13Aug2025 11:19:26.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 11:19:26.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 11:19:26.235] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[13Aug2025 11:19:26.236] [IO-Worker-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[13Aug2025 11:21:09.626] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[13Aug2025 11:21:09.626] [IO-Worker-42/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[13Aug2025 11:22:09.770] [IO-Worker-44/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[13Aug2025 11:22:16.898] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[13Aug2025 11:22:16.899] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[13Aug2025 11:22:22.621] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[13Aug2025 11:23:17.464] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/14612, l='ServerLevel[world]', x=983.02, y=87.00, z=-89.19] died: Vampire Baron Level 3 was slain by Vampire Baron Level 3
+[13Aug2025 11:23:55.628] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[13Aug2025 11:24:21.996] [IO-Worker-48/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[13Aug2025 11:24:26.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 11:24:26.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 11:24:48.066] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[13Aug2025 11:24:48.876] [Server thread/DEBUG] [corail_dt/]: Instance 45fd2feb destroyed
+[13Aug2025 11:24:48.876] [Server thread/DEBUG] [corail_dt/]: Instance 77102dfb destroyed
+[13Aug2025 11:24:48.876] [Server thread/DEBUG] [corail_dt/]: Instance 583bab19 destroyed
+[13Aug2025 11:24:48.876] [Server thread/DEBUG] [corail_dt/]: Instance 2d5fabd7 destroyed
+[13Aug2025 11:24:48.876] [Server thread/DEBUG] [corail_dt/]: Instance 2f1516e3 destroyed
+[13Aug2025 11:24:48.876] [Server thread/DEBUG] [corail_dt/]: Instance 1714be0 destroyed
+[13Aug2025 11:24:48.879] [Server thread/DEBUG] [corail_dt/]: Instance 5ea8fb50 destroyed
+[13Aug2025 11:25:05.620] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[13Aug2025 11:25:08.303] [Worker-Main-5/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[13Aug2025 11:25:08.303] [Worker-Main-5/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[13Aug2025 11:25:08.303] [Worker-Main-5/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[13Aug2025 11:25:08.304] [Worker-Main-5/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[13Aug2025 11:25:09.026] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[13Aug2025 11:25:09.150] [Worker-Main-5/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[13Aug2025 11:26:43.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=35, y=124, z=-371} BlockPos{x=36, y=123, z=-371}
+[13Aug2025 11:26:43.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=35, y=124, z=-371} BlockPos{x=36, y=123, z=-371}
+[13Aug2025 11:27:04.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[13Aug2025 11:27:09.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Spectator Mode]
+[13Aug2025 11:27:12.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[13Aug2025 11:27:14.892] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.25 and blood value 0 for entity alexsmobs:terrapin
+[13Aug2025 11:27:16.679] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[13Aug2025 11:27:17.865] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[13Aug2025 11:27:18.151] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=0, rs=0, cd=3
+[13Aug2025 11:27:18.153] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=0, rs=0, cd=3
+[13Aug2025 11:27:18.160] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=0, rs=0, cd=3
+[13Aug2025 11:27:18.160] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=0, rs=0, cd=3
+[13Aug2025 11:27:18.170] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=24
+[13Aug2025 11:27:18.172] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=0, rs=0, cd=3
+[13Aug2025 11:27:18.899] [Server thread/DEBUG] [corail_dt/]: Recipe updated: ii=0, id=0, ib=0, iv=0, ib=0, xp=0, ra=false, rb=false, ru=false, ss=8, rs=0, cd=24
+[13Aug2025 11:27:19.560] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[13Aug2025 11:27:27.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/19745, l='ServerLevel[world]', x=1016.70, y=70.00, z=-8.06] died: Vampire Baron Level 2 was slain by Vampire Baron Level 2
+[13Aug2025 11:27:32.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Made Diego no longer a server operator]
+[13Aug2025 11:27:34.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
+[13Aug2025 11:27:57.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[13Aug2025 11:28:02.536] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[13Aug2025 11:28:02.546] [Worker-Main-4/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[13Aug2025 11:28:02.549] [Worker-Main-4/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[13Aug2025 11:28:02.568] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[13Aug2025 11:28:02.572] [Worker-Main-4/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[13Aug2025 11:28:07.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5447ms or 108 ticks behind
+[13Aug2025 11:28:09.626] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-55, z=14}
+[13Aug2025 11:28:11.721] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=146, y=47, z=-3009} but found not block entity block Block{minecraft:water}[level=0] at location
+[13Aug2025 11:28:11.722] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=146, y=47, z=-3009}
+[13Aug2025 11:28:16.157] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19649, l='ServerLevel[world]', x=1054.09, y=68.00, z=-125.30] died, message: 'Unemployed was sucked dry'
+[13Aug2025 11:28:23.279] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 3.61 and blood value 15 for entity iceandfire:hippocampus
+[13Aug2025 11:28:23.542] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[13Aug2025 11:28:23.548] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_corsair/illager_corsair_pillager_0 is being run through DFU (hash 6eff5031ef7d716f5121d2e4f9fe2593e55a9d2fc76423d5d7c12b5e309de323), this will cause launch time delays
+[13Aug2025 11:28:24.195] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_corsair/illager_corsair_evoker_0 is being run through DFU (hash 57739cc8b285e7f62ad804c42b8162264fff580438b26fe6b746127afe9cf810), this will cause launch time delays
+[13Aug2025 11:28:24.223] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_corsair/illager_corsair_vindicator_spawner_0 is being run through DFU (hash 227df976f5e96c1c7abcde4371685dd199f32cf418d794d2a4c66bf137aa418f), this will cause launch time delays
+[13Aug2025 11:28:24.316] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[13Aug2025 11:28:26.402] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[13Aug2025 11:28:26.416] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[13Aug2025 11:28:26.432] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[13Aug2025 11:28:26.438] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[13Aug2025 11:28:26.443] [Worker-Main-5/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_0 is being run through DFU (hash f1300531218d9ff732065c9f8ca642b4b44a6e3f501632ab0e1c61e6acdb4bfa), this will cause launch time delays
+[13Aug2025 11:28:26.578] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[13Aug2025 11:28:26.591] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[13Aug2025 11:28:26.604] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[13Aug2025 11:28:26.624] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[13Aug2025 11:28:26.639] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[13Aug2025 11:28:26.669] [Worker-Main-5/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[13Aug2025 11:28:30.863] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[13Aug2025 11:28:37.378] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[13Aug2025 11:28:37.391] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[13Aug2025 11:28:37.415] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[13Aug2025 11:28:37.425] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[13Aug2025 11:28:37.437] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[13Aug2025 11:29:33.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 11:29:33.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 11:30:03.870] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.09 and blood value 0 for entity alexsmobs:hummingbird
+[13Aug2025 11:30:06.266] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[13Aug2025 11:31:30.674] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[13Aug2025 11:32:02.730] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 12.1 and blood value 15 for entity alexsmobs:bison
+[13Aug2025 11:32:13.537] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.26 and blood value 0 for entity alexsmobs:banana_slug
+[13Aug2025 11:34:33.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 11:34:33.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 11:35:08.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[13Aug2025 11:36:14.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set 31 experience levels on Frannn]
+[13Aug2025 11:36:23.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Made Diego a server operator]
+[13Aug2025 11:39:05.317] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[13Aug2025 11:39:20.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Material Grader]
+[13Aug2025 11:39:24.418] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[13Aug2025 11:39:33.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 11:39:33.513] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[13Aug2025 11:39:33.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

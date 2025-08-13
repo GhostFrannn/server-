@@ -898,3 +898,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Aug2025 11:11:47.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
 [13Aug2025 11:17:08.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: After Frannn fell from a high place, they gave up
 [13Aug2025 11:17:34.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[13Aug2025 11:23:17.464] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/14612, l='ServerLevel[world]', x=983.02, y=87.00, z=-89.19] died: Vampire Baron Level 3 was slain by Vampire Baron Level 3
+[13Aug2025 11:26:43.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=35, y=124, z=-371} BlockPos{x=36, y=123, z=-371}
+[13Aug2025 11:26:43.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=35, y=124, z=-371} BlockPos{x=36, y=123, z=-371}
+[13Aug2025 11:27:04.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[13Aug2025 11:27:09.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Spectator Mode]
+[13Aug2025 11:27:12.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[13Aug2025 11:27:27.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/19745, l='ServerLevel[world]', x=1016.70, y=70.00, z=-8.06] died: Vampire Baron Level 2 was slain by Vampire Baron Level 2
+[13Aug2025 11:27:32.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Made Diego no longer a server operator]
+[13Aug2025 11:27:34.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
+[13Aug2025 11:27:57.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[13Aug2025 11:28:07.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5447ms or 108 ticks behind
+[13Aug2025 11:28:09.626] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-55, z=14}
+[13Aug2025 11:28:11.721] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=146, y=47, z=-3009} but found not block entity block Block{minecraft:water}[level=0] at location
+[13Aug2025 11:28:11.722] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=146, y=47, z=-3009}
+[13Aug2025 11:28:16.157] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19649, l='ServerLevel[world]', x=1054.09, y=68.00, z=-125.30] died, message: 'Unemployed was sucked dry'
+[13Aug2025 11:28:30.863] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[13Aug2025 11:35:08.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[13Aug2025 11:36:14.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set 31 experience levels on Frannn]
+[13Aug2025 11:36:23.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Made Diego a server operator]
+[13Aug2025 11:39:20.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Material Grader]
