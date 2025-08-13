@@ -918,3 +918,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Aug2025 11:36:14.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set 31 experience levels on Frannn]
 [13Aug2025 11:36:23.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Made Diego a server operator]
 [13Aug2025 11:39:20.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Material Grader]
+[13Aug2025 11:41:53.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Made Diego no longer a server operator]
+[13Aug2025 11:42:07.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Made Diego a server operator]
+[13Aug2025 11:48:57.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[13Aug2025 11:49:55.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/25457, l='ServerLevel[world]', x=1046.61, y=70.00, z=-94.40] died: Vampire Baron Level 1 was slain by Frannn

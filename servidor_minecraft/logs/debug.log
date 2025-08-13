@@ -19645,3 +19645,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Aug2025 11:39:33.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Aug2025 11:39:33.513] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
 [13Aug2025 11:39:33.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 11:41:08.929] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[13Aug2025 11:41:53.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Made Diego no longer a server operator]
+[13Aug2025 11:42:07.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Made Diego a server operator]
+[13Aug2025 11:44:33.514] [IO-Worker-58/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[13Aug2025 11:44:33.516] [IO-Worker-60/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[13Aug2025 11:44:33.516] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[13Aug2025 11:44:33.517] [IO-Worker-62/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[13Aug2025 11:44:33.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 11:44:33.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 11:48:57.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[13Aug2025 11:48:58.083] [IO-Worker-63/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[13Aug2025 11:48:58.171] [IO-Worker-65/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[13Aug2025 11:48:58.172] [IO-Worker-67/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[13Aug2025 11:49:33.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Aug2025 11:49:33.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Aug2025 11:49:55.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/25457, l='ServerLevel[world]', x=1046.61, y=70.00, z=-94.40] died: Vampire Baron Level 1 was slain by Frannn
