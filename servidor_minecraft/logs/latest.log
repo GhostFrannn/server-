@@ -4293,3 +4293,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Aug2025 11:21:47.128] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/23871, l='ServerLevel[world]', x=980.44, y=87.00, z=-85.98] died: Vampire Baron Level 2 was slain by Vampire Baron Level 3
 [14Aug2025 11:28:57.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
 [14Aug2025 11:29:09.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[14Aug2025 11:32:56.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1044, y=68, z=-98} BlockPos{x=1041, y=69, z=-101}
+[14Aug2025 11:32:57.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1043, y=68, z=-98} BlockPos{x=1044, y=68, z=-98}
+[14Aug2025 11:32:57.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1043, y=68, z=-98} BlockPos{x=1044, y=68, z=-98}
+[14Aug2025 11:32:57.199] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1043, y=68, z=-98} BlockPos{x=1044, y=68, z=-98}
+[14Aug2025 11:32:57.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1043, y=68, z=-98} BlockPos{x=1044, y=68, z=-98}
+[14Aug2025 11:32:57.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1043, y=68, z=-98} BlockPos{x=1044, y=68, z=-98}
+[14Aug2025 11:32:57.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1043, y=68, z=-98} BlockPos{x=1044, y=68, z=-98}
+[14Aug2025 11:32:57.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1043, y=68, z=-98} BlockPos{x=1044, y=68, z=-98}
+[14Aug2025 11:32:57.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1043, y=68, z=-98} BlockPos{x=1044, y=68, z=-98}
+[14Aug2025 11:32:57.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1043, y=68, z=-98} BlockPos{x=1044, y=68, z=-98}
+[14Aug2025 11:32:57.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1043, y=68, z=-98} BlockPos{x=1044, y=68, z=-98}
+[14Aug2025 11:36:18.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Spectator Mode]
+[14Aug2025 11:36:21.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
