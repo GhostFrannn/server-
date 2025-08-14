@@ -1912,6 +1912,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-08-14 10:15:34 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_pink": {
     "criteria": {
       "has_the_recipe": "2025-08-14 10:01:47 +0000"

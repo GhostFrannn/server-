@@ -4243,3 +4243,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Aug2025 10:01:47.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn joined the game
 [14Aug2025 10:01:47.758] [Server thread/INFO] [Jade/]: Syncing config to Frannn (a280bdc4-1c11-36c5-ad35-63c4eb40da3b)
 [14Aug2025 10:07:45.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/911, l='ServerLevel[world]', x=1041.49, y=68.00, z=-178.38] died: Vampire Baron Level 3 was slain by Vampire Baron Level 3
+[14Aug2025 10:11:17.231] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[14Aug2025 10:12:43.617] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[14Aug2025 10:12:43.617] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[14Aug2025 10:12:43.618] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[14Aug2025 10:14:43.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Gave 1 [Water Bucket] to Frannn]
+[14Aug2025 10:15:34.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [The Secrets of Enchanting]
