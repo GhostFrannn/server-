@@ -4291,3 +4291,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Aug2025 11:11:00.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
 [14Aug2025 11:12:28.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
 [14Aug2025 11:21:47.128] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/23871, l='ServerLevel[world]', x=980.44, y=87.00, z=-85.98] died: Vampire Baron Level 2 was slain by Vampire Baron Level 3
+[14Aug2025 11:28:57.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
+[14Aug2025 11:29:09.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
