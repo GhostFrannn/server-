@@ -1985,9 +1985,21 @@
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-08-14 13:35:54 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-08-14 13:05:20 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-08-14 13:35:54 +0000"
     },
     "done": true
   },
@@ -2000,6 +2012,12 @@
   "apotheosis:enchanting/quanta0": {
     "criteria": {
       "enchanted_item": "2025-08-14 13:26:14 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-08-14 13:35:54 +0000"
     },
     "done": true
   },

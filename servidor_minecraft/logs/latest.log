@@ -4398,3 +4398,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Aug2025 13:32:16.801] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
 [14Aug2025 13:32:16.801] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
 [14Aug2025 13:33:42.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Do You Want a Crossbow (Body)?]
+[14Aug2025 13:35:54.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Epic!]
+[14Aug2025 13:35:54.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Apothic Affixes]
+[14Aug2025 13:35:54.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [How'd You Get This?]
+[14Aug2025 13:40:31.980] [Worker-Main-90/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/81478, l='ServerLevel[world]', x=-84.00, y=31.00, z=369.00] as it would cause deadlock
+[14Aug2025 13:40:47.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[14Aug2025 13:41:05.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2716ms or 54 ticks behind
+[14Aug2025 13:41:22.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
+[14Aug2025 13:41:40.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[14Aug2025 13:43:46.240] [Worker-Main-109/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/85535, l='ServerLevel[world]', x=20.00, y=31.00, z=783.00] as it would cause deadlock
+[14Aug2025 13:44:20.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has reached the goal [Blood Island]

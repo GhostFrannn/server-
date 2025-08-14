@@ -1728,6 +1728,12 @@
     },
     "done": true
   },
+  "silentgear:crossbow": {
+    "criteria": {
+      "get_item": "2025-08-14 13:33:42 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_the_recipe": "2025-08-14 11:45:35 +0000"
