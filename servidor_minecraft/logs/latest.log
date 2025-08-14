@@ -4349,3 +4349,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Aug2025 12:13:29.940] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/32579, l='ServerLevel[world]', x=966.87, y=65.00, z=-171.51] died: Vampire Baron Level 3 was slain by Vampire Baron Level 5
 [14Aug2025 12:18:38.425] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/35183, l='ServerLevel[world]', x=1115.42, y=75.00, z=-140.50] died: Vampire Baron Level 3 was slain by Vampire Baron Level 5
 [14Aug2025 12:20:18.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[14Aug2025 12:25:38.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Tier 2 Grader Catalyst]
+[14Aug2025 12:25:49.822] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/39942, l='ServerLevel[world]', x=920.12, y=70.00, z=-144.69] died: Vampire Baron Level 2 was slain by Vampire Baron Level 3
+[14Aug2025 12:31:41.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[14Aug2025 12:32:58.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[14Aug2025 12:33:31.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Local Brewery]

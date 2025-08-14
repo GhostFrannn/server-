@@ -1602,6 +1602,12 @@
     },
     "done": true
   },
+  "silentgear:grader_catalyst_2": {
+    "criteria": {
+      "get_item": "2025-08-14 12:25:38 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-08-14 11:45:35 +0000"
