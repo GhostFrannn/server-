@@ -4354,3 +4354,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Aug2025 12:31:41.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
 [14Aug2025 12:32:58.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
 [14Aug2025 12:33:31.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Local Brewery]
+[14Aug2025 12:36:58.186] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 12:36:58.186] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 12:36:58.188] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 12:36:58.189] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 12:36:58.189] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 12:36:59.085] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 12:36:59.086] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 12:36:59.087] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 12:36:59.087] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 12:36:59.088] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
