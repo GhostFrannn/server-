@@ -1822,18 +1822,6 @@
     },
     "done": true
   },
-  "silentgear:blueprint_paper": {
-    "criteria": {
-      "get_item": "2025-08-14 10:39:55 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rocky_roller": {
-    "criteria": {
-      "killed_by": "2025-08-14 11:43:15 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-08-14 10:01:47 +0000"
@@ -1924,12 +1912,6 @@
     },
     "done": true
   },
-  "apotheosis:enchanting/enchanter": {
-    "criteria": {
-      "enchanting_table": "2025-08-14 10:15:34 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_pink": {
     "criteria": {
       "has_the_recipe": "2025-08-14 10:01:47 +0000"
@@ -1966,12 +1948,6 @@
     },
     "done": true
   },
-  "deeperdarker:main/kill_all_sculk_mobs": {
-    "criteria": {
-      "phantom": "2025-08-14 10:44:08 +0000"
-    },
-    "done": false
-  },
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_the_recipe": "2025-08-14 10:01:47 +0000"
@@ -1981,6 +1957,30 @@
   "comforts:hammock_orange": {
     "criteria": {
       "has_the_recipe": "2025-08-14 10:01:47 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-08-14 10:15:34 +0000"
+    },
+    "done": true
+  },
+  "silentgear:blueprint_paper": {
+    "criteria": {
+      "get_item": "2025-08-14 10:39:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-08-14 10:44:08 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-08-14 11:43:15 +0000"
     },
     "done": true
   },
