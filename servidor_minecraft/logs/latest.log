@@ -4314,3 +4314,35 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Aug2025 11:45:34.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego joined the game
 [14Aug2025 11:45:34.986] [Server thread/INFO] [Jade/]: Syncing config to Diego (b6924f51-1f86-392e-8603-14173febdfcb)
 [14Aug2025 11:47:58.946] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 4'/27980, l='ServerLevel[world]', x=1065.70, y=67.00, z=-111.70] died: Vampire Baron Level 4 was slain by Frannn
+[14Aug2025 11:55:29.582] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:55:29.583] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:55:29.586] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:55:29.587] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:55:29.587] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:55:38.799] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:55:38.800] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:55:38.802] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:55:38.802] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:55:38.802] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:55:48.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[14Aug2025 11:55:49.746] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:55:49.747] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:55:49.749] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:55:49.749] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:55:49.750] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:55:59.548] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:55:59.549] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:55:59.550] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:55:59.551] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:55:59.551] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 11:56:04.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
+[14Aug2025 11:56:36.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[14Aug2025 12:02:45.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frannn lost connection: Disconnected
+[14Aug2025 12:02:45.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn left the game
+[14Aug2025 12:10:06.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/31806, l='ServerLevel[world]', x=1142.74, y=64.00, z=-163.53] died: Vampire Baron Level 2 was slain by Vampire Baron Level 1
+[14Aug2025 12:12:50.652] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Aug2025 12:12:50.662] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[14Aug2025 12:12:50.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frannn[/127.120.184.226:39345] logged in with entity id 32464 at (1029.7812898085854, 51.0, -106.12107825146717)
+[14Aug2025 12:12:50.713] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Frannn
+[14Aug2025 12:12:50.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn joined the game
+[14Aug2025 12:12:50.804] [Server thread/INFO] [Jade/]: Syncing config to Frannn (a280bdc4-1c11-36c5-ad35-63c4eb40da3b)
