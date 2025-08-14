@@ -1855,6 +1855,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-08-14 14:23:34 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-08-14 11:45:35 +0000"
@@ -1867,6 +1873,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-08-14 14:24:20 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-08-14 11:45:35 +0000"
@@ -1876,6 +1888,12 @@
   "comforts:hammock_yellow": {
     "criteria": {
       "has_the_recipe": "2025-08-14 11:45:35 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/crucible": {
+    "criteria": {
+      "blowgun": "2025-08-14 14:23:39 +0000"
     },
     "done": true
   },

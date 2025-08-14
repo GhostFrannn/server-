@@ -4592,3 +4592,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Aug2025 14:25:17.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego moved too quickly! -0.7670056164959078,-9.77112339761193,-4.019376676635545
 [14Aug2025 14:25:39.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Diego to Frannn]
 [14Aug2025 14:26:32.373] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 3'/121429, l='ServerLevel[world]', x=1095.50, y=68.00, z=-38.82] died: Vampire Baron Level 3 was slain by Vampire Baron Level 5
+[14Aug2025 14:28:36.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[14Aug2025 14:31:03.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [The Chaos of Hell]
+[14Aug2025 14:31:59.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
+[14Aug2025 14:34:39.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Mastering the Inferno]
+[14Aug2025 14:35:37.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[14Aug2025 14:35:47.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Applied enchantment Looting VII to Frannn's item]
+[14Aug2025 14:36:10.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Applied enchantment Fire Aspect V to Frannn's item]
+[14Aug2025 14:36:48.987] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 14:36:48.987] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 14:36:48.989] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 14:36:48.989] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 14:36:48.990] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 14:37:23.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Applied enchantment Scavenger III to Frannn's item]

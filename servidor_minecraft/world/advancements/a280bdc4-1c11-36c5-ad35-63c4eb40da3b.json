@@ -2007,6 +2007,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/hellshelf": {
+    "criteria": {
+      "hellshelf": "2025-08-14 14:31:03 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2025-08-14 13:54:11 +0000"
@@ -2057,6 +2063,12 @@
       "battlesign": "2025-08-14 13:47:56 +0000"
     },
     "done": false
+  },
+  "apotheosis:enchanting/upgrade_hellshelf": {
+    "criteria": {
+      "blazing": "2025-08-14 14:34:39 +0000"
+    },
+    "done": true
   },
   "apotheosis:affix/epic": {
     "criteria": {
