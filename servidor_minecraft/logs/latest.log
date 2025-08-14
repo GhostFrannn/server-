@@ -4382,3 +4382,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Aug2025 13:06:49.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Not a Diamond]
 [14Aug2025 13:06:51.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
 [14Aug2025 13:09:54.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[14Aug2025 13:17:32.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[14Aug2025 13:18:24.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has reached the goal [Flawless Crystals]
+[14Aug2025 13:18:28.486] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-808, y=6, z=414}
+[14Aug2025 13:18:35.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 13000]
+[14Aug2025 13:19:53.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Diego to Frannn]
+[14Aug2025 13:24:17.374] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/68390, l='ServerLevel[world]', x=1039.52, y=71.00, z=-25.52] died: Vampire Baron Level 1 was slain by Vampire Baron Level 3
+[14Aug2025 13:26:14.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Begone, Flux]
+[14Aug2025 13:30:30.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn was killed whilst fighting Ghast
+[14Aug2025 13:30:31.553] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Aug2025 13:30:53.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Far From Perfect]
+[14Aug2025 13:32:16.798] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 13:32:16.799] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 13:32:16.800] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 13:32:16.801] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 13:32:16.801] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 13:33:42.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Do You Want a Crossbow (Body)?]
