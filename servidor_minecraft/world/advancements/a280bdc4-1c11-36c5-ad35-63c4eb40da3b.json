@@ -1991,11 +1991,35 @@
     },
     "done": true
   },
+  "tconstruct:world/blood_island": {
+    "criteria": {
+      "found_island": "2025-08-14 13:44:20 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-08-14 13:47:56 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "scorched_stone": "2025-08-14 13:47:56 +0000"
+    },
+    "done": false
+  },
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2025-08-14 13:05:20 +0000"
     },
     "done": true
+  },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "battlesign": "2025-08-14 13:47:56 +0000"
+    },
+    "done": false
   },
   "apotheosis:affix/epic": {
     "criteria": {
@@ -2012,6 +2036,12 @@
   "apotheosis:enchanting/quanta0": {
     "criteria": {
       "enchanted_item": "2025-08-14 13:26:14 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/crucible": {
+    "criteria": {
+      "blowgun": "2025-08-14 13:47:21 +0000"
     },
     "done": true
   },

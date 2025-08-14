@@ -4408,3 +4408,37 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Aug2025 13:41:40.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
 [14Aug2025 13:43:46.240] [Worker-Main-109/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/85535, l='ServerLevel[world]', x=20.00, y=31.00, z=783.00] as it would cause deadlock
 [14Aug2025 13:44:20.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has reached the goal [Blood Island]
+[14Aug2025 13:45:24.136] [Worker-Main-164/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/86593, l='ServerLevel[world]', x=-40.00, y=31.00, z=975.00] as it would cause deadlock
+[14Aug2025 13:45:27.737] [Worker-Main-164/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/86651, l='ServerLevel[world]', x=-29.00, y=31.00, z=1018.00] as it would cause deadlock
+[14Aug2025 13:45:48.343] [Worker-Main-164/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/87511, l='ServerLevel[world]', x=171.00, y=31.00, z=931.00] as it would cause deadlock
+[14Aug2025 13:45:51.138] [Worker-Main-123/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/87567, l='ServerLevel[world]', x=-130.00, y=31.00, z=1184.90] as it would cause deadlock
+[14Aug2025 13:46:23.249] [Worker-Main-164/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/88210, l='ServerLevel[world]', x=211.00, y=31.00, z=1310.00] as it would cause deadlock
+[14Aug2025 13:46:24.746] [Worker-Main-123/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/88267, l='ServerLevel[world]', x=65.00, y=31.00, z=1324.00] as it would cause deadlock
+[14Aug2025 13:46:26.532] [Worker-Main-124/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/88327, l='ServerLevel[world]', x=185.00, y=31.00, z=1334.00] as it would cause deadlock
+[14Aug2025 13:46:34.197] [Worker-Main-110/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/88710, l='ServerLevel[world]', x=251.00, y=31.00, z=1396.00] as it would cause deadlock
+[14Aug2025 13:46:35.626] [Worker-Main-164/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/88760, l='ServerLevel[world]', x=254.00, y=31.00, z=1416.00] as it would cause deadlock
+[14Aug2025 13:48:50.881] [Worker-Main-109/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/90235, l='ServerLevel[world]', x=-333.00, y=110.00, z=-363.00] as it would cause deadlock
+[14Aug2025 13:49:22.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Diego to Frannn]
+[14Aug2025 13:49:39.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has reached the goal [Netherite Tier]
+[14Aug2025 13:49:49.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Cover Me with Diamonds]
+[14Aug2025 13:51:45.597] [Worker-Main-163/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/91471, l='ServerLevel[world]', x=555.00, y=31.00, z=1394.00] as it would cause deadlock
+[14Aug2025 13:52:02.946] [Worker-Main-163/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/92052, l='ServerLevel[world]', x=374.00, y=31.00, z=1708.00] as it would cause deadlock
+[14Aug2025 13:52:07.635] [Worker-Main-124/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/92182, l='ServerLevel[world]', x=271.00, y=31.00, z=1728.90] as it would cause deadlock
+[14Aug2025 13:52:09.498] [Worker-Main-123/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/92202, l='ServerLevel[world]', x=534.00, y=31.00, z=1758.00] as it would cause deadlock
+[14Aug2025 13:52:37.193] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Sheila the Nifty'/92403, l='ServerLevel[world]', x=338.55, y=40.23, z=1639.70] died: Sheila the Nifty was slain by Frannn
+[14Aug2025 13:52:37.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has completed the challenge [He Wasn't So Strong]
+[14Aug2025 13:52:37.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has reached the goal [Worthy Equipment]
+[14Aug2025 13:52:47.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Diego> ç
+[14Aug2025 13:53:02.091] [Worker-Main-124/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/92706, l='ServerLevel[world]', x=246.00, y=31.00, z=1908.00] as it would cause deadlock
+[14Aug2025 13:53:11.879] [Worker-Main-110/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[14Aug2025 13:53:11.880] [Worker-Main-110/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[14Aug2025 13:53:49.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Not Today, Thank You]
+[14Aug2025 13:54:11.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Where the Monstrous be Forged]
+[14Aug2025 13:54:11.446] [Worker-Main-110/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/93333, l='ServerLevel[world]', x=-4.00, y=31.00, z=2035.00] as it would cause deadlock
+[14Aug2025 13:54:41.691] [Worker-Main-163/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/93484, l='ServerLevel[world]', x=-356.00, y=31.00, z=1203.00] as it would cause deadlock
+[14Aug2025 13:55:21.142] [Worker-Main-109/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/94311, l='ServerLevel[world]', x=-444.00, y=31.00, z=920.00] as it would cause deadlock
+[14Aug2025 13:55:37.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Apothic Affixes]
+[14Aug2025 13:56:20.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [How'd You Get This?]
+[14Aug2025 13:56:20.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=35, z=1993} BlockPos{x=170, y=36, z=1995}
+[14Aug2025 13:56:20.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=170, y=35, z=1993} BlockPos{x=170, y=36, z=1995}
+[14Aug2025 13:56:20.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 43335ms or 866 ticks behind
