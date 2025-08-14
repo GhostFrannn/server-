@@ -4374,3 +4374,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Aug2025 12:46:14.939] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
 [14Aug2025 12:46:14.940] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
 [14Aug2025 12:46:14.940] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 12:57:40.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[14Aug2025 12:59:14.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1234, y=-48, z=-83} BlockPos{x=1234, y=-48, z=-82}
+[14Aug2025 13:00:27.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Chest Slayer]
+[14Aug2025 13:03:01.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Diego to Frannn]
+[14Aug2025 13:05:20.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Not a Diamond]
+[14Aug2025 13:06:49.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Not a Diamond]
+[14Aug2025 13:06:51.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
+[14Aug2025 13:09:54.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Teleported Frannn to Diego]
