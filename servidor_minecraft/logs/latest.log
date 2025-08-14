@@ -4306,3 +4306,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Aug2025 11:32:57.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1043, y=68, z=-98} BlockPos{x=1044, y=68, z=-98}
 [14Aug2025 11:36:18.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Spectator Mode]
 [14Aug2025 11:36:21.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[14Aug2025 11:43:10.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
+[14Aug2025 11:43:15.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [KEEP ROLLIN' ROLLIN' ROLLIN']
+[14Aug2025 11:43:34.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[14Aug2025 11:45:34.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego[/127.98.74.15:49237] logged in with entity id 27983 at (1038.0123298957474, 71.0, -113.4507429780889)
+[14Aug2025 11:45:34.919] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Diego
+[14Aug2025 11:45:34.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego joined the game
+[14Aug2025 11:45:34.986] [Server thread/INFO] [Jade/]: Syncing config to Diego (b6924f51-1f86-392e-8603-14173febdfcb)
+[14Aug2025 11:47:58.946] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 4'/27980, l='ServerLevel[world]', x=1065.70, y=67.00, z=-111.70] died: Vampire Baron Level 4 was slain by Frannn
