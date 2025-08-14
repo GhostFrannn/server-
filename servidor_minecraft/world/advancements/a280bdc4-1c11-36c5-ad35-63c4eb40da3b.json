@@ -641,6 +641,7 @@
     "criteria": {
       "minecraft:blaze": "2025-08-09 19:16:59 +0000",
       "minecraft:skeleton": "2025-08-09 17:01:18 +0000",
+      "minecraft:zoglin": "2025-08-14 13:58:17 +0000",
       "minecraft:ghast": "2025-08-14 13:30:46 +0000",
       "minecraft:hoglin": "2025-08-09 19:08:53 +0000",
       "minecraft:vindicator": "2025-08-09 20:08:43 +0000",
@@ -868,7 +869,8 @@
     "criteria": {
       "dagger": "2025-08-09 17:13:01 +0000",
       "mega_hammer": "2025-08-09 17:31:03 +0000",
-      "bone_wand": "2025-08-11 18:45:31 +0000"
+      "bone_wand": "2025-08-11 18:45:31 +0000",
+      "warped_crossbow": "2025-08-14 14:08:13 +0000"
     },
     "done": false
   },
@@ -1036,6 +1038,7 @@
       "clover_patch": "2025-08-09 20:18:25 +0000",
       "old_growth_woodland": "2025-08-09 21:37:35 +0000",
       "crystalline_chasm": "2025-08-09 19:13:10 +0000",
+      "withered_abyss": "2025-08-14 14:04:37 +0000",
       "field": "2025-08-09 20:57:17 +0000",
       "orchard": "2025-08-09 20:52:40 +0000",
       "lavender_forest": "2025-08-11 14:39:59 +0000",
@@ -1192,9 +1195,10 @@
       "minecraft:crimson_forest": "2025-08-10 23:14:47 +0000",
       "minecraft:nether_wastes": "2025-08-09 19:08:45 +0000",
       "minecraft:soul_sand_valley": "2025-08-09 19:14:55 +0000",
-      "minecraft:basalt_deltas": "2025-08-10 23:24:33 +0000"
+      "minecraft:basalt_deltas": "2025-08-10 23:24:33 +0000",
+      "minecraft:warped_forest": "2025-08-14 13:59:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
@@ -1991,9 +1995,27 @@
     },
     "done": true
   },
+  "tconstruct:foundry/plate_armor": {
+    "criteria": {
+      "crafted_helmet": "2025-08-14 14:17:45 +0000"
+    },
+    "done": false
+  },
   "tconstruct:world/blood_island": {
     "criteria": {
       "found_island": "2025-08-14 13:44:20 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-08-14 13:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-14 13:53:49 +0000"
     },
     "done": true
   },
@@ -2005,9 +2027,24 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
-      "scorched_stone": "2025-08-14 13:47:56 +0000"
+      "amethyst_bronze": "2025-08-14 14:08:35 +0000",
+      "scorched_stone": "2025-08-14 13:47:56 +0000",
+      "rose_gold": "2025-08-14 14:21:20 +0000",
+      "slimesteel": "2025-08-14 14:21:20 +0000"
     },
     "done": false
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-08-14 13:52:37 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-08-14 13:52:37 +0000"
+    },
+    "done": true
   },
   "apotheosis:affix/gem": {
     "criteria": {
@@ -2039,6 +2076,12 @@
     },
     "done": true
   },
+  "silentgear:crimson_steel": {
+    "criteria": {
+      "get_item": "2025-08-14 14:11:11 +0000"
+    },
+    "done": true
+  },
   "1_splatus:spellbound/unlocked/crucible": {
     "criteria": {
       "blowgun": "2025-08-14 13:47:21 +0000"
@@ -2050,6 +2093,18 @@
       "sword": "2025-08-14 13:35:54 +0000"
     },
     "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-08-14 13:57:33 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:netherite_monstrosity": "2025-08-14 13:57:33 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
