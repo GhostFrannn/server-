@@ -4605,3 +4605,231 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Aug2025 14:36:48.989] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
 [14Aug2025 14:36:48.990] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
 [14Aug2025 14:37:23.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Applied enchantment Scavenger III to Frannn's item]
+[14Aug2025 14:38:51.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Applied enchantment Capturing VII to Frannn's item]
+[14Aug2025 14:40:21.392] [Worker-Main-110/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/124961, l='ServerLevel[world]', x=-95.10, y=31.00, z=-802.00] as it would cause deadlock
+[14Aug2025 14:40:39.056] [Worker-Main-109/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/126954, l='ServerLevel[world]', x=-315.00, y=31.00, z=-738.00] as it would cause deadlock
+[14Aug2025 14:40:51.145] [Worker-Main-90/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/127125, l='ServerLevel[world]', x=-367.00, y=31.00, z=-673.00] as it would cause deadlock
+[14Aug2025 14:40:58.449] [Worker-Main-90/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/128151, l='ServerLevel[world]', x=-389.00, y=31.00, z=-695.00] as it would cause deadlock
+[14Aug2025 14:40:58.449] [Worker-Main-90/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/128153, l='ServerLevel[world]', x=-392.00, y=31.00, z=-695.00] as it would cause deadlock
+[14Aug2025 14:41:04.247] [Worker-Main-110/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/129104, l='ServerLevel[world]', x=-426.00, y=31.00, z=-700.00] as it would cause deadlock
+[14Aug2025 14:41:32.146] [Worker-Main-164/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/130653, l='ServerLevel[world]', x=-282.00, y=31.00, z=-973.00] as it would cause deadlock
+[14Aug2025 14:43:18.241] [Worker-Main-123/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/132738, l='ServerLevel[world]', x=-1470.00, y=31.00, z=-909.00] as it would cause deadlock
+[14Aug2025 14:44:06.994] [Worker-Main-164/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/133630, l='ServerLevel[world]', x=-1769.00, y=31.00, z=-1171.00] as it would cause deadlock
+[14Aug2025 14:44:12.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [The Basics]
+[14Aug2025 14:44:12.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Begone, Flux]
+[14Aug2025 14:44:23.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Straddle My Ol' Saddle]
+[14Aug2025 14:44:57.329] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 1'/134154, l='ServerLevel[world]', x=1039.29, y=67.00, z=-130.60] died: Vampire Baron Level 1 was slain by Vampire Baron Level 3
+[14Aug2025 14:45:43.238] [Worker-Main-123/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/135462, l='ServerLevel[world]', x=-2090.00, y=31.00, z=-1068.00] as it would cause deadlock
+[14Aug2025 14:46:58.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1938, y=112, z=-1055} BlockPos{x=-1937, y=113, z=-1054}
+[14Aug2025 14:46:58.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1938, y=112, z=-1055} BlockPos{x=-1937, y=113, z=-1054}
+[14Aug2025 14:46:58.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1938, y=112, z=-1055} BlockPos{x=-1937, y=113, z=-1054}
+[14Aug2025 14:46:58.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1938, y=112, z=-1055} BlockPos{x=-1937, y=113, z=-1054}
+[14Aug2025 14:46:59.046] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1938, y=112, z=-1055} BlockPos{x=-1937, y=113, z=-1054}
+[14Aug2025 14:46:59.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1938, y=112, z=-1055} BlockPos{x=-1937, y=113, z=-1054}
+[14Aug2025 14:46:59.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1938, y=112, z=-1055} BlockPos{x=-1937, y=113, z=-1054}
+[14Aug2025 14:46:59.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1938, y=112, z=-1055} BlockPos{x=-1937, y=113, z=-1054}
+[14Aug2025 14:46:59.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1938, y=112, z=-1055} BlockPos{x=-1937, y=113, z=-1054}
+[14Aug2025 14:46:59.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1938, y=112, z=-1055} BlockPos{x=-1937, y=113, z=-1054}
+[14Aug2025 14:46:59.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1938, y=112, z=-1055} BlockPos{x=-1937, y=113, z=-1054}
+[14Aug2025 14:46:59.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1938, y=112, z=-1055} BlockPos{x=-1937, y=113, z=-1054}
+[14Aug2025 14:46:59.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1938, y=112, z=-1055} BlockPos{x=-1937, y=113, z=-1054}
+[14Aug2025 14:46:59.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1938, y=112, z=-1055} BlockPos{x=-1937, y=113, z=-1054}
+[14Aug2025 14:46:59.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1938, y=112, z=-1055} BlockPos{x=-1937, y=113, z=-1054}
+[14Aug2025 14:46:59.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1938, y=112, z=-1055} BlockPos{x=-1937, y=113, z=-1054}
+[14Aug2025 14:46:59.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1938, y=112, z=-1055} BlockPos{x=-1937, y=113, z=-1054}
+[14Aug2025 14:46:59.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1938, y=112, z=-1055} BlockPos{x=-1937, y=113, z=-1054}
+[14Aug2025 14:47:07.052] [Worker-Main-164/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/137052, l='ServerLevel[world]', x=-2150.00, y=31.00, z=-1237.00] as it would cause deadlock
+[14Aug2025 14:47:07.596] [Worker-Main-110/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/137190, l='ServerLevel[world]', x=-2158.00, y=31.00, z=-1050.00] as it would cause deadlock
+[14Aug2025 14:48:03.501] [Worker-Main-191/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/138831, l='ServerLevel[world]', x=-2408.00, y=31.00, z=-1127.00] as it would cause deadlock
+[14Aug2025 14:48:24.244] [Worker-Main-164/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/139107, l='ServerLevel[world]', x=-2481.00, y=31.00, z=-1243.00] as it would cause deadlock
+[14Aug2025 14:49:07.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 13000]
+[14Aug2025 14:49:25.793] [Worker-Main-110/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/140053, l='ServerLevel[world]', x=-2669.00, y=31.00, z=-1314.00] as it would cause deadlock
+[14Aug2025 14:49:34.700] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=558, y=-11, z=-1050}
+[14Aug2025 14:49:35.582] [Worker-Main-164/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[14Aug2025 14:49:35.584] [Worker-Main-164/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[14Aug2025 14:49:35.591] [Worker-Main-164/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[14Aug2025 14:49:35.591] [Worker-Main-164/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[14Aug2025 14:49:35.592] [Worker-Main-164/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[14Aug2025 14:49:35.592] [Worker-Main-164/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[14Aug2025 14:49:35.592] [Worker-Main-164/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[14Aug2025 14:49:35.600] [Worker-Main-164/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[14Aug2025 14:49:35.601] [Worker-Main-164/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[14Aug2025 14:49:36.016] [Worker-Main-90/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[14Aug2025 14:49:36.016] [Worker-Main-90/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[14Aug2025 14:49:39.849] [Worker-Main-163/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[14Aug2025 14:49:39.858] [Worker-Main-163/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[14Aug2025 14:49:39.858] [Worker-Main-163/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[14Aug2025 14:49:41.440] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=673, y=-20, z=-1075}
+[14Aug2025 14:49:50.697] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=401, y=-31, z=-1132}
+[14Aug2025 14:49:51.194] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=667, y=8, z=-1131}
+[14Aug2025 14:49:53.553] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Aug2025 14:49:57.044] [Worker-Main-109/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/141392, l='ServerLevel[world]', x=-2890.00, y=31.00, z=-1339.00] as it would cause deadlock
+[14Aug2025 14:49:58.340] [Worker-Main-110/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/141411, l='ServerLevel[world]', x=-2770.00, y=31.00, z=-1411.00] as it would cause deadlock
+[14Aug2025 14:50:04.743] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=685, y=74, z=-1165}
+[14Aug2025 14:50:04.967] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=390, y=-36, z=-1157}
+[14Aug2025 14:50:09.384] [Worker-Main-110/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/141565, l='ServerLevel[world]', x=-2955.00, y=31.00, z=-1358.00] as it would cause deadlock
+[14Aug2025 14:50:09.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Sea? Not a Problem]
+[14Aug2025 14:51:11.235] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=484, y=-46, z=-1229}
+[14Aug2025 14:51:14.525] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=520, y=-27, z=-1234}
+[14Aug2025 14:51:21.944] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=496, y=70, z=-1249} but found not block entity block Block{minecraft:air} at location
+[14Aug2025 14:51:21.944] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=496, y=70, z=-1249}
+[14Aug2025 14:51:26.937] [Worker-Main-110/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/143146, l='ServerLevel[world]', x=-3406.00, y=31.00, z=-1721.00] as it would cause deadlock
+[14Aug2025 14:51:50.580] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Aug2025 14:52:17.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frannn> ,/kill diego
+[14Aug2025 14:52:36.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Diego> º
+[14Aug2025 14:52:44.595] [Worker-Main-164/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/144103, l='ServerLevel[world]', x=-3469.00, y=31.00, z=-2151.00] as it would cause deadlock
+[14Aug2025 14:52:44.597] [Worker-Main-90/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/144106, l='ServerLevel[world]', x=-3441.00, y=31.00, z=-2151.00] as it would cause deadlock
+[14Aug2025 14:53:16.607] [Worker-Main-163/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/144272, l='ServerLevel[world]', x=-3373.00, y=31.00, z=-2219.00] as it would cause deadlock
+[14Aug2025 14:53:19.042] [Worker-Main-109/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/144352, l='ServerLevel[world]', x=-3610.00, y=31.00, z=-2218.00] as it would cause deadlock
+[14Aug2025 14:53:19.042] [Worker-Main-109/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/144354, l='ServerLevel[world]', x=-3611.00, y=31.00, z=-2219.00] as it would cause deadlock
+[14Aug2025 14:53:21.783] [Worker-Main-123/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/144409, l='ServerLevel[world]', x=-3414.00, y=31.00, z=-2244.00] as it would cause deadlock
+[14Aug2025 14:53:27.594] [Worker-Main-163/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/144585, l='ServerLevel[world]', x=-3498.00, y=31.00, z=-2290.00] as it would cause deadlock
+[14Aug2025 14:53:29.110] [Worker-Main-123/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=124, y=-57, z=11}
+[14Aug2025 14:53:30.692] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=592, y=-15, z=-1311}
+[14Aug2025 14:54:01.943] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=226, y=-51, z=-1186}
+[14Aug2025 14:54:06.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego moved too quickly! -10.122199989193803,0.0,-2.132750935978038
+[14Aug2025 14:54:06.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frannn moved too quickly! -8.809595425472708,0.19500000774860382,-4.737417079280476
+[14Aug2025 14:54:06.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3675ms or 73 ticks behind
+[14Aug2025 14:54:17.492] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=324, y=-43, z=-1287}
+[14Aug2025 14:54:17.597] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=454, y=30, z=-1307}
+[14Aug2025 14:54:23.267] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=469, y=17, z=-1326}
+[14Aug2025 14:54:25.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [A Massive Arena]
+[14Aug2025 14:54:26.184] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=396, y=15, z=-1334}
+[14Aug2025 14:54:26.186] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=415, y=10, z=-1339}
+[14Aug2025 14:54:26.217] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=461, y=36, z=-1336}
+[14Aug2025 14:54:26.634] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=278, y=22, z=-1335}
+[14Aug2025 14:54:34.240] [Worker-Main-109/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/146391, l='ServerLevel[world]', x=-4069.00, y=31.00, z=-2541.00] as it would cause deadlock
+[14Aug2025 14:54:51.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=119, y=-29, z=-1421}
+[14Aug2025 14:54:52.722] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=99, y=-1, z=-1399}
+[14Aug2025 14:54:55.532] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=464, y=24, z=-1431}
+[14Aug2025 14:54:55.837] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=406, y=-30, z=-1426}
+[14Aug2025 14:54:58.445] [Worker-Main-123/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/146777, l='ServerLevel[world]', x=-4085.00, y=31.00, z=-2282.00] as it would cause deadlock
+[14Aug2025 14:55:01.778] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=92, y=11, z=-1442}
+[14Aug2025 14:55:02.032] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=175, y=-8, z=-1442}
+[14Aug2025 14:55:05.636] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=107, y=8, z=-1462}
+[14Aug2025 14:55:05.643] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=154, y=-41, z=-1469}
+[14Aug2025 14:55:06.328] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=356, y=-29, z=-1458}
+[14Aug2025 14:55:18.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Imperfect thing]
+[14Aug2025 14:55:28.931] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=464, y=8, z=-1495}
+[14Aug2025 14:55:33.616] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=617, y=13, z=-1397}
+[14Aug2025 14:55:38.020] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=632, y=0, z=-1497}
+[14Aug2025 14:56:18.219] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=648, y=-11, z=-1327}
+[14Aug2025 14:56:19.663] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=652, y=15, z=-1392}
+[14Aug2025 14:56:19.728] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=655, y=15, z=-1423}
+[14Aug2025 14:56:23.667] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=686, y=-54, z=-1341}
+[14Aug2025 14:56:23.815] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=686, y=-53, z=-1361}
+[14Aug2025 14:56:35.127] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=701, y=20, z=-1392}
+[14Aug2025 14:56:36.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has reached the goal [Skyslime Island]
+[14Aug2025 14:57:22.944] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=785, y=-4, z=-1298}
+[14Aug2025 14:57:23.036] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=793, y=-36, z=-1378}
+[14Aug2025 14:57:23.336] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=792, y=3, z=-1222}
+[14Aug2025 14:57:24.617] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=808, y=22, z=-1265}
+[14Aug2025 14:57:24.863] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=809, y=22, z=-1323}
+[14Aug2025 14:57:26.837] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=797, y=-34, z=-1490}
+[14Aug2025 14:57:29.512] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=818, y=-1, z=-1266}
+[14Aug2025 14:57:31.086] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=845, y=-24, z=-1353}
+[14Aug2025 14:57:31.093] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=837, y=-2, z=-1341}
+[14Aug2025 14:57:39.376] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=913, y=-25, z=-1287}
+[14Aug2025 14:57:40.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
+[14Aug2025 14:57:40.940] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=943, y=-10, z=-1234}
+[14Aug2025 14:57:48.625] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=984, y=-23, z=-1240}
+[14Aug2025 14:57:49.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[14Aug2025 14:57:50.856] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=978, y=24, z=-1352}
+[14Aug2025 14:57:52.086] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1001, y=-42, z=-1307}
+[14Aug2025 14:57:52.095] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1002, y=11, z=-1313}
+[14Aug2025 14:57:58.217] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=807, y=-14, z=-1521}
+[14Aug2025 14:57:58.990] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=925, y=-3, z=-1539}
+[14Aug2025 14:58:16.846] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=935, y=-4, z=-1669}
+[14Aug2025 14:58:21.684] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1093, y=-42, z=-1482}
+[14Aug2025 14:58:34.124] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1141, y=-33, z=-1381}
+[14Aug2025 14:58:36.619] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1156, y=-49, z=-1512}
+[14Aug2025 14:59:10.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn was killed whilst fighting Ignis
+[14Aug2025 14:59:10.575] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1273, y=-41, z=-1679}
+[14Aug2025 14:59:11.254] [Server thread/WARN] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/]: Cannot get Faction player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.factions.FactionPlayerHandler.getOpt(FactionPlayerHandler.java:71) ~[Vampirism-1.20.1-1.10.13.jar%23416!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.network.ServerboundSimpleInputEvent.lambda$handle$4(ServerboundSimpleInputEvent.java:43) ~[Vampirism-1.20.1-1.10.13.jar%23416!/:1.20.1-1.10.13]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14Aug2025 14:59:11.255] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Cannot get Vampire player capability. This might break mod functionality.
+java.lang.Throwable: null
+	at de.teamlapen.vampirism.entity.player.vampire.VampirePlayer.getOpt(VampirePlayer.java:142) ~[Vampirism-1.20.1-1.10.13.jar%23416!/:1.20.1-1.10.13]
+	at de.teamlapen.vampirism.network.ServerboundSimpleInputEvent.lambda$handle$4(ServerboundSimpleInputEvent.java:73) ~[Vampirism-1.20.1-1.10.13.jar%23416!/:1.20.1-1.10.13]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23425!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14Aug2025 14:59:11.345] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1093, y=-23, z=-1287}
+[14Aug2025 14:59:12.590] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Aug2025 14:59:23.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
+[14Aug2025 14:59:27.975] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1316, y=46, z=-1553} but found not block entity block Block{minecraft:air} at location
+[14Aug2025 14:59:27.975] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1316, y=46, z=-1553}
+[14Aug2025 14:59:33.387] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1357, y=-40, z=-1415}
+[14Aug2025 14:59:36.129] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1354, y=-52, z=-1727}
+[14Aug2025 14:59:36.129] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1358, y=24, z=-1697}
+[14Aug2025 14:59:41.040] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1061, y=-13, z=-1746}
+[14Aug2025 14:59:41.588] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1154, y=-48, z=-1751}
+[14Aug2025 14:59:43.222] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1387, y=-45, z=-1565}
+[14Aug2025 14:59:46.036] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1403, y=5, z=-1592}
+[14Aug2025 14:59:52.828] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1207, y=-8, z=-1793}
+[14Aug2025 15:00:02.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[14Aug2025 15:00:53.324] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=904, y=1, z=-1898}
+[14Aug2025 15:00:53.789] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=987, y=-37, z=-1890}
+[14Aug2025 15:01:33.234] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=873, y=-45, z=-1874}
+[14Aug2025 15:01:33.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has completed the challenge [Free Willy]
+[14Aug2025 15:01:58.983] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=838, y=-19, z=-1936}
+[14Aug2025 15:02:14.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn was killed whilst fighting Ignis
+[14Aug2025 15:02:14.480] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=821, y=-8, z=-2025}
+[14Aug2025 15:02:15.392] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Aug2025 15:02:15.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [You Are A Pirate]
+[14Aug2025 15:02:33.342] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=767, y=-43, z=-1931}
+[14Aug2025 15:03:01.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 6000]
+[14Aug2025 15:03:10.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set the time to 13000]
+[14Aug2025 15:03:28.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has made the advancement [Who's the Pillager Now?]
+[14Aug2025 15:03:54.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego has reached the goal [Worthy Equipment]
+[14Aug2025 15:05:22.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
+[14Aug2025 15:05:51.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[14Aug2025 15:06:00.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
+[14Aug2025 15:06:13.626] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1240, y=6, z=-1946}
+[14Aug2025 15:06:21.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[14Aug2025 15:06:46.921] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1328, y=-51, z=-1991}
+[14Aug2025 15:06:48.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
+[14Aug2025 15:06:49.419] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1387, y=-16, z=-1866}
+[14Aug2025 15:06:50.471] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1331, y=-18, z=-2016}
+[14Aug2025 15:06:59.694] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1423, y=-2, z=-1777}
+[14Aug2025 15:07:06.416] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1439, y=-5, z=-1787}
+[14Aug2025 15:07:07.630] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1438, y=-28, z=-1847}
+[14Aug2025 15:07:13.376] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1421, y=-33, z=-2111}
+[14Aug2025 15:07:28.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has completed the challenge [The Extinguished Fire]
+[14Aug2025 15:07:35.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[14Aug2025 15:07:41.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1524, y=6, z=-1744}
+[14Aug2025 15:07:43.820] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1546, y=-16, z=-2036}
+[14Aug2025 15:07:48.489] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1431, y=-24, z=-2142}
+[14Aug2025 15:07:50.998] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1572, y=-3, z=-1926}
+[14Aug2025 15:07:55.125] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1585, y=-44, z=-2122}
+[14Aug2025 15:07:55.126] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1586, y=-52, z=-2099}
+[14Aug2025 15:07:55.189] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1594, y=-43, z=-1891}
