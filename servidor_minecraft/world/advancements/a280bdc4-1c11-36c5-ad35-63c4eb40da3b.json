@@ -1822,6 +1822,12 @@
     },
     "done": true
   },
+  "silentgear:blueprint_paper": {
+    "criteria": {
+      "get_item": "2025-08-14 10:39:55 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-08-14 10:01:47 +0000"
@@ -1953,6 +1959,12 @@
       "has_the_recipe": "2025-08-14 10:01:47 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-08-14 10:44:08 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_yellow": {
     "criteria": {

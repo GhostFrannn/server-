@@ -4249,3 +4249,41 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Aug2025 10:12:43.618] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [14Aug2025 10:14:43.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Gave 1 [Water Bucket] to Frannn]
 [14Aug2025 10:15:34.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [The Secrets of Enchanting]
+[14Aug2025 10:21:29.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1043, y=71, z=-99} BlockPos{x=1043, y=70, z=-98}
+[14Aug2025 10:36:43.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
+[14Aug2025 10:36:51.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[14Aug2025 10:39:55.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frannn has made the advancement [Construction Paper]
+[14Aug2025 10:42:28.816] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1937, y=6, z=351}
+[14Aug2025 10:44:35.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:35.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:35.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:35.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:35.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:35.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:35.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:36.030] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:36.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:36.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:36.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:36.236] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:36.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:36.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:36.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:36.423] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:36.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:36.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:36.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:36.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:44:36.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1030, y=70, z=-121} BlockPos{x=1029, y=70, z=-121}
+[14Aug2025 10:47:10.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1060, y=71, z=-69} BlockPos{x=1061, y=70, z=-69}
+[14Aug2025 10:47:10.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1060, y=71, z=-69} BlockPos{x=1061, y=70, z=-69}
+[14Aug2025 10:54:34.739] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 10:54:34.740] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 10:54:34.743] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 10:54:34.744] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 10:54:34.744] [Server thread/WARN] [corail_dt/]: recipe overlaps minecraft:custom
+[14Aug2025 10:56:56.071] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VampireBaronEntity['Vampire Baron Level 2'/18302, l='ServerLevel[world]', x=939.53, y=70.00, z=-130.45] died: Vampire Baron Level 2 was slain by Vampire Baron Level 2
+[14Aug2025 10:57:42.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
+[14Aug2025 10:59:00.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
+[14Aug2025 11:00:20.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Creative Mode]
+[14Aug2025 11:01:03.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Frannn: Set own game mode to Survival Mode]
