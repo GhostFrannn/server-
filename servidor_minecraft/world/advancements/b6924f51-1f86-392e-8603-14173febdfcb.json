@@ -1782,6 +1782,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-08-14 12:49:44 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_the_recipe": "2025-08-14 11:45:35 +0000"
